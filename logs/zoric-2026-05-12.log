@@ -1,0 +1,226 @@
+[INFO][2026/05/12][11:29:34][SERVER_START] ZORIC Backend V2.0 started on port 5000
+[INFO][2026/05/12][11:29:34][SERVER_START] ZORIC V2.0 — DECODE. EXECUTE. COMMAND.
+[INFO][2026/05/12][11:29:36][DB_CONNECT] MongoDB Atlas Connected: ac-d5b1g54-shard-00-02.qeo8pgy.mongodb.net
+[INFO][2026/05/12][11:29:36][SUCCESS_INIT] ZORIC V2.0 initialized!
+[INFO][2026/05/12][11:30:05][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/12][11:30:05][SOCKET_CONNECT] Socket connected: z9Ve1Bhu1kn0ArQyAAAC
+[INFO][2026/05/12][11:30:05][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/12][11:30:05][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/12][11:30:05][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/12][11:30:05][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/12][11:30:05][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/12][11:30:05][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/12][11:30:05][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/12][11:30:05][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/12][11:30:06][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/12][11:30:06][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/12][11:30:06][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/12][11:30:06][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/12][11:30:06][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/12][11:30:08][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/12][11:30:08][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/12][11:30:09][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[ERROR][2026/05/12][11:30:09][GROQ_ERROR] Groq error [llama-3.1-8b-instant]: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[ERROR][2026/05/12][11:30:09][CHAT_ERROR] Chat error: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[ERROR][2026/05/12][11:30:09][GROQ_ERROR] Groq error [llama-3.1-8b-instant]: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[ERROR][2026/05/12][11:30:09][CHAT_ERROR] Chat error: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[ERROR][2026/05/12][11:30:09][GROQ_ERROR] Groq error [llama-3.1-8b-instant]: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[ERROR][2026/05/12][11:30:09][CHAT_ERROR] Chat error: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[INFO][2026/05/12][11:30:09][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[ERROR][2026/05/12][11:30:10][GROQ_ERROR] Groq error [llama-3.1-8b-instant]: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[ERROR][2026/05/12][11:30:10][CHAT_ERROR] Chat error: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[INFO][2026/05/12][11:31:35][CHAT_MSG] User message: play Dhorimana title song...
+[INFO][2026/05/12][11:31:35][YT_SEARCH] YouTube search: Dhorimana title
+[INFO][2026/05/12][11:31:39][SUCCESS_YT_SEARCH] YouTube found 4 results
+[INFO][2026/05/12][11:31:39][VOICE_TTS] TTS request received
+[INFO][2026/05/12][11:31:39][VOICE_GEN] msEdge TTS initiated
+[INFO][2026/05/12][11:31:41][SUCCESS_VOICE_GEN] msEdge TTS audio ready
+[INFO][2026/05/12][11:32:14][CHAT_MSG] User message: play Dhurandhar title track song...
+[INFO][2026/05/12][11:32:14][YT_SEARCH] YouTube search: Dhurandhar title
+[INFO][2026/05/12][11:32:17][SUCCESS_YT_SEARCH] YouTube found 5 results
+[INFO][2026/05/12][11:32:18][VOICE_TTS] TTS request received
+[INFO][2026/05/12][11:32:18][VOICE_GEN] msEdge TTS initiated
+[INFO][2026/05/12][11:32:20][SUCCESS_VOICE_GEN] msEdge TTS audio ready
+[INFO][2026/05/12][11:35:17][CHAT_MSG] User message: Nirahua song from Dhurandhar...
+[INFO][2026/05/12][11:35:17][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/12][11:35:17][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[ERROR][2026/05/12][11:35:18][GROQ_ERROR] Groq error [llama-3.1-8b-instant]: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[ERROR][2026/05/12][11:35:18][CHAT_ERROR] Chat error: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[INFO][2026/05/12][11:35:31][CHAT_MSG] User message: play Gehra Hua song from Dhurandhar...
+[INFO][2026/05/12][11:35:31][YT_SEARCH] YouTube search: Gehra Hua   Dhurandhar
+[INFO][2026/05/12][11:35:34][SUCCESS_YT_SEARCH] YouTube found 5 results
+[INFO][2026/05/12][11:35:34][VOICE_TTS] TTS request received
+[INFO][2026/05/12][11:35:34][VOICE_GEN] msEdge TTS initiated
+[INFO][2026/05/12][11:35:36][SUCCESS_VOICE_GEN] msEdge TTS audio ready
+[INFO][2026/05/12][17:06:46][SERVER_START] ZORIC Backend V2.0 started on port 5000
+[INFO][2026/05/12][17:06:46][SERVER_START] ZORIC V2.0 — DECODE. EXECUTE. COMMAND.
+[INFO][2026/05/12][17:06:47][DB_CONNECT] MongoDB Atlas Connected: ac-d5b1g54-shard-00-01.qeo8pgy.mongodb.net
+[INFO][2026/05/12][17:06:47][SUCCESS_INIT] ZORIC V2.0 initialized!
+[INFO][2026/05/12][17:07:14][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/12][17:07:14][SOCKET_CONNECT] Socket connected: ffAHv82i_9IpEFCTAAAC
+[INFO][2026/05/12][17:07:14][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/12][17:07:15][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/12][17:07:15][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/12][17:07:15][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/12][17:07:15][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/12][17:07:15][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/12][17:07:15][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/12][17:07:15][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/12][17:07:15][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/12][17:07:15][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/12][17:07:15][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/12][17:07:16][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/12][17:07:16][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/12][17:07:17][SOCKET_DISCONNECT] Socket disconnected: ffAHv82i_9IpEFCTAAAC
+[INFO][2026/05/12][17:07:18][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/12][17:07:18][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/12][17:07:19][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/12][17:07:19][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[ERROR][2026/05/12][17:07:19][GROQ_ERROR] Groq error [llama-3.1-8b-instant]: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[ERROR][2026/05/12][17:07:19][CHAT_ERROR] Chat error: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[ERROR][2026/05/12][17:07:19][GROQ_ERROR] Groq error [llama-3.1-8b-instant]: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[ERROR][2026/05/12][17:07:19][CHAT_ERROR] Chat error: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[ERROR][2026/05/12][17:07:19][GROQ_ERROR] Groq error [llama-3.1-8b-instant]: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[ERROR][2026/05/12][17:07:19][CHAT_ERROR] Chat error: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[ERROR][2026/05/12][17:07:19][GROQ_ERROR] Groq error [llama-3.1-8b-instant]: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[ERROR][2026/05/12][17:07:19][CHAT_ERROR] Chat error: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[INFO][2026/05/12][17:07:23][SOCKET_CONNECT] Socket connected: I5Yjf_lVhsKnbpi_AAAF
+[INFO][2026/05/12][17:07:23][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/12][17:07:23][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/12][17:07:23][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/12][17:07:23][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/12][17:07:23][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/12][17:07:23][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/12][17:07:23][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/12][17:07:23][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/12][17:07:23][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/12][17:07:23][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/12][17:07:23][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/12][17:07:23][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/12][17:07:23][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/12][17:07:23][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/12][17:07:25][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/12][17:07:25][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[ERROR][2026/05/12][17:07:25][GROQ_ERROR] Groq error [llama-3.1-8b-instant]: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[ERROR][2026/05/12][17:07:25][CHAT_ERROR] Chat error: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[ERROR][2026/05/12][17:07:25][GROQ_ERROR] Groq error [llama-3.1-8b-instant]: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[ERROR][2026/05/12][17:07:25][CHAT_ERROR] Chat error: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[INFO][2026/05/12][17:07:26][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[ERROR][2026/05/12][17:07:26][GROQ_ERROR] Groq error [llama-3.1-8b-instant]: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[ERROR][2026/05/12][17:07:26][CHAT_ERROR] Chat error: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[INFO][2026/05/12][17:07:28][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[ERROR][2026/05/12][17:07:28][GROQ_ERROR] Groq error [llama-3.1-8b-instant]: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[ERROR][2026/05/12][17:07:28][CHAT_ERROR] Chat error: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[INFO][2026/05/12][17:07:32][YT_SEARCH] YouTube search: dhurandar 
+[INFO][2026/05/12][17:07:33][YT_SEARCH] YouTube search: dhurandar
+[INFO][2026/05/12][17:07:34][SUCCESS_YT_SEARCH] YouTube found 6 results
+[INFO][2026/05/12][17:07:35][SUCCESS_YT_SEARCH] YouTube found 6 results
+[INFO][2026/05/12][17:08:08][PLAYLIST] Playlist created: ninja
+[INFO][2026/05/12][17:08:18][PLAYLIST] Song added: Shararat | Dhurandhar | Ranveer, Aditya Dhar, Shashwat, Jasmine, Madhubanti, Ayesha, Krystle → ninja
+[INFO][2026/05/12][17:08:20][PLAYLIST] Song added: Gehra Hua | Dhurandhar | Ranveer Singh, Sara Arjun, Shashwat Sachdev, Arijit Singh, Irshad Kamil → ninja
+[INFO][2026/05/12][17:08:22][PLAYLIST] Song added: Dhurandhar the Revenge (Full Album): Ranveer Singh | Shashwat Sachdev | Aditya Dhar | Bhushan Kumar → ninja
+[INFO][2026/05/12][17:08:24][PLAYLIST] Song added: Ishq Jalakar - Karvaan | Dhurandhar | Ranveer Singh, Shashwat Sachdev, Aditya Dhar → ninja
+[INFO][2026/05/12][17:08:26][PLAYLIST] Song added: Dhurandhar - Title Track (Audio) | Ranveer Singh, Shashwat Sachdev, Hanumankind, Jasmine Sandlas → ninja
+[INFO][2026/05/12][17:08:28][PLAYLIST] Song added: Run Down The City - Monica | Dhurandhar | Ranveer, Sara, Shashwat, Reble, Asha Bhosle, R.D. Burman → ninja
+[INFO][2026/05/12][17:08:39][YT_SEARCH] YouTube search: tu hai kaha
+[INFO][2026/05/12][17:08:41][SUCCESS_YT_SEARCH] YouTube found 6 results
+[INFO][2026/05/12][17:08:42][PLAYLIST] Song added: Tu Hai Kahan by AUR | تو ہے کہاں (Official Music Video) → ninja
+[INFO][2026/05/12][17:08:51][YT_SEARCH] YouTube search: Pal pal
+[INFO][2026/05/12][17:08:54][SUCCESS_YT_SEARCH] YouTube found 6 results
+[INFO][2026/05/12][17:08:56][PLAYLIST] Song added: Pal Pal Lyrics - Afusic prod. by AliSoomroMusic → ninja
+[INFO][2026/05/12][17:09:02][PLAYLIST] Song added: Pal Pal Mashup | Afusic x Talha Anjum Ft. Talwiinder | Naresh Parmar → ninja
+[INFO][2026/05/12][17:09:09][YT_SEARCH] YouTube search: Jaseen
+[INFO][2026/05/12][17:09:10][SUCCESS_YT_SEARCH] YouTube found 6 results
+[INFO][2026/05/12][17:09:13][YT_SEARCH] YouTube search: Haseen
+[INFO][2026/05/12][17:09:14][SUCCESS_YT_SEARCH] YouTube found 6 results
+[INFO][2026/05/12][17:09:16][PLAYLIST] Song added: HASEEN - TALWIINDER, NDS, RIPPY (Official Visualizer) → ninja
+[INFO][2026/05/12][17:09:24][YT_SEARCH] YouTube search: Lutt 
+[INFO][2026/05/12][17:09:25][YT_SEARCH] YouTube search: Lut
+[INFO][2026/05/12][17:09:26][SUCCESS_YT_SEARCH] YouTube found 6 results
+[INFO][2026/05/12][17:09:27][SUCCESS_YT_SEARCH] YouTube found 6 results
+[INFO][2026/05/12][17:09:28][YT_SEARCH] YouTube search: Lutt le gaya
+[INFO][2026/05/12][17:09:29][SUCCESS_YT_SEARCH] YouTube found 6 results
+[INFO][2026/05/12][17:09:29][PLAYLIST] Song added: Lutt Le Gaya - Lyrical | Dhurandhar | Ranveer Singh, Akshaye Khanna, Shashwat Sachdev, Simran C → ninja
+[INFO][2026/05/12][17:09:34][YT_SEARCH] YouTube search: Fa9lah
+[INFO][2026/05/12][17:09:38][SUCCESS_YT_SEARCH] YouTube found 6 results
+[INFO][2026/05/12][17:09:40][PLAYLIST] Song added: Fa9la fipperrachi ( proud by otlaw) official video  → ninja
+[INFO][2026/05/12][17:09:48][YT_SEARCH] YouTube search: Sher e baloch
+[INFO][2026/05/12][17:09:50][SUCCESS_YT_SEARCH] YouTube found 6 results
+[INFO][2026/05/12][17:09:56][PLAYLIST] Song added: Sher-e-Baloch full original song → ninja
+[INFO][2026/05/12][17:10:16][CHAT_MSG] User message: Bhai ninja playlist chala...
+[INFO][2026/05/12][17:10:16][YT_SEARCH] YouTube search: Bhai ninja playlist chala
+[INFO][2026/05/12][17:10:17][SUCCESS_YT_SEARCH] YouTube found 5 results
+[INFO][2026/05/12][17:10:18][VOICE_TTS] TTS request received
+[INFO][2026/05/12][17:10:18][VOICE_GEN] msEdge TTS initiated
+[INFO][2026/05/12][17:10:20][SUCCESS_VOICE_GEN] msEdge TTS audio ready
+[INFO][2026/05/12][17:11:41][CHAT_MSG] User message: ninja...
+[INFO][2026/05/12][17:11:42][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/12][17:11:42][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[ERROR][2026/05/12][17:11:42][GROQ_ERROR] Groq error [llama-3.1-8b-instant]: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[ERROR][2026/05/12][17:11:42][CHAT_ERROR] Chat error: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[INFO][2026/05/12][17:12:05][CHAT_MSG] User message: play tu hai kaha...
+[INFO][2026/05/12][17:12:05][YT_SEARCH] YouTube search: tu hai kaha
+[INFO][2026/05/12][17:12:10][SUCCESS_YT_SEARCH] YouTube found 5 results
+[INFO][2026/05/12][17:12:10][VOICE_TTS] TTS request received
+[INFO][2026/05/12][17:12:10][VOICE_GEN] msEdge TTS initiated
+[INFO][2026/05/12][17:12:12][SUCCESS_VOICE_GEN] msEdge TTS audio ready
+[INFO][2026/05/12][17:15:29][CHAT_MSG] User message: Play lutt le gaya...
+[INFO][2026/05/12][17:15:29][YT_SEARCH] YouTube search: lutt le gaya
+[INFO][2026/05/12][17:15:32][SUCCESS_YT_SEARCH] YouTube found 5 results
+[INFO][2026/05/12][17:15:32][VOICE_TTS] TTS request received
+[INFO][2026/05/12][17:15:32][VOICE_GEN] msEdge TTS initiated
+[INFO][2026/05/12][17:15:34][SUCCESS_VOICE_GEN] msEdge TTS audio ready
+[INFO][2026/05/12][17:22:16][CHAT_MSG] User message: Ninja playlist chala...
+[INFO][2026/05/12][17:22:16][YT_SEARCH] YouTube search: Ninja playlist chala
+[INFO][2026/05/12][17:22:18][SUCCESS_YT_SEARCH] YouTube found 5 results
+[INFO][2026/05/12][17:22:19][VOICE_TTS] TTS request received
+[INFO][2026/05/12][17:22:19][VOICE_GEN] msEdge TTS initiated
+[INFO][2026/05/12][17:22:21][SUCCESS_VOICE_GEN] msEdge TTS audio ready
+[INFO][2026/05/12][17:22:33][CHAT_MSG] User message: Ninja playlist...
+[INFO][2026/05/12][17:22:33][YT_SEARCH] YouTube search: Ninja playlist
+[INFO][2026/05/12][17:22:37][SUCCESS_YT_SEARCH] YouTube found 5 results
+[INFO][2026/05/12][17:22:38][VOICE_TTS] TTS request received
+[INFO][2026/05/12][17:22:38][VOICE_GEN] msEdge TTS initiated
+[INFO][2026/05/12][17:22:42][SUCCESS_VOICE_GEN] msEdge TTS audio ready
+[INFO][2026/05/12][17:23:13][CHAT_MSG] User message: Revenge title track...
+[INFO][2026/05/12][17:23:14][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/12][17:23:14][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[ERROR][2026/05/12][17:23:14][GROQ_ERROR] Groq error [llama-3.1-8b-instant]: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[ERROR][2026/05/12][17:23:14][CHAT_ERROR] Chat error: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[INFO][2026/05/12][17:23:23][CHAT_MSG] User message: play Dhurandhar Revenge title track...
+[INFO][2026/05/12][17:23:24][YT_SEARCH] YouTube search: Dhurandhar Revenge title
+[INFO][2026/05/12][17:23:27][SUCCESS_YT_SEARCH] YouTube found 5 results
+[INFO][2026/05/12][17:23:27][VOICE_TTS] TTS request received
+[INFO][2026/05/12][17:23:27][VOICE_GEN] msEdge TTS initiated
+[INFO][2026/05/12][17:23:29][SUCCESS_VOICE_GEN] msEdge TTS audio ready
+[INFO][2026/05/12][17:23:55][CHAT_MSG] User message: play Pal Pal...
+[INFO][2026/05/12][17:23:55][YT_SEARCH] YouTube search: Pal Pal
+[INFO][2026/05/12][17:24:00][SUCCESS_YT_SEARCH] YouTube found 5 results
+[INFO][2026/05/12][17:24:00][VOICE_TTS] TTS request received
+[INFO][2026/05/12][17:24:00][VOICE_GEN] msEdge TTS initiated
+[INFO][2026/05/12][17:24:02][SUCCESS_VOICE_GEN] msEdge TTS audio ready
+[INFO][2026/05/12][17:24:16][CHAT_MSG] User message: play Haseen...
+[INFO][2026/05/12][17:24:16][YT_SEARCH] YouTube search: Haseen
+[INFO][2026/05/12][17:24:18][SUCCESS_YT_SEARCH] YouTube found 5 results
+[INFO][2026/05/12][17:24:18][VOICE_TTS] TTS request received
+[INFO][2026/05/12][17:24:18][VOICE_GEN] msEdge TTS initiated
+[INFO][2026/05/12][17:24:20][SUCCESS_VOICE_GEN] msEdge TTS audio ready
+[INFO][2026/05/12][17:27:21][CHAT_MSG] User message: play Shararat...
+[INFO][2026/05/12][17:27:21][YT_SEARCH] YouTube search: Shararat
+[INFO][2026/05/12][17:27:24][SUCCESS_YT_SEARCH] YouTube found 5 results
+[INFO][2026/05/12][17:27:24][VOICE_TTS] TTS request received
+[INFO][2026/05/12][17:27:24][VOICE_GEN] msEdge TTS initiated
+[INFO][2026/05/12][17:27:26][SUCCESS_VOICE_GEN] msEdge TTS audio ready
+[INFO][2026/05/12][17:33:27][CHAT_MSG] User message: play Tu Hai Kahan...
+[INFO][2026/05/12][17:33:27][YT_SEARCH] YouTube search: Tu Hai Kahan
+[INFO][2026/05/12][17:33:29][SUCCESS_YT_SEARCH] YouTube found 5 results
+[INFO][2026/05/12][17:33:30][VOICE_TTS] TTS request received
+[INFO][2026/05/12][17:33:30][VOICE_GEN] msEdge TTS initiated
+[INFO][2026/05/12][17:33:31][SUCCESS_VOICE_GEN] msEdge TTS audio ready
+[INFO][2026/05/12][17:34:10][CHAT_MSG] User message: Yeh khatam ho toh lutt le gaya chaladena...
+[INFO][2026/05/12][17:34:10][YT_SEARCH] YouTube search: Yeh khatam ho toh lutt le gaya chaladena
+[INFO][2026/05/12][17:34:12][SUCCESS_YT_SEARCH] YouTube found 5 results
+[INFO][2026/05/12][17:34:12][VOICE_TTS] TTS request received
+[INFO][2026/05/12][17:34:12][VOICE_GEN] msEdge TTS initiated
+[INFO][2026/05/12][17:34:13][SUCCESS_VOICE_GEN] msEdge TTS audio ready
+[INFO][2026/05/12][17:36:48][SOCKET_DISCONNECT] Socket disconnected: I5Yjf_lVhsKnbpi_AAAF

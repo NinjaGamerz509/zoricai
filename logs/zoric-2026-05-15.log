@@ -1,0 +1,354 @@
+[INFO][2026/05/15][07:12:36][SERVER_START] ZORIC Backend V2.0 started on port 5000
+[INFO][2026/05/15][07:12:36][SERVER_START] ZORIC V2.0 — DECODE. EXECUTE. COMMAND.
+[INFO][2026/05/15][07:12:39][DB_CONNECT] MongoDB Atlas Connected: ac-d5b1g54-shard-00-00.qeo8pgy.mongodb.net
+[INFO][2026/05/15][07:12:41][SUCCESS_INIT] ZORIC V2.0 initialized!
+[INFO][2026/05/15][07:13:16][SOCKET_CONNECT] Socket connected: fX5Hvd7mbiP3wcn2AAAC
+[INFO][2026/05/15][07:13:17][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/15][07:13:17][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/15][07:13:17][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][07:13:17][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/15][07:13:22][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/15][07:13:23][SOCKET_DISCONNECT] Socket disconnected: fX5Hvd7mbiP3wcn2AAAC
+[INFO][2026/05/15][07:13:23][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/15][07:13:23][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/15][07:13:24][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/15][07:13:24][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/15][07:13:24][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/15][07:13:24][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/15][07:13:24][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/15][07:13:24][SOCKET_CONNECT] Socket connected: xUAUl7XBUgoo0dH0AAAF
+[INFO][2026/05/15][07:13:24][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/15][07:13:24][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/15][07:13:24][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/15][07:13:24][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][07:13:24][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/15][07:13:29][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/15][07:13:29][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/15][07:13:29][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/15][07:13:29][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/15][07:13:30][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/15][07:13:31][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/15][07:13:31][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/15][07:13:31][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/15][07:13:32][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][07:13:32][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/15][07:13:33][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/15][07:13:33][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/15][07:13:33][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/15][07:13:33][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/15][07:13:33][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/15][07:13:33][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/15][07:13:33][SOCKET_DISCONNECT] Socket disconnected: xUAUl7XBUgoo0dH0AAAF
+[INFO][2026/05/15][07:13:33][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[ERROR][2026/05/15][07:13:33][GROQ_ERROR] Groq error [llama-3.1-8b-instant]: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[ERROR][2026/05/15][07:13:33][CHAT_ERROR] Chat error: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[ERROR][2026/05/15][07:13:34][GROQ_ERROR] Groq error [llama-3.1-8b-instant]: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[ERROR][2026/05/15][07:13:34][CHAT_ERROR] Chat error: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[INFO][2026/05/15][07:13:34][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][07:13:35][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/15][07:13:35][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/15][07:13:37][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/15][07:13:37][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[ERROR][2026/05/15][07:13:38][GROQ_ERROR] Groq error [llama-3.1-8b-instant]: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[ERROR][2026/05/15][07:13:38][CHAT_ERROR] Chat error: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[ERROR][2026/05/15][07:13:38][GROQ_ERROR] Groq error [llama-3.1-8b-instant]: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[ERROR][2026/05/15][07:13:38][CHAT_ERROR] Chat error: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[ERROR][2026/05/15][07:13:38][GROQ_ERROR] Groq error [llama-3.1-8b-instant]: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[ERROR][2026/05/15][07:13:38][CHAT_ERROR] Chat error: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[ERROR][2026/05/15][07:13:38][GROQ_ERROR] Groq error [llama-3.1-8b-instant]: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[ERROR][2026/05/15][07:13:38][CHAT_ERROR] Chat error: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[ERROR][2026/05/15][07:13:38][GROQ_ERROR] Groq error [llama-3.1-8b-instant]: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[ERROR][2026/05/15][07:13:38][CHAT_ERROR] Chat error: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[INFO][2026/05/15][07:13:38][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][07:13:40][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[ERROR][2026/05/15][07:13:40][GROQ_ERROR] Groq error [llama-3.1-8b-instant]: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[ERROR][2026/05/15][07:13:40][CHAT_ERROR] Chat error: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[INFO][2026/05/15][07:13:48][USER_LOGIN] User logged in: zoric@gmail.com
+[INFO][2026/05/15][07:13:49][SOCKET_CONNECT] Socket connected: SM1meCHPo40U33wcAAAI
+[INFO][2026/05/15][07:13:49][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/15][07:13:49][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/15][07:13:49][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/15][07:13:50][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/15][07:13:50][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/15][07:13:50][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/15][07:13:50][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/15][07:13:50][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/15][07:13:50][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/15][07:13:50][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/15][07:13:50][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/15][07:13:50][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/15][07:13:50][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][07:13:50][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/15][07:13:50][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/15][07:13:52][SOCKET_DISCONNECT] Socket disconnected: SM1meCHPo40U33wcAAAI
+[INFO][2026/05/15][07:13:53][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/15][07:13:53][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[ERROR][2026/05/15][07:13:54][GROQ_ERROR] Groq error [llama-3.1-8b-instant]: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[ERROR][2026/05/15][07:13:54][CHAT_ERROR] Chat error: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[INFO][2026/05/15][07:13:54][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[ERROR][2026/05/15][07:13:54][GROQ_ERROR] Groq error [llama-3.1-8b-instant]: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[ERROR][2026/05/15][07:13:54][CHAT_ERROR] Chat error: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[INFO][2026/05/15][07:13:54][NETWORK] Network scan: 192.0.0.0/24
+[ERROR][2026/05/15][07:13:54][GROQ_ERROR] Groq error [llama-3.1-8b-instant]: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[ERROR][2026/05/15][07:13:54][CHAT_ERROR] Chat error: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[INFO][2026/05/15][07:13:54][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[ERROR][2026/05/15][07:13:54][GROQ_ERROR] Groq error [llama-3.1-8b-instant]: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[ERROR][2026/05/15][07:13:54][CHAT_ERROR] Chat error: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[INFO][2026/05/15][07:13:58][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][07:14:13][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][07:14:15][SENTINEL] Phone lookup: 9428436586
+[INFO][2026/05/15][07:14:33][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][07:17:50][SERVER_START] ZORIC Backend V2.0 started on port 5000
+[INFO][2026/05/15][07:17:50][SERVER_START] ZORIC V2.0 — DECODE. EXECUTE. COMMAND.
+[INFO][2026/05/15][07:17:51][DB_CONNECT] MongoDB Atlas Connected: ac-d5b1g54-shard-00-01.qeo8pgy.mongodb.net
+[INFO][2026/05/15][07:17:52][SUCCESS_INIT] ZORIC V2.0 initialized!
+[INFO][2026/05/15][07:17:57][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][07:18:01][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][07:18:01][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][07:18:21][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][07:18:41][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][07:19:01][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][07:19:17][SENTINEL] IP track: 127.0.0.1
+[INFO][2026/05/15][07:19:21][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][07:19:32][SENTINEL] IP track: 91.1.2
+[INFO][2026/05/15][07:19:41][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][07:19:42][SENTINEL] IP track: 91.1.2.32.1
+[INFO][2026/05/15][07:20:01][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][07:20:21][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][07:20:41][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][07:23:24][SERVER_START] ZORIC Backend V2.0 started on port 5000
+[INFO][2026/05/15][07:23:24][SERVER_START] ZORIC V2.0 — DECODE. EXECUTE. COMMAND.
+[INFO][2026/05/15][07:23:27][DB_CONNECT] MongoDB Atlas Connected: ac-d5b1g54-shard-00-01.qeo8pgy.mongodb.net
+[INFO][2026/05/15][07:23:28][SUCCESS_INIT] ZORIC V2.0 initialized!
+[INFO][2026/05/15][07:23:29][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][07:23:32][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][07:23:36][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][07:23:51][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][07:24:11][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][07:24:31][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][07:24:51][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][07:40:01][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][07:40:03][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][07:40:07][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][07:40:24][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][07:40:44][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][07:41:03][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][14:00:10][SERVER_START] ZORIC Backend V2.0 started on port 5000
+[INFO][2026/05/15][14:00:10][SERVER_START] ZORIC V2.0 — DECODE. EXECUTE. COMMAND.
+[INFO][2026/05/15][14:00:11][DB_CONNECT] MongoDB Atlas Connected: ac-d5b1g54-shard-00-00.qeo8pgy.mongodb.net
+[INFO][2026/05/15][14:00:12][SUCCESS_INIT] ZORIC V2.0 initialized!
+[INFO][2026/05/15][14:00:34][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][14:00:38][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/15][14:00:38][SOCKET_CONNECT] Socket connected: kGxTcU80Hqlqj4qlAAAC
+[INFO][2026/05/15][14:00:38][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/15][14:00:38][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/15][14:00:39][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/15][14:00:39][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/15][14:00:39][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/15][14:00:39][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/15][14:00:39][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/15][14:00:39][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/15][14:00:39][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/15][14:00:39][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/15][14:00:39][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/15][14:00:39][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/15][14:00:39][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/15][14:00:39][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][14:00:42][AI_REQUEST] Groq API call: llama-3.1-8b-instant [neutral/hinglish]
+[INFO][2026/05/15][14:00:42][AI_REQUEST] Groq API call: llama-3.1-8b-instant [neutral/hinglish]
+[ERROR][2026/05/15][14:00:43][GROQ_ERROR] Groq error [llama-3.1-8b-instant]: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[ERROR][2026/05/15][14:00:43][CHAT_ERROR] Chat error: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[INFO][2026/05/15][14:00:43][NETWORK] Network scan: 192.0.0.0/24
+[ERROR][2026/05/15][14:00:43][GROQ_ERROR] Groq error [llama-3.1-8b-instant]: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[ERROR][2026/05/15][14:00:43][CHAT_ERROR] Chat error: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[INFO][2026/05/15][14:00:43][AI_REQUEST] Groq API call: llama-3.1-8b-instant [neutral/hinglish]
+[INFO][2026/05/15][14:00:43][AI_REQUEST] Groq API call: llama-3.1-8b-instant [neutral/hinglish]
+[ERROR][2026/05/15][14:00:43][GROQ_ERROR] Groq error [llama-3.1-8b-instant]: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[ERROR][2026/05/15][14:00:43][CHAT_ERROR] Chat error: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[INFO][2026/05/15][14:00:44][SOCKET_DISCONNECT] Socket disconnected: kGxTcU80Hqlqj4qlAAAC
+[ERROR][2026/05/15][14:00:46][GROQ_ERROR] Groq error [llama-3.1-8b-instant]: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[ERROR][2026/05/15][14:00:46][CHAT_ERROR] Chat error: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[INFO][2026/05/15][14:00:56][SOCKET_CONNECT] Socket connected: _jLIjpsBnNe9YR_JAAAF
+[INFO][2026/05/15][14:00:56][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/15][14:00:56][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/15][14:00:56][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/15][14:00:56][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/15][14:00:56][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][14:00:56][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/15][14:00:56][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/15][14:00:56][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/15][14:00:56][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/15][14:00:56][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/15][14:00:56][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/15][14:00:56][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/15][14:00:56][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/15][14:00:57][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/15][14:00:57][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/15][14:01:03][AI_REQUEST] Groq API call: llama-3.1-8b-instant [neutral/hinglish]
+[INFO][2026/05/15][14:01:03][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][14:01:03][AI_REQUEST] Groq API call: llama-3.1-8b-instant [neutral/hinglish]
+[ERROR][2026/05/15][14:01:03][GROQ_ERROR] Groq error [llama-3.1-8b-instant]: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[ERROR][2026/05/15][14:01:03][CHAT_ERROR] Chat error: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[INFO][2026/05/15][14:01:03][AI_REQUEST] Groq API call: llama-3.1-8b-instant [neutral/hinglish]
+[ERROR][2026/05/15][14:01:04][GROQ_ERROR] Groq error [llama-3.1-8b-instant]: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[ERROR][2026/05/15][14:01:04][CHAT_ERROR] Chat error: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[INFO][2026/05/15][14:01:04][AI_REQUEST] Groq API call: llama-3.1-8b-instant [neutral/hinglish]
+[ERROR][2026/05/15][14:01:04][GROQ_ERROR] Groq error [llama-3.1-8b-instant]: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[ERROR][2026/05/15][14:01:04][CHAT_ERROR] Chat error: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[INFO][2026/05/15][14:01:08][NETWORK] Network scan: 192.0.0.0/24
+[ERROR][2026/05/15][14:01:09][GROQ_ERROR] Groq error [llama-3.1-8b-instant]: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[ERROR][2026/05/15][14:01:09][CHAT_ERROR] Chat error: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[INFO][2026/05/15][14:01:11][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][14:01:16][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][14:01:26][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][14:01:36][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][14:01:53][CHAT_MSG] User message: what is your name...
+[INFO][2026/05/15][14:01:53][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/15][14:01:53][AI_REQUEST] Groq API call: llama-3.1-8b-instant [neutral/hinglish]
+[ERROR][2026/05/15][14:01:54][GROQ_ERROR] Groq error [llama-3.1-8b-instant]: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[ERROR][2026/05/15][14:01:54][CHAT_ERROR] Chat error: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[INFO][2026/05/15][14:01:56][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][14:01:59][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][14:02:07][CHAT_MSG] User message: What is your name...
+[INFO][2026/05/15][14:02:08][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/15][14:02:08][AI_REQUEST] Groq API call: llama-3.1-8b-instant [neutral/hinglish]
+[ERROR][2026/05/15][14:02:08][GROQ_ERROR] Groq error [llama-3.1-8b-instant]: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[ERROR][2026/05/15][14:02:08][CHAT_ERROR] Chat error: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[INFO][2026/05/15][14:02:16][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][14:02:16][CHAT_MSG] User message: Hu...
+[INFO][2026/05/15][14:02:16][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/15][14:02:16][AI_REQUEST] Groq API call: llama-3.1-8b-instant [neutral/hinglish]
+[ERROR][2026/05/15][14:02:17][GROQ_ERROR] Groq error [llama-3.1-8b-instant]: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[ERROR][2026/05/15][14:02:17][CHAT_ERROR] Chat error: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[INFO][2026/05/15][14:02:20][CHAT_MSG] User message: Hello...
+[INFO][2026/05/15][14:02:20][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/15][14:02:20][AI_REQUEST] Groq API call: llama-3.1-8b-instant [neutral/hinglish]
+[ERROR][2026/05/15][14:02:20][GROQ_ERROR] Groq error [llama-3.1-8b-instant]: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[ERROR][2026/05/15][14:02:20][CHAT_ERROR] Chat error: 401 {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+[INFO][2026/05/15][14:02:26][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][14:02:36][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][14:02:57][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][14:03:00][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][14:03:17][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][14:03:26][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][14:03:36][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][14:06:16][SERVER_START] ZORIC Backend V2.0 started on port 5000
+[INFO][2026/05/15][14:06:16][SERVER_START] ZORIC V2.0 — DECODE. EXECUTE. COMMAND.
+[INFO][2026/05/15][14:07:04][SERVER_START] ZORIC Backend V2.0 started on port 5000
+[INFO][2026/05/15][14:07:04][SERVER_START] ZORIC V2.0 — DECODE. EXECUTE. COMMAND.
+[INFO][2026/05/15][14:07:05][DB_CONNECT] MongoDB Atlas Connected: ac-d5b1g54-shard-00-02.qeo8pgy.mongodb.net
+[INFO][2026/05/15][14:07:06][SUCCESS_INIT] ZORIC V2.0 initialized!
+[INFO][2026/05/15][14:07:40][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][14:07:42][SOCKET_CONNECT] Socket connected: ANTlGlwSaPaK1eeyAAAB
+[INFO][2026/05/15][14:07:44][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][14:07:45][SOCKET_DISCONNECT] Socket disconnected: ANTlGlwSaPaK1eeyAAAB
+[INFO][2026/05/15][14:07:46][SOCKET_CONNECT] Socket connected: 8kW7Mw1dR6z8h8aIAAAE
+[INFO][2026/05/15][14:07:47][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/15][14:07:47][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/15][14:07:47][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][14:07:52][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/15][14:07:52][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/15][14:07:55][SOCKET_DISCONNECT] Socket disconnected: 8kW7Mw1dR6z8h8aIAAAE
+[INFO][2026/05/15][14:07:55][SOCKET_CONNECT] Socket connected: YSiMv-Kwzg45HWEYAAAH
+[INFO][2026/05/15][14:07:55][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/15][14:07:55][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/15][14:07:55][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/15][14:07:56][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][14:08:05][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/15][14:08:05][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/15][14:08:05][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/15][14:08:11][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][14:08:16][CHAT_MSG] User message: Hello...
+[INFO][2026/05/15][14:08:16][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/15][14:08:16][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/15][14:08:16][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/15][14:08:16][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/15][14:08:18][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/15][14:08:18][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/15][14:08:18][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/15][14:08:18][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/15][14:08:18][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/15][14:08:18][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/15][14:08:19][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/15][14:08:19][AI_REQUEST] Groq API call: llama-3.1-8b-instant [neutral/hinglish]
+[INFO][2026/05/15][14:08:20][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/15][14:08:20][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/15][14:08:20][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/15][14:08:20][AI_REQUEST] Groq API call: llama-3.1-8b-instant [neutral/hinglish]
+[INFO][2026/05/15][14:08:20][AI_REQUEST] Groq API call: llama-3.1-8b-instant [neutral/hinglish]
+[INFO][2026/05/15][14:08:21][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][14:08:21][SUCCESS_AI_RESPONSE] Groq response in 2171ms [llama-3.1-8b-instant]
+[INFO][2026/05/15][14:08:21][AI_REQUEST] Groq API call: llama-3.1-8b-instant [neutral/hinglish]
+[INFO][2026/05/15][14:08:25][SUCCESS_CHAT_DONE] Chat response in 2180ms
+[INFO][2026/05/15][14:08:26][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][14:08:26][CHAT_MSG] User message: Hi...
+[INFO][2026/05/15][14:08:26][VOICE_TTS] TTS request received
+[INFO][2026/05/15][14:08:26][VOICE_GEN] msEdge TTS initiated
+[INFO][2026/05/15][14:08:26][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][14:08:27][SUCCESS_AI_RESPONSE] Groq response in 5049ms [llama-3.1-8b-instant]
+[INFO][2026/05/15][14:08:27][SUCCESS_AGENT_DONE] Multi-agent complete
+[INFO][2026/05/15][14:08:27][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/15][14:08:27][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/15][14:08:27][AI_REQUEST] Groq API call: llama-3.1-8b-instant [neutral/hinglish]
+[INFO][2026/05/15][14:08:27][AI_REQUEST] Groq API call: llama-3.1-8b-instant [neutral/hinglish]
+[INFO][2026/05/15][14:08:28][AI_REQUEST] Groq API call: llama-3.1-8b-instant [neutral/hinglish]
+[INFO][2026/05/15][14:08:32][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][14:08:33][SUCCESS_AI_RESPONSE] Groq response in 5555ms [llama-3.1-8b-instant]
+[INFO][2026/05/15][14:08:33][SUCCESS_AGENT_DONE] Multi-agent complete
+[INFO][2026/05/15][14:08:36][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/15][14:08:36][AI_REQUEST] Groq API call: llama-3.1-8b-instant [neutral/hinglish]
+[INFO][2026/05/15][14:08:37][SUCCESS_CHAT_DONE] Chat response in 13356ms
+[INFO][2026/05/15][14:08:37][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][14:08:37][SUCCESS_AI_RESPONSE] Groq response in 628ms [llama-3.1-8b-instant]
+[INFO][2026/05/15][14:08:38][SUCCESS_CHAT_DONE] Chat response in 644ms
+[INFO][2026/05/15][14:08:38][VOICE_TTS] TTS request received
+[INFO][2026/05/15][14:08:38][VOICE_GEN] msEdge TTS initiated
+[INFO][2026/05/15][14:08:38][AI_REQUEST] Groq API call: llama-3.1-8b-instant [neutral/hinglish]
+[INFO][2026/05/15][14:08:40][SUCCESS_VOICE_GEN] msEdge TTS audio ready
+[WARN][2026/05/15][14:08:41][VOICE_WARN] msEdge failed: Edge TTS WebSocket error: read ECONNRESET (code=ECONNRESET) — gTTS fallback
+[INFO][2026/05/15][14:08:42][VOICE_FALLBACK] gTTS fallback initiated
+[INFO][2026/05/15][14:08:44][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/15][14:08:44][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/15][14:08:44][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/15][14:08:45][SUCCESS_VOICE_FALLBACK] gTTS fallback ready
+[INFO][2026/05/15][14:08:47][SUCCESS_CHAT_DONE] Chat response in 10165ms
+[INFO][2026/05/15][14:08:48][SUCCESS_AI_RESPONSE] Groq response in 27602ms [llama-3.1-8b-instant]
+[INFO][2026/05/15][14:08:48][SUCCESS_AGENT_DONE] Multi-agent complete
+[INFO][2026/05/15][14:08:48][AI_REQUEST] Groq API call: llama-3.1-8b-instant [neutral/hinglish]
+[INFO][2026/05/15][14:08:48][SUCCESS_CHAT_DONE] Chat response in 42485ms
+[WARN][2026/05/15][14:08:48][MODEL_FALLBACK] Rate limit on llama-3.1-8b-instant — switching
+[INFO][2026/05/15][14:08:48][AI_REQUEST] Groq API call: llama3-8b-8192 [neutral/hinglish]
+[ERROR][2026/05/15][14:08:49][GROQ_ERROR] Groq error [llama3-8b-8192]: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[ERROR][2026/05/15][14:08:49][CHAT_ERROR] Chat error: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[INFO][2026/05/15][14:08:55][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][14:08:59][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][14:09:02][SUCCESS_AI_RESPONSE] Groq response in 24093ms [llama-3.1-8b-instant]
+[INFO][2026/05/15][14:09:02][SUCCESS_AGENT_DONE] Multi-agent complete
+[WARN][2026/05/15][14:09:02][MODEL_FALLBACK] Rate limit on llama-3.1-8b-instant — switching
+[INFO][2026/05/15][14:09:02][AI_REQUEST] Groq API call: llama3-8b-8192 [neutral/hinglish]
+[ERROR][2026/05/15][14:09:03][GROQ_ERROR] Groq error [llama3-8b-8192]: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[ERROR][2026/05/15][14:09:03][CHAT_ERROR] Chat error: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[INFO][2026/05/15][14:09:03][SUCCESS_CHAT_DONE] Chat response in 35776ms
+[INFO][2026/05/15][14:09:15][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][14:09:16][SUCCESS_AI_RESPONSE] Groq response in 49563ms [llama-3.1-8b-instant]
+[INFO][2026/05/15][14:09:16][SUCCESS_AGENT_DONE] Multi-agent complete
+[INFO][2026/05/15][14:09:17][SUCCESS_CHAT_DONE] Chat response in 58393ms
+[WARN][2026/05/15][14:09:20][MODEL_FALLBACK] Rate limit on llama-3.1-8b-instant — switching
+[INFO][2026/05/15][14:09:20][AI_REQUEST] Groq API call: llama3-8b-8192 [neutral/hinglish]
+[ERROR][2026/05/15][14:09:20][GROQ_ERROR] Groq error [llama3-8b-8192]: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[ERROR][2026/05/15][14:09:20][CHAT_ERROR] Chat error: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[INFO][2026/05/15][14:09:25][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][14:09:36][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][14:09:55][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][14:09:59][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][14:10:25][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][14:11:10][SOCKET_DISCONNECT] Socket disconnected: YSiMv-Kwzg45HWEYAAAH
+[INFO][2026/05/15][14:17:21][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][14:17:22][SOCKET_CONNECT] Socket connected: RSMuyYYXlfxDkLlDAAAJ
+[INFO][2026/05/15][14:17:26][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][14:17:30][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][14:17:36][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][14:17:55][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][14:17:59][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][14:18:16][NETWORK] Network scan: 192.0.0.0/24
+[INFO][2026/05/15][14:18:57][SOCKET_DISCONNECT] Socket disconnected: RSMuyYYXlfxDkLlDAAAJ

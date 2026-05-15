@@ -1,0 +1,1522 @@
+[INFO][2026/05/07][08:56:59][SERVER_START] ZORIC Backend started on port 5000
+[INFO][2026/05/07][08:56:59][SERVER_START] ZORIC V4.2 — DECODE. EXECUTE. COMMAND.
+[INFO][2026/05/07][08:57:02][DB_CONNECT] MongoDB Atlas Connected: ac-d5b1g54-shard-00-02.qeo8pgy.mongodb.net
+[INFO][2026/05/07][10:00:15][SERVER_START] ZORIC Backend started on port 5000
+[INFO][2026/05/07][10:00:15][SERVER_START] ZORIC V4.2 — DECODE. EXECUTE. COMMAND.
+[INFO][2026/05/07][10:00:16][DB_CONNECT] MongoDB Atlas Connected: ac-d5b1g54-shard-00-00.qeo8pgy.mongodb.net
+[INFO][2026/05/07][10:01:12][SERVER_START] ZORIC Backend started on port 5000
+[INFO][2026/05/07][10:01:12][SERVER_START] ZORIC V4.2 — DECODE. EXECUTE. COMMAND.
+[INFO][2026/05/07][10:01:16][DB_CONNECT] MongoDB Atlas Connected: ac-d5b1g54-shard-00-02.qeo8pgy.mongodb.net
+[WARN][2026/05/07][10:02:32][LOGIN_FAIL] Failed login attempt: zoric@gmail.com
+[INFO][2026/05/07][10:02:52][SUCCESS_USER_REGISTER] User registered: zoric@gmail.com
+[INFO][2026/05/07][10:02:53][SOCKET_CONNECT] Socket connected: gKXr0ldxgxCm0Uk0AAAC
+[INFO][2026/05/07][10:02:53][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/07][10:02:53][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/07][10:02:54][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/07][10:02:54][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/07][10:02:54][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:02:54][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][10:02:55][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:02:55][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][10:02:55][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:02:55][AI_REQUEST] Groq API call initiated
+[ERROR][2026/05/07][10:02:55][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[INFO][2026/05/07][10:02:55][SUCCESS_AI_RESPONSE] Groq response received in 880ms
+[INFO][2026/05/07][10:02:55][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:02:55][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][10:02:55][SUCCESS_AI_RESPONSE] Groq response received in 995ms
+[INFO][2026/05/07][10:02:56][SUCCESS_CHAT_DONE] Chat response in 884ms
+[INFO][2026/05/07][10:02:56][SUCCESS_AI_RESPONSE] Groq response received in 1242ms
+[ERROR][2026/05/07][10:02:56][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[INFO][2026/05/07][10:02:56][SUCCESS_CHAT_DONE] Chat response in 997ms
+[INFO][2026/05/07][10:02:56][SUCCESS_CHAT_DONE] Chat response in 1246ms
+[ERROR][2026/05/07][10:02:56][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[INFO][2026/05/07][10:02:56][SUCCESS_AI_RESPONSE] Groq response received in 703ms
+[INFO][2026/05/07][10:02:56][SUCCESS_CHAT_DONE] Chat response in 704ms
+[ERROR][2026/05/07][10:02:57][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:02:58][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:02:59][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:03:03][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:03:04][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:03:12][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:03:13][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:03:14][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:03:14][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:03:18][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:03:19][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:03:23][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:03:24][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:03:28][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:03:29][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:03:33][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:03:34][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:03:38][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:03:39][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[INFO][2026/05/07][10:03:41][CHAT_MSG] User message: play Saiyaara song...
+[INFO][2026/05/07][10:03:41][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:03:41][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][10:03:42][SUCCESS_AI_RESPONSE] Groq response received in 708ms
+[INFO][2026/05/07][10:03:42][SUCCESS_CHAT_DONE] Chat response in 722ms
+[INFO][2026/05/07][10:03:42][VOICE_TTS] TTS request received
+[INFO][2026/05/07][10:03:42][VOICE_GEN] ElevenLabs TTS initiated
+[ERROR][2026/05/07][10:03:43][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:03:44][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:03:48][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:03:49][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:03:53][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:03:54][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:03:58][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:03:59][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:04:01][VOICE_ERROR] ElevenLabs error: Request failed with status code 401
+[ERROR][2026/05/07][10:04:01][VOICE_ERROR] TTS error: Request failed with status code 401
+[ERROR][2026/05/07][10:04:03][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:04:04][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:04:09][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:04:09][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:04:14][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:04:14][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:04:19][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:04:19][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:04:24][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:04:24][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:04:29][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:04:29][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:04:33][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:04:34][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:04:39][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[INFO][2026/05/07][10:04:39][CHAT_MSG] User message: top...
+[ERROR][2026/05/07][10:04:40][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[INFO][2026/05/07][10:04:41][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:04:41][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][10:04:42][SUCCESS_AI_RESPONSE] Groq response received in 901ms
+[INFO][2026/05/07][10:04:42][SUCCESS_CHAT_DONE] Chat response in 907ms
+[INFO][2026/05/07][10:04:42][VOICE_TTS] TTS request received
+[INFO][2026/05/07][10:04:42][VOICE_GEN] ElevenLabs TTS initiated
+[ERROR][2026/05/07][10:04:43][VOICE_ERROR] ElevenLabs error: Request failed with status code 401
+[ERROR][2026/05/07][10:04:43][VOICE_ERROR] TTS error: Request failed with status code 401
+[ERROR][2026/05/07][10:04:43][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:04:44][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:04:48][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:04:48][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:04:51][SPOTIFY_ERROR] Spotify resume error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:04:53][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:04:54][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:04:58][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:04:59][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:05:03][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:05:03][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[INFO][2026/05/07][10:05:06][SOCKET_DISCONNECT] Socket disconnected: gKXr0ldxgxCm0Uk0AAAC
+[INFO][2026/05/07][10:06:05][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/07][10:06:05][SOCKET_CONNECT] Socket connected: cH7I1AlgMqUF1KT3AAAF
+[INFO][2026/05/07][10:06:05][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/07][10:06:05][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/07][10:06:05][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/07][10:06:05][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:06:05][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][10:06:06][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:06:06][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][10:06:06][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:06:06][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][10:06:06][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:06:06][AI_REQUEST] Groq API call initiated
+[ERROR][2026/05/07][10:06:06][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[INFO][2026/05/07][10:06:06][SUCCESS_AI_RESPONSE] Groq response received in 780ms
+[INFO][2026/05/07][10:06:06][SUCCESS_AI_RESPONSE] Groq response received in 795ms
+[INFO][2026/05/07][10:06:06][SUCCESS_CHAT_DONE] Chat response in 782ms
+[INFO][2026/05/07][10:06:06][SUCCESS_AI_RESPONSE] Groq response received in 841ms
+[INFO][2026/05/07][10:06:06][SUCCESS_CHAT_DONE] Chat response in 796ms
+[INFO][2026/05/07][10:06:06][SUCCESS_AI_RESPONSE] Groq response received in 956ms
+[INFO][2026/05/07][10:06:06][SUCCESS_CHAT_DONE] Chat response in 842ms
+[ERROR][2026/05/07][10:06:06][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[INFO][2026/05/07][10:06:07][SUCCESS_CHAT_DONE] Chat response in 957ms
+[ERROR][2026/05/07][10:06:07][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:06:07][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:06:10][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:06:11][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:06:16][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:06:16][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:06:21][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:06:21][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:06:26][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:06:26][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:06:30][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:06:31][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:06:39][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:06:39][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:06:41][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:06:41][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:06:46][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:06:46][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:06:51][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:06:51][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:06:56][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:06:56][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:07:01][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:07:01][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:07:06][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:07:06][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[INFO][2026/05/07][10:07:11][USER_LOGIN] User logged in: zoric@gmail.com
+[ERROR][2026/05/07][10:07:11][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[INFO][2026/05/07][10:07:11][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/07][10:07:11][SOCKET_CONNECT] Socket connected: PrzZ1QG69EYOH3bDAAAI
+[INFO][2026/05/07][10:07:11][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/07][10:07:11][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/07][10:07:11][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/07][10:07:11][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:07:11][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][10:07:12][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:07:12][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][10:07:12][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:07:12][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][10:07:12][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:07:12][AI_REQUEST] Groq API call initiated
+[ERROR][2026/05/07][10:07:12][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[INFO][2026/05/07][10:07:12][SUCCESS_AI_RESPONSE] Groq response received in 720ms
+[INFO][2026/05/07][10:07:12][SUCCESS_AI_RESPONSE] Groq response received in 849ms
+[INFO][2026/05/07][10:07:12][SUCCESS_AI_RESPONSE] Groq response received in 854ms
+[INFO][2026/05/07][10:07:12][SUCCESS_CHAT_DONE] Chat response in 723ms
+[INFO][2026/05/07][10:07:12][SUCCESS_CHAT_DONE] Chat response in 850ms
+[INFO][2026/05/07][10:07:12][SUCCESS_AI_RESPONSE] Groq response received in 858ms
+[INFO][2026/05/07][10:07:12][SUCCESS_CHAT_DONE] Chat response in 855ms
+[ERROR][2026/05/07][10:07:13][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[INFO][2026/05/07][10:07:13][SUCCESS_CHAT_DONE] Chat response in 860ms
+[ERROR][2026/05/07][10:07:13][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:07:13][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:07:14][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:07:16][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:07:16][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:07:16][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:07:17][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:07:21][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:07:21][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:07:22][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:07:22][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:07:26][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:07:26][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:07:27][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:07:27][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:07:31][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:07:32][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:07:32][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:07:33][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[INFO][2026/05/07][10:07:56][SOCKET_DISCONNECT] Socket disconnected: PrzZ1QG69EYOH3bDAAAI
+[INFO][2026/05/07][10:08:05][SOCKET_DISCONNECT] Socket disconnected: cH7I1AlgMqUF1KT3AAAF
+[INFO][2026/05/07][10:22:59][SERVER_START] ZORIC Backend started on port 5000
+[INFO][2026/05/07][10:22:59][SERVER_START] ZORIC V4.2 — DECODE. EXECUTE. COMMAND.
+[INFO][2026/05/07][10:23:00][DB_CONNECT] MongoDB Atlas Connected: ac-d5b1g54-shard-00-00.qeo8pgy.mongodb.net
+[ERROR][2026/05/07][10:23:18][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[INFO][2026/05/07][10:23:21][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/07][10:23:21][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/07][10:23:21][SOCKET_CONNECT] Socket connected: 5Dtb6l3RQ2Szd3YpAAAC
+[INFO][2026/05/07][10:23:21][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/07][10:23:21][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:23:21][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][10:23:21][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:23:21][AI_REQUEST] Groq API call initiated
+[ERROR][2026/05/07][10:23:21][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[INFO][2026/05/07][10:23:21][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/07][10:23:22][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:23:22][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][10:23:22][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:23:22][AI_REQUEST] Groq API call initiated
+[ERROR][2026/05/07][10:23:22][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[INFO][2026/05/07][10:23:22][SUCCESS_AI_RESPONSE] Groq response received in 991ms
+[INFO][2026/05/07][10:23:22][SUCCESS_AI_RESPONSE] Groq response received in 1032ms
+[INFO][2026/05/07][10:23:22][SUCCESS_AI_RESPONSE] Groq response received in 671ms
+[INFO][2026/05/07][10:23:22][SUCCESS_CHAT_DONE] Chat response in 993ms
+[INFO][2026/05/07][10:23:22][SUCCESS_CHAT_DONE] Chat response in 1035ms
+[INFO][2026/05/07][10:23:22][SUCCESS_CHAT_DONE] Chat response in 674ms
+[INFO][2026/05/07][10:23:22][SUCCESS_AI_RESPONSE] Groq response received in 577ms
+[ERROR][2026/05/07][10:23:23][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[INFO][2026/05/07][10:23:23][SUCCESS_CHAT_DONE] Chat response in 582ms
+[ERROR][2026/05/07][10:23:23][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:23:26][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:23:27][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:23:31][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:23:32][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:23:37][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:23:37][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[INFO][2026/05/07][10:23:41][SOCKET_DISCONNECT] Socket disconnected: 5Dtb6l3RQ2Szd3YpAAAC
+[INFO][2026/05/07][10:23:54][USER_LOGIN] User logged in: zoric@gmail.com
+[INFO][2026/05/07][10:23:55][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/07][10:23:55][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/07][10:23:55][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/07][10:23:55][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/07][10:23:56][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:23:56][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][10:23:56][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:23:56][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][10:23:56][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:23:56][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][10:23:56][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:23:56][AI_REQUEST] Groq API call initiated
+[ERROR][2026/05/07][10:23:56][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[INFO][2026/05/07][10:23:56][SUCCESS_AI_RESPONSE] Groq response received in 501ms
+[INFO][2026/05/07][10:23:56][SUCCESS_CHAT_DONE] Chat response in 504ms
+[INFO][2026/05/07][10:23:56][SUCCESS_AI_RESPONSE] Groq response received in 721ms
+[ERROR][2026/05/07][10:23:56][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[INFO][2026/05/07][10:23:56][SUCCESS_CHAT_DONE] Chat response in 723ms
+[INFO][2026/05/07][10:23:56][SUCCESS_AI_RESPONSE] Groq response received in 775ms
+[INFO][2026/05/07][10:23:56][SUCCESS_AI_RESPONSE] Groq response received in 721ms
+[INFO][2026/05/07][10:23:56][SUCCESS_CHAT_DONE] Chat response in 777ms
+[INFO][2026/05/07][10:23:57][SUCCESS_CHAT_DONE] Chat response in 725ms
+[ERROR][2026/05/07][10:23:57][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:23:57][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:24:00][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:24:01][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:24:06][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:24:06][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:24:10][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:24:11][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:24:15][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:24:16][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:24:21][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:24:21][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[INFO][2026/05/07][10:24:21][CHAT_MSG] User message: Hello...
+[INFO][2026/05/07][10:24:21][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:24:21][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][10:24:22][SUCCESS_AI_RESPONSE] Groq response received in 824ms
+[INFO][2026/05/07][10:24:22][SUCCESS_CHAT_DONE] Chat response in 834ms
+[INFO][2026/05/07][10:24:22][VOICE_TTS] TTS request received
+[INFO][2026/05/07][10:24:22][VOICE_GEN] ElevenLabs TTS initiated
+[ERROR][2026/05/07][10:24:24][VOICE_ERROR] ElevenLabs error: Request failed with status code 401
+[ERROR][2026/05/07][10:24:24][VOICE_ERROR] TTS error: Request failed with status code 401
+[ERROR][2026/05/07][10:24:26][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:24:26][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:24:31][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:24:32][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:24:36][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:24:36][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[INFO][2026/05/07][10:24:37][CHAT_MSG] User message: what's up bro...
+[INFO][2026/05/07][10:24:37][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:24:37][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][10:24:38][SUCCESS_AI_RESPONSE] Groq response received in 847ms
+[INFO][2026/05/07][10:24:38][SUCCESS_CHAT_DONE] Chat response in 849ms
+[INFO][2026/05/07][10:24:38][VOICE_TTS] TTS request received
+[INFO][2026/05/07][10:24:38][VOICE_GEN] ElevenLabs TTS initiated
+[ERROR][2026/05/07][10:24:39][VOICE_ERROR] ElevenLabs error: Request failed with status code 401
+[ERROR][2026/05/07][10:24:39][VOICE_ERROR] TTS error: Request failed with status code 401
+[ERROR][2026/05/07][10:24:40][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:24:41][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:24:45][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:24:46][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:24:51][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:24:51][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:24:56][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:24:56][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:25:01][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:25:01][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:25:06][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:25:06][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:25:11][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:25:12][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:25:16][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:25:17][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:25:21][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:25:22][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:25:26][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:25:27][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:25:31][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:25:31][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:25:36][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:25:36][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:25:41][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:25:41][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:25:46][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:25:46][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:26:04][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:26:04][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:26:05][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:26:06][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[INFO][2026/05/07][10:26:15][SUCCESS_SPOTIFY_AUTH] Spotify connected
+[INFO][2026/05/07][10:26:16][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/07][10:26:16][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/07][10:26:16][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/07][10:26:16][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/07][10:26:16][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:26:16][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][10:26:16][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:26:16][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][10:26:16][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:26:16][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][10:26:16][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:26:16][AI_REQUEST] Groq API call initiated
+[ERROR][2026/05/07][10:26:16][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[INFO][2026/05/07][10:26:17][SUCCESS_AI_RESPONSE] Groq response received in 795ms
+[INFO][2026/05/07][10:26:17][SUCCESS_AI_RESPONSE] Groq response received in 792ms
+[INFO][2026/05/07][10:26:17][SUCCESS_AI_RESPONSE] Groq response received in 723ms
+[ERROR][2026/05/07][10:26:17][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[INFO][2026/05/07][10:26:17][SUCCESS_CHAT_DONE] Chat response in 797ms
+[INFO][2026/05/07][10:26:17][SUCCESS_CHAT_DONE] Chat response in 796ms
+[INFO][2026/05/07][10:26:17][SUCCESS_CHAT_DONE] Chat response in 725ms
+[INFO][2026/05/07][10:26:17][SUCCESS_AI_RESPONSE] Groq response received in 865ms
+[INFO][2026/05/07][10:26:17][SUCCESS_CHAT_DONE] Chat response in 866ms
+[ERROR][2026/05/07][10:26:17][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:26:18][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:26:21][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:26:21][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:26:26][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:26:26][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:26:31][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:26:31][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:26:36][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:26:36][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:26:41][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:26:41][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:26:46][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:26:46][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[INFO][2026/05/07][10:26:50][CHAT_MSG] User message: play Saiyaan song from Saiyaara...
+[INFO][2026/05/07][10:26:50][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:26:50][AI_REQUEST] Groq API call initiated
+[ERROR][2026/05/07][10:26:51][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[INFO][2026/05/07][10:26:51][SUCCESS_AI_RESPONSE] Groq response received in 653ms
+[INFO][2026/05/07][10:26:51][SUCCESS_CHAT_DONE] Chat response in 656ms
+[INFO][2026/05/07][10:26:51][VOICE_TTS] TTS request received
+[INFO][2026/05/07][10:26:51][VOICE_GEN] ElevenLabs TTS initiated
+[ERROR][2026/05/07][10:26:51][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:26:52][VOICE_ERROR] ElevenLabs error: Request failed with status code 401
+[ERROR][2026/05/07][10:26:52][VOICE_ERROR] TTS error: Request failed with status code 401
+[ERROR][2026/05/07][10:26:56][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:26:57][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[INFO][2026/05/07][10:32:46][SERVER_START] ZORIC Backend started on port 5000
+[INFO][2026/05/07][10:32:46][SERVER_START] ZORIC V4.2 — DECODE. EXECUTE. COMMAND.
+[INFO][2026/05/07][10:32:48][DB_CONNECT] MongoDB Atlas Connected: ac-d5b1g54-shard-00-02.qeo8pgy.mongodb.net
+[INFO][2026/05/07][10:33:02][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/07][10:33:02][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/07][10:33:02][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/07][10:33:03][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/07][10:33:04][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:33:04][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][10:33:04][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:33:04][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][10:33:04][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:33:04][AI_REQUEST] Groq API call initiated
+[ERROR][2026/05/07][10:33:04][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[INFO][2026/05/07][10:33:05][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:33:05][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][10:33:05][SUCCESS_AI_RESPONSE] Groq response received in 1152ms
+[INFO][2026/05/07][10:33:05][SUCCESS_AI_RESPONSE] Groq response received in 999ms
+[INFO][2026/05/07][10:33:05][SUCCESS_CHAT_DONE] Chat response in 1161ms
+[INFO][2026/05/07][10:33:05][SUCCESS_CHAT_DONE] Chat response in 1003ms
+[INFO][2026/05/07][10:33:05][SUCCESS_AI_RESPONSE] Groq response received in 1423ms
+[INFO][2026/05/07][10:33:06][SUCCESS_CHAT_DONE] Chat response in 1426ms
+[INFO][2026/05/07][10:33:06][SUCCESS_AI_RESPONSE] Groq response received in 1073ms
+[ERROR][2026/05/07][10:33:06][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[INFO][2026/05/07][10:33:06][SUCCESS_CHAT_DONE] Chat response in 1078ms
+[ERROR][2026/05/07][10:33:06][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:33:07][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:33:07][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:33:08][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:33:12][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:33:12][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:33:17][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:33:17][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:33:22][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:33:22][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:33:27][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:33:27][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[INFO][2026/05/07][10:33:34][SUCCESS_SPOTIFY_AUTH] Spotify connected
+[INFO][2026/05/07][10:33:35][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/07][10:33:35][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/07][10:33:35][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/07][10:33:35][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/07][10:33:35][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:33:35][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][10:33:35][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:33:35][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][10:33:36][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:33:36][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][10:33:36][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:33:36][AI_REQUEST] Groq API call initiated
+[ERROR][2026/05/07][10:33:36][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[INFO][2026/05/07][10:33:36][SUCCESS_AI_RESPONSE] Groq response received in 790ms
+[INFO][2026/05/07][10:33:36][SUCCESS_AI_RESPONSE] Groq response received in 869ms
+[INFO][2026/05/07][10:33:36][SUCCESS_CHAT_DONE] Chat response in 793ms
+[INFO][2026/05/07][10:33:36][SUCCESS_CHAT_DONE] Chat response in 871ms
+[INFO][2026/05/07][10:33:37][SUCCESS_AI_RESPONSE] Groq response received in 1024ms
+[INFO][2026/05/07][10:33:37][SUCCESS_AI_RESPONSE] Groq response received in 1074ms
+[INFO][2026/05/07][10:33:37][SUCCESS_CHAT_DONE] Chat response in 1027ms
+[ERROR][2026/05/07][10:33:37][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[INFO][2026/05/07][10:33:37][SUCCESS_CHAT_DONE] Chat response in 1079ms
+[ERROR][2026/05/07][10:33:37][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:33:38][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:33:40][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:33:41][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[INFO][2026/05/07][10:33:45][CHAT_MSG] User message: Play gehra hua...
+[INFO][2026/05/07][10:33:45][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:33:45][AI_REQUEST] Groq API call initiated
+[ERROR][2026/05/07][10:33:45][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:33:46][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[INFO][2026/05/07][10:33:46][SUCCESS_AI_RESPONSE] Groq response received in 794ms
+[INFO][2026/05/07][10:33:46][SUCCESS_CHAT_DONE] Chat response in 795ms
+[INFO][2026/05/07][10:33:46][VOICE_TTS] TTS request received
+[INFO][2026/05/07][10:33:46][VOICE_GEN] ElevenLabs TTS initiated
+[ERROR][2026/05/07][10:33:48][VOICE_ERROR] ElevenLabs error: Request failed with status code 401
+[ERROR][2026/05/07][10:33:48][VOICE_ERROR] TTS error: Request failed with status code 401
+[ERROR][2026/05/07][10:33:50][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:33:51][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:33:55][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:33:56][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:34:01][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:34:01][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:34:06][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:34:06][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:34:11][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:34:11][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:34:16][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:34:16][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:34:21][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:34:22][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:34:26][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:34:27][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:34:31][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:34:33][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:34:36][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:34:36][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:34:41][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:34:41][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:34:46][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:34:47][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:34:51][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:34:51][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:34:56][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:34:56][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[INFO][2026/05/07][10:36:01][SERVER_START] ZORIC Backend started on port 5000
+[INFO][2026/05/07][10:36:01][SERVER_START] ZORIC V4.2 — DECODE. EXECUTE. COMMAND.
+[INFO][2026/05/07][10:36:02][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/07][10:36:02][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[ERROR][2026/05/07][10:36:03][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[INFO][2026/05/07][10:36:03][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/07][10:36:05][DB_CONNECT] MongoDB Atlas Connected: ac-d5b1g54-shard-00-02.qeo8pgy.mongodb.net
+[INFO][2026/05/07][10:36:05][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[ERROR][2026/05/07][10:36:06][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[INFO][2026/05/07][10:36:06][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:36:06][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][10:36:06][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:36:06][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][10:36:06][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:36:06][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][10:36:06][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:36:06][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][10:36:06][SUCCESS_AI_RESPONSE] Groq response received in 699ms
+[INFO][2026/05/07][10:36:06][SUCCESS_CHAT_DONE] Chat response in 703ms
+[INFO][2026/05/07][10:36:07][SUCCESS_AI_RESPONSE] Groq response received in 845ms
+[ERROR][2026/05/07][10:36:07][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[INFO][2026/05/07][10:36:07][SUCCESS_CHAT_DONE] Chat response in 850ms
+[INFO][2026/05/07][10:36:07][SUCCESS_AI_RESPONSE] Groq response received in 942ms
+[INFO][2026/05/07][10:36:07][SUCCESS_CHAT_DONE] Chat response in 948ms
+[INFO][2026/05/07][10:36:07][SUCCESS_AI_RESPONSE] Groq response received in 1191ms
+[INFO][2026/05/07][10:36:07][SUCCESS_CHAT_DONE] Chat response in 1196ms
+[ERROR][2026/05/07][10:36:07][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:36:07][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:36:08][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:36:12][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:36:12][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:36:17][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[INFO][2026/05/07][10:36:17][CHAT_MSG] User message: What is your name...
+[ERROR][2026/05/07][10:36:17][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[INFO][2026/05/07][10:36:18][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:36:18][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][10:36:19][SUCCESS_AI_RESPONSE] Groq response received in 1063ms
+[INFO][2026/05/07][10:36:19][SUCCESS_CHAT_DONE] Chat response in 1065ms
+[INFO][2026/05/07][10:36:19][VOICE_TTS] TTS request received
+[INFO][2026/05/07][10:36:19][VOICE_GEN] ElevenLabs TTS initiated
+[ERROR][2026/05/07][10:36:19][VOICE_ERROR] ElevenLabs error: Request failed with status code 401
+[ERROR][2026/05/07][10:36:19][VOICE_ERROR] TTS error: Request failed with status code 401
+[ERROR][2026/05/07][10:36:22][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:36:22][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:36:27][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:36:27][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:36:32][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:36:32][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:36:37][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:36:37][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:36:43][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:36:43][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:36:48][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:36:48][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:36:53][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:36:53][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:36:58][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:36:58][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:37:03][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:37:04][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:37:08][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:37:08][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:37:13][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:37:13][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:37:18][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:37:18][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:37:23][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:37:23][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:37:28][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:37:28][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:37:33][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:37:33][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:37:38][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:37:38][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[INFO][2026/05/07][10:51:30][SERVER_START] ZORIC Backend started on port 5000
+[INFO][2026/05/07][10:51:30][SERVER_START] ZORIC V4.2 — DECODE. EXECUTE. COMMAND.
+[INFO][2026/05/07][10:51:33][DB_CONNECT] MongoDB Atlas Connected: ac-d5b1g54-shard-00-02.qeo8pgy.mongodb.net
+[ERROR][2026/05/07][10:52:35][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:52:35][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:52:37][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:52:38][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[INFO][2026/05/07][10:52:41][CHAT_MSG] User message: what is your name...
+[INFO][2026/05/07][10:52:41][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:52:41][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][10:52:42][SUCCESS_AI_RESPONSE] Groq response received in 669ms
+[ERROR][2026/05/07][10:52:42][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[INFO][2026/05/07][10:52:42][SUCCESS_CHAT_DONE] Chat response in 678ms
+[INFO][2026/05/07][10:52:42][VOICE_TTS] TTS request received
+[INFO][2026/05/07][10:52:42][VOICE_GEN] ElevenLabs TTS initiated
+[ERROR][2026/05/07][10:52:42][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:52:43][VOICE_ERROR] ElevenLabs error: Request failed with status code 401
+[ERROR][2026/05/07][10:52:43][VOICE_ERROR] TTS error: Request failed with status code 401
+[ERROR][2026/05/07][10:52:47][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:52:47][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[INFO][2026/05/07][10:52:50][CHAT_MSG] User message: play Gehra Hua song...
+[INFO][2026/05/07][10:52:51][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:52:51][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][10:52:51][SUCCESS_AI_RESPONSE] Groq response received in 665ms
+[INFO][2026/05/07][10:52:51][SUCCESS_CHAT_DONE] Chat response in 668ms
+[INFO][2026/05/07][10:52:51][VOICE_TTS] TTS request received
+[INFO][2026/05/07][10:52:51][VOICE_GEN] ElevenLabs TTS initiated
+[ERROR][2026/05/07][10:52:52][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:52:52][VOICE_ERROR] ElevenLabs error: Request failed with status code 401
+[ERROR][2026/05/07][10:52:52][VOICE_ERROR] TTS error: Request failed with status code 401
+[ERROR][2026/05/07][10:52:52][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:52:57][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:52:57][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[INFO][2026/05/07][10:57:05][SERVER_START] ZORIC Backend started on port 5000
+[INFO][2026/05/07][10:57:05][SERVER_START] ZORIC V4.2 — DECODE. EXECUTE. COMMAND.
+[INFO][2026/05/07][10:57:07][DB_CONNECT] MongoDB Atlas Connected: ac-d5b1g54-shard-00-01.qeo8pgy.mongodb.net
+[INFO][2026/05/07][10:57:10][SOCKET_CONNECT] Socket connected: YXhz-CmjSml-mX10AAAB
+[ERROR][2026/05/07][10:57:10][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:57:10][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:57:10][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:57:11][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:57:11][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:57:11][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:57:12][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[INFO][2026/05/07][10:57:13][SOCKET_DISCONNECT] Socket disconnected: YXhz-CmjSml-mX10AAAB
+[ERROR][2026/05/07][10:57:14][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[INFO][2026/05/07][10:57:14][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/07][10:57:14][SOCKET_CONNECT] Socket connected: EPBs7lX5I3xOdjy5AAAE
+[INFO][2026/05/07][10:57:14][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/07][10:57:14][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:57:14][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][10:57:14][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:57:14][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][10:57:14][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/07][10:57:15][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:57:15][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][10:57:15][SUCCESS_AI_RESPONSE] Groq response received in 714ms
+[INFO][2026/05/07][10:57:15][SUCCESS_CHAT_DONE] Chat response in 718ms
+[INFO][2026/05/07][10:57:15][SUCCESS_AI_RESPONSE] Groq response received in 693ms
+[INFO][2026/05/07][10:57:15][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/07][10:57:15][SUCCESS_CHAT_DONE] Chat response in 695ms
+[INFO][2026/05/07][10:57:15][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:57:15][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][10:57:15][SUCCESS_AI_RESPONSE] Groq response received in 734ms
+[INFO][2026/05/07][10:57:15][SUCCESS_CHAT_DONE] Chat response in 736ms
+[ERROR][2026/05/07][10:57:15][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[INFO][2026/05/07][10:57:16][SUCCESS_AI_RESPONSE] Groq response received in 381ms
+[INFO][2026/05/07][10:57:16][SUCCESS_CHAT_DONE] Chat response in 384ms
+[ERROR][2026/05/07][10:57:19][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:57:23][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:57:24][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:57:24][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:57:24][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[INFO][2026/05/07][10:57:26][CHAT_MSG] User message: play Gehra Hua song...
+[INFO][2026/05/07][10:57:27][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:57:27][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][10:57:27][SUCCESS_AI_RESPONSE] Groq response received in 628ms
+[INFO][2026/05/07][10:57:27][SUCCESS_CHAT_DONE] Chat response in 636ms
+[INFO][2026/05/07][10:57:27][VOICE_TTS] TTS request received
+[INFO][2026/05/07][10:57:27][VOICE_GEN] gTTS TTS initiated
+[INFO][2026/05/07][10:57:28][SUCCESS_VOICE_GEN] gTTS audio generated successfully
+[ERROR][2026/05/07][10:57:29][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:57:29][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:57:34][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:57:34][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:57:39][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:57:40][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:57:44][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:57:45][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[ERROR][2026/05/07][10:57:49][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[INFO][2026/05/07][10:57:49][SOCKET_DISCONNECT] Socket disconnected: EPBs7lX5I3xOdjy5AAAE
+[ERROR][2026/05/07][10:57:49][SPOTIFY_ERROR] Spotify current track error: An error occurred while communicating with Spotify's Web API.
+Details: No token provided.
+[INFO][2026/05/07][10:57:53][SUCCESS_SPOTIFY_AUTH] Spotify tokens saved to DB
+[INFO][2026/05/07][10:57:53][SUCCESS_SPOTIFY_AUTH] Spotify connected
+[INFO][2026/05/07][10:57:54][SOCKET_CONNECT] Socket connected: ts64mWWAE1tuLqkZAAAH
+[INFO][2026/05/07][10:57:54][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/07][10:57:54][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/07][10:57:54][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/07][10:57:54][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/07][10:57:54][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:57:54][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][10:57:54][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:57:54][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][10:57:54][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:57:54][AI_REQUEST] Groq API call initiated
+[ERROR][2026/05/07][10:57:54][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[INFO][2026/05/07][10:57:54][SUCCESS_AI_RESPONSE] Groq response received in 486ms
+[INFO][2026/05/07][10:57:55][SUCCESS_AI_RESPONSE] Groq response received in 566ms
+[INFO][2026/05/07][10:57:55][SUCCESS_CHAT_DONE] Chat response in 488ms
+[INFO][2026/05/07][10:57:55][SUCCESS_CHAT_DONE] Chat response in 568ms
+[INFO][2026/05/07][10:57:55][SUCCESS_AI_RESPONSE] Groq response received in 666ms
+[INFO][2026/05/07][10:57:55][SUCCESS_CHAT_DONE] Chat response in 668ms
+[INFO][2026/05/07][10:57:55][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:57:55][AI_REQUEST] Groq API call initiated
+[ERROR][2026/05/07][10:57:55][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[INFO][2026/05/07][10:57:55][SUCCESS_AI_RESPONSE] Groq response received in 278ms
+[INFO][2026/05/07][10:57:55][SUCCESS_CHAT_DONE] Chat response in 280ms
+[ERROR][2026/05/07][10:57:55][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:57:56][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:57:59][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:57:59][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[INFO][2026/05/07][10:58:00][CHAT_MSG] User message: now play...
+[INFO][2026/05/07][10:58:01][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][10:58:01][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][10:58:01][SUCCESS_AI_RESPONSE] Groq response received in 539ms
+[INFO][2026/05/07][10:58:01][SUCCESS_CHAT_DONE] Chat response in 547ms
+[INFO][2026/05/07][10:58:01][VOICE_TTS] TTS request received
+[INFO][2026/05/07][10:58:01][VOICE_GEN] gTTS TTS initiated
+[INFO][2026/05/07][10:58:02][SUCCESS_VOICE_GEN] gTTS audio generated successfully
+[ERROR][2026/05/07][10:58:04][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:58:04][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:58:09][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][10:58:09][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[INFO][2026/05/07][10:58:39][SOCKET_DISCONNECT] Socket disconnected: ts64mWWAE1tuLqkZAAAH
+[INFO][2026/05/07][11:00:07][SOCKET_CONNECT] Socket connected: sITgsM_QkaxBqXagAAAJ
+[ERROR][2026/05/07][11:00:08][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][11:00:08][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][11:00:09][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[ERROR][2026/05/07][11:00:09][SPOTIFY_ERROR] Spotify current track error: [object Object]
+[INFO][2026/05/07][11:00:25][SERVER_START] ZORIC Backend started on port 5000
+[INFO][2026/05/07][11:00:25][SERVER_START] ZORIC V4.2 — DECODE. EXECUTE. COMMAND.
+[INFO][2026/05/07][11:00:26][SOCKET_CONNECT] Socket connected: pgkRUtKYgMnyZMHnAAAB
+[INFO][2026/05/07][11:00:27][DB_CONNECT] MongoDB Atlas Connected: ac-d5b1g54-shard-00-01.qeo8pgy.mongodb.net
+[INFO][2026/05/07][11:00:27][SUCCESS_SPOTIFY_INIT] Spotify tokens loaded from DB
+[INFO][2026/05/07][11:00:42][CHAT_MSG] User message: Now play aari aari song from dhurandar...
+[INFO][2026/05/07][11:00:42][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][11:00:42][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][11:00:43][SUCCESS_AI_RESPONSE] Groq response received in 1321ms
+[INFO][2026/05/07][11:00:44][SUCCESS_CHAT_DONE] Chat response in 1336ms
+[INFO][2026/05/07][11:00:44][VOICE_TTS] TTS request received
+[INFO][2026/05/07][11:00:44][VOICE_GEN] gTTS TTS initiated
+[INFO][2026/05/07][11:00:44][SUCCESS_VOICE_GEN] gTTS audio generated successfully
+[INFO][2026/05/07][11:01:15][CHAT_MSG] User message: Now play...
+[INFO][2026/05/07][11:01:15][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][11:01:15][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][11:01:16][SUCCESS_AI_RESPONSE] Groq response received in 759ms
+[INFO][2026/05/07][11:01:16][SUCCESS_CHAT_DONE] Chat response in 763ms
+[INFO][2026/05/07][11:01:16][VOICE_TTS] TTS request received
+[INFO][2026/05/07][11:01:16][VOICE_GEN] gTTS TTS initiated
+[INFO][2026/05/07][11:01:18][SUCCESS_VOICE_GEN] gTTS audio generated successfully
+[INFO][2026/05/07][11:02:29][SOCKET_DISCONNECT] Socket disconnected: pgkRUtKYgMnyZMHnAAAB
+[INFO][2026/05/07][11:02:33][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/07][11:02:33][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/07][11:02:33][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/07][11:02:33][SOCKET_CONNECT] Socket connected: fKhojnC1DHgEr9QqAAAE
+[INFO][2026/05/07][11:02:33][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/07][11:02:34][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][11:02:34][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][11:02:34][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][11:02:34][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][11:02:34][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][11:02:34][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][11:02:34][SUCCESS_AI_RESPONSE] Groq response received in 914ms
+[INFO][2026/05/07][11:02:35][SUCCESS_AI_RESPONSE] Groq response received in 869ms
+[INFO][2026/05/07][11:02:35][SUCCESS_CHAT_DONE] Chat response in 917ms
+[INFO][2026/05/07][11:02:35][SUCCESS_AI_RESPONSE] Groq response received in 868ms
+[INFO][2026/05/07][11:02:35][SUCCESS_CHAT_DONE] Chat response in 874ms
+[INFO][2026/05/07][11:02:35][SUCCESS_CHAT_DONE] Chat response in 870ms
+[INFO][2026/05/07][11:02:35][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][11:02:35][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][11:02:35][SUCCESS_AI_RESPONSE] Groq response received in 389ms
+[ERROR][2026/05/07][11:02:35][CHAT_ERROR] Chat error: Chat validation failed: message: Path `message` is required.
+[INFO][2026/05/07][11:02:57][CHAT_MSG] User message: Now play aari aari from Dhurandar...
+[INFO][2026/05/07][11:02:57][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][11:02:57][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][11:02:58][SUCCESS_AI_RESPONSE] Groq response received in 739ms
+[INFO][2026/05/07][11:02:58][SUCCESS_CHAT_DONE] Chat response in 743ms
+[INFO][2026/05/07][11:02:58][VOICE_TTS] TTS request received
+[INFO][2026/05/07][11:02:58][VOICE_GEN] gTTS TTS initiated
+[INFO][2026/05/07][11:02:59][SUCCESS_VOICE_GEN] gTTS audio generated successfully
+[INFO][2026/05/07][11:05:40][SERVER_START] ZORIC Backend started on port 5000
+[INFO][2026/05/07][11:05:40][SERVER_START] ZORIC V4.2 — DECODE. EXECUTE. COMMAND.
+[INFO][2026/05/07][11:05:41][DB_CONNECT] MongoDB Atlas Connected: ac-d5b1g54-shard-00-02.qeo8pgy.mongodb.net
+[INFO][2026/05/07][11:05:41][SUCCESS_SPOTIFY_INIT] Spotify tokens loaded from DB
+[INFO][2026/05/07][11:05:42][SOCKET_CONNECT] Socket connected: HsPOyc5aCADdETFwAAAB
+[INFO][2026/05/07][11:05:59][CHAT_MSG] User message: Now play gehra huaa from dhurandar...
+[INFO][2026/05/07][11:06:00][MUSIC_CMD] Spotify play attempt: gehra huaa  dhurandar
+[INFO][2026/05/07][11:06:00][MUSIC_CMD] Spotify search: gehra huaa  dhurandar
+[ERROR][2026/05/07][11:06:00][SPOTIFY_ERROR] Spotify play error: [object Object]
+[WARN][2026/05/07][11:06:00][SPOTIFY_WARN] Spotify direct play failed: [object Object]
+[INFO][2026/05/07][11:06:00][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][11:06:00][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][11:06:01][SUCCESS_AI_RESPONSE] Groq response received in 862ms
+[INFO][2026/05/07][11:06:01][MUSIC_CMD] Spotify search: Gehra Hua - Dhurandhar
+[ERROR][2026/05/07][11:06:01][SPOTIFY_ERROR] Spotify play error: [object Object]
+[WARN][2026/05/07][11:06:01][SPOTIFY_WARN] AI Spotify command failed
+[INFO][2026/05/07][11:06:02][SUCCESS_CHAT_DONE] Chat response in 878ms
+[INFO][2026/05/07][11:06:02][VOICE_TTS] TTS request received
+[INFO][2026/05/07][11:06:02][VOICE_GEN] gTTS TTS initiated
+[INFO][2026/05/07][11:06:02][SUCCESS_VOICE_GEN] gTTS audio generated successfully
+[INFO][2026/05/07][11:08:00][CHAT_MSG] User message: Now play aari aari from Dhurandar...
+[INFO][2026/05/07][11:08:00][MUSIC_CMD] Spotify play attempt: aari aari  Dhurandar
+[INFO][2026/05/07][11:08:00][MUSIC_CMD] Spotify search: aari aari  Dhurandar
+[ERROR][2026/05/07][11:08:00][SPOTIFY_ERROR] Spotify play error: [object Object]
+[WARN][2026/05/07][11:08:00][SPOTIFY_WARN] Spotify direct play failed: [object Object]
+[INFO][2026/05/07][11:08:00][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][11:08:00][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][11:08:01][SUCCESS_AI_RESPONSE] Groq response received in 842ms
+[INFO][2026/05/07][11:08:01][MUSIC_CMD] Spotify search: Aari Aari - Dhurandhar
+[ERROR][2026/05/07][11:08:02][SPOTIFY_ERROR] Spotify play error: [object Object]
+[WARN][2026/05/07][11:08:02][SPOTIFY_WARN] AI Spotify command failed
+[INFO][2026/05/07][11:08:02][SUCCESS_CHAT_DONE] Chat response in 847ms
+[INFO][2026/05/07][11:08:02][VOICE_TTS] TTS request received
+[INFO][2026/05/07][11:08:02][VOICE_GEN] gTTS TTS initiated
+[INFO][2026/05/07][11:08:03][SUCCESS_VOICE_GEN] gTTS audio generated successfully
+[INFO][2026/05/07][11:09:47][SOCKET_DISCONNECT] Socket disconnected: HsPOyc5aCADdETFwAAAB
+[INFO][2026/05/07][11:10:40][SERVER_START] ZORIC Backend started on port 5000
+[INFO][2026/05/07][11:10:40][SERVER_START] ZORIC V4.2 — DECODE. EXECUTE. COMMAND.
+[INFO][2026/05/07][11:10:43][DB_CONNECT] MongoDB Atlas Connected: ac-d5b1g54-shard-00-00.qeo8pgy.mongodb.net
+[INFO][2026/05/07][11:10:43][SUCCESS_SPOTIFY_INIT] Spotify tokens loaded from DB
+[INFO][2026/05/07][11:10:45][SOCKET_CONNECT] Socket connected: WnxhvXQR8BZ2Ah9YAAAB
+[INFO][2026/05/07][11:10:57][SOCKET_DISCONNECT] Socket disconnected: WnxhvXQR8BZ2Ah9YAAAB
+[INFO][2026/05/07][11:11:00][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/07][11:11:00][SOCKET_CONNECT] Socket connected: 3x52PgMJT7LYlwwLAAAE
+[INFO][2026/05/07][11:11:00][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/07][11:11:00][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/07][11:11:00][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/07][11:11:01][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][11:11:01][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][11:11:01][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][11:11:01][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][11:11:01][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][11:11:01][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][11:11:01][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][11:11:01][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][11:11:01][SUCCESS_AI_RESPONSE] Groq response received in 778ms
+[INFO][2026/05/07][11:11:01][SUCCESS_CHAT_DONE] Chat response in 783ms
+[INFO][2026/05/07][11:11:02][SUCCESS_AI_RESPONSE] Groq response received in 1061ms
+[INFO][2026/05/07][11:11:02][SUCCESS_CHAT_DONE] Chat response in 1063ms
+[INFO][2026/05/07][11:11:02][SUCCESS_AI_RESPONSE] Groq response received in 653ms
+[INFO][2026/05/07][11:11:02][SUCCESS_AI_RESPONSE] Groq response received in 719ms
+[INFO][2026/05/07][11:11:02][SUCCESS_CHAT_DONE] Chat response in 657ms
+[INFO][2026/05/07][11:11:02][SUCCESS_CHAT_DONE] Chat response in 722ms
+[INFO][2026/05/07][11:11:08][CHAT_MSG] User message: Now play aari aari from Dhurandar...
+[INFO][2026/05/07][11:11:09][MUSIC_CMD] Spotify play attempt: aari aari  Dhurandar
+[INFO][2026/05/07][11:11:09][MUSIC_CMD] Spotify search: aari aari  Dhurandar
+[WARN][2026/05/07][11:11:09][SPOTIFY_WARN] Spotify failed: [object Object]
+[INFO][2026/05/07][11:11:09][YT_FALLBACK] YouTube fallback for: aari aari  Dhurandar
+[INFO][2026/05/07][11:11:09][YT_SEARCH] YouTube search: aari aari  Dhurandar
+[WARN][2026/05/07][11:11:11][YT_WARN] Invidious instance failed: https://invidious.io
+[INFO][2026/05/07][11:11:11][YT_SEARCH] YouTube search: aari aari  Dhurandar
+[WARN][2026/05/07][11:11:12][YT_WARN] Invidious instance failed: https://vid.puffyan.us
+[INFO][2026/05/07][11:11:12][YT_SEARCH] YouTube search: aari aari  Dhurandar
+[WARN][2026/05/07][11:11:14][YT_WARN] Invidious instance failed: https://invidious.slipfox.xyz
+[INFO][2026/05/07][11:11:14][YT_SEARCH] YouTube search: aari aari  Dhurandar
+[WARN][2026/05/07][11:11:15][YT_WARN] Invidious instance failed: https://yt.artemislena.eu
+[WARN][2026/05/07][11:11:15][YT_WARN] YouTube also failed: YouTube search failed on all instances
+[INFO][2026/05/07][11:11:15][VOICE_TTS] TTS request received
+[INFO][2026/05/07][11:11:15][VOICE_GEN] gTTS TTS initiated
+[INFO][2026/05/07][11:11:17][SUCCESS_VOICE_GEN] gTTS audio generated successfully
+[INFO][2026/05/07][13:19:54][SERVER_START] ZORIC Backend started on port 5000
+[INFO][2026/05/07][13:19:54][SERVER_START] ZORIC V4.2 — DECODE. EXECUTE. COMMAND.
+[INFO][2026/05/07][13:20:21][SERVER_START] ZORIC Backend started on port 5000
+[INFO][2026/05/07][13:20:21][SERVER_START] ZORIC V4.2 — DECODE. EXECUTE. COMMAND.
+[INFO][2026/05/07][13:20:24][DB_CONNECT] MongoDB Atlas Connected: ac-d5b1g54-shard-00-02.qeo8pgy.mongodb.net
+[INFO][2026/05/07][13:20:24][SUCCESS_SPOTIFY_INIT] Spotify tokens loaded from DB
+[INFO][2026/05/07][13:20:50][SOCKET_CONNECT] Socket connected: krVoRqzqFagfdRbZAAAC
+[INFO][2026/05/07][13:20:50][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/07][13:20:50][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/07][13:20:50][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/07][13:20:50][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/07][13:20:50][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][13:20:50][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][13:20:50][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][13:20:50][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][13:20:52][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][13:20:52][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][13:20:56][SPOTIFY_REFRESH] Spotify token refreshed
+[INFO][2026/05/07][13:21:00][SUCCESS_AI_RESPONSE] Groq response received in 9524ms
+[INFO][2026/05/07][13:21:00][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][13:21:00][AI_REQUEST] Groq API call initiated
+[WARN][2026/05/07][13:21:00][AGENT_TIMEOUT] Single agent timed out, spawning multi-agents
+[INFO][2026/05/07][13:21:00][AGENT_MULTI] Multi-agent spawned: 2 agents
+[INFO][2026/05/07][13:21:00][WEATHER_SEARCH] Weather search: current location
+[INFO][2026/05/07][13:21:01][SUCCESS_CHAT_DONE] Chat response in 9538ms
+[INFO][2026/05/07][13:21:01][SUCCESS_AI_RESPONSE] Groq response received in 11233ms
+[INFO][2026/05/07][13:21:02][SUCCESS_AI_RESPONSE] Groq response received in 9501ms
+[INFO][2026/05/07][13:21:02][SUCCESS_CHAT_DONE] Chat response in 9509ms
+[INFO][2026/05/07][13:21:02][SUCCESS_AI_RESPONSE] Groq response received in 1927ms
+[INFO][2026/05/07][13:21:03][SUCCESS_CHAT_DONE] Chat response in 1931ms
+[INFO][2026/05/07][13:21:09][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][13:21:11][SUCCESS_AI_RESPONSE] Groq response received in 2333ms
+[INFO][2026/05/07][13:21:11][SUCCESS_AGENT_DONE] Multi-agent task complete with 2 agents
+[INFO][2026/05/07][13:21:11][SUCCESS_CHAT_DONE] Chat response in 20722ms
+[INFO][2026/05/07][13:21:18][CHAT_MSG] User message: Helli...
+[INFO][2026/05/07][13:21:18][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][13:21:19][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][13:21:21][SUCCESS_AI_RESPONSE] Groq response received in 2724ms
+[INFO][2026/05/07][13:21:22][SUCCESS_CHAT_DONE] Chat response in 2744ms
+[INFO][2026/05/07][13:21:22][VOICE_TTS] TTS request received
+[INFO][2026/05/07][13:21:22][VOICE_GEN] gTTS TTS initiated
+[INFO][2026/05/07][13:21:28][SUCCESS_VOICE_GEN] gTTS audio generated successfully
+[INFO][2026/05/07][13:22:24][SOCKET_DISCONNECT] Socket disconnected: krVoRqzqFagfdRbZAAAC
+[INFO][2026/05/07][15:17:09][SERVER_START] ZORIC Backend started on port 5000
+[INFO][2026/05/07][15:17:09][SERVER_START] ZORIC V4.2 — DECODE. EXECUTE. COMMAND.
+[INFO][2026/05/07][15:17:11][DB_CONNECT] MongoDB Atlas Connected: ac-d5b1g54-shard-00-02.qeo8pgy.mongodb.net
+[INFO][2026/05/07][15:17:11][SUCCESS_SPOTIFY_INIT] Spotify tokens loaded from DB
+[INFO][2026/05/07][15:27:24][SERVER_START] ZORIC Backend started on port 5000
+[INFO][2026/05/07][15:27:24][SERVER_START] ZORIC V4.2 — DECODE. EXECUTE. COMMAND.
+[INFO][2026/05/07][15:27:26][SOCKET_CONNECT] Socket connected: Jp_zRObNNBEDHfgyAAAC
+[INFO][2026/05/07][15:27:26][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/07][15:27:26][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/07][15:27:26][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/07][15:27:26][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/07][15:27:28][DB_CONNECT] MongoDB Atlas Connected: ac-d5b1g54-shard-00-02.qeo8pgy.mongodb.net
+[INFO][2026/05/07][15:27:29][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][15:27:29][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][15:27:29][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][15:27:29][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][15:27:29][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][15:27:29][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][15:27:29][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][15:27:29][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][15:27:29][SUCCESS_SPOTIFY_INIT] Spotify tokens loaded from DB
+[INFO][2026/05/07][15:27:30][SUCCESS_AI_RESPONSE] Groq response received in 699ms
+[INFO][2026/05/07][15:27:30][SUCCESS_AI_RESPONSE] Groq response received in 838ms
+[INFO][2026/05/07][15:27:30][SUCCESS_CHAT_DONE] Chat response in 702ms
+[INFO][2026/05/07][15:27:30][SUCCESS_AI_RESPONSE] Groq response received in 747ms
+[INFO][2026/05/07][15:27:30][SUCCESS_CHAT_DONE] Chat response in 853ms
+[INFO][2026/05/07][15:27:30][SUCCESS_AI_RESPONSE] Groq response received in 856ms
+[INFO][2026/05/07][15:27:30][SUCCESS_CHAT_DONE] Chat response in 749ms
+[INFO][2026/05/07][15:27:30][SUCCESS_CHAT_DONE] Chat response in 860ms
+[INFO][2026/05/07][15:27:31][SPOTIFY_REFRESH] Spotify token refreshed
+[INFO][2026/05/07][15:27:42][CHAT_MSG] User message: Hello...
+[INFO][2026/05/07][15:27:43][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][15:27:43][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][15:27:43][SUCCESS_AI_RESPONSE] Groq response received in 733ms
+[INFO][2026/05/07][15:27:43][SUCCESS_CHAT_DONE] Chat response in 747ms
+[INFO][2026/05/07][15:27:44][VOICE_TTS] TTS request received
+[INFO][2026/05/07][15:27:44][VOICE_GEN] ElevenLabs TTS initiated
+[ERROR][2026/05/07][15:27:59][VOICE_ERROR] ElevenLabs error: Request failed with status code 401
+[ERROR][2026/05/07][15:27:59][VOICE_ERROR] TTS error: Request failed with status code 401
+[INFO][2026/05/07][15:28:14][CHAT_MSG] User message: Hi...
+[INFO][2026/05/07][15:28:14][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][15:28:14][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][15:28:15][SUCCESS_AI_RESPONSE] Groq response received in 1066ms
+[INFO][2026/05/07][15:28:15][SUCCESS_CHAT_DONE] Chat response in 1071ms
+[INFO][2026/05/07][15:28:15][VOICE_TTS] TTS request received
+[INFO][2026/05/07][15:28:15][VOICE_GEN] ElevenLabs TTS initiated
+[ERROR][2026/05/07][15:28:16][VOICE_ERROR] ElevenLabs error: Request failed with status code 401
+[ERROR][2026/05/07][15:28:16][VOICE_ERROR] TTS error: Request failed with status code 401
+[INFO][2026/05/07][15:28:38][CHAT_MSG] User message: Wassup...
+[INFO][2026/05/07][15:28:38][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][15:28:38][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][15:28:39][SUCCESS_AI_RESPONSE] Groq response received in 810ms
+[INFO][2026/05/07][15:28:39][SUCCESS_CHAT_DONE] Chat response in 814ms
+[INFO][2026/05/07][15:28:39][VOICE_TTS] TTS request received
+[INFO][2026/05/07][15:28:39][VOICE_GEN] ElevenLabs TTS initiated
+[ERROR][2026/05/07][15:28:39][VOICE_ERROR] ElevenLabs error: Request failed with status code 401
+[ERROR][2026/05/07][15:28:39][VOICE_ERROR] TTS error: Request failed with status code 401
+[INFO][2026/05/07][15:29:39][SERVER_START] ZORIC Backend started on port 5000
+[INFO][2026/05/07][15:29:39][SERVER_START] ZORIC V4.2 — DECODE. EXECUTE. COMMAND.
+[INFO][2026/05/07][15:29:40][SOCKET_CONNECT] Socket connected: vpLLzj3a2ZR49t8nAAAB
+[INFO][2026/05/07][15:29:41][DB_CONNECT] MongoDB Atlas Connected: ac-d5b1g54-shard-00-00.qeo8pgy.mongodb.net
+[INFO][2026/05/07][15:29:42][SUCCESS_SPOTIFY_INIT] Spotify tokens loaded from DB
+[INFO][2026/05/07][15:29:47][SPOTIFY_REFRESH] Spotify token refreshed
+[INFO][2026/05/07][15:29:47][CHAT_MSG] User message: Hello...
+[INFO][2026/05/07][15:29:47][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][15:29:47][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][15:29:48][SUCCESS_AI_RESPONSE] Groq response received in 906ms
+[INFO][2026/05/07][15:29:48][SUCCESS_CHAT_DONE] Chat response in 928ms
+[INFO][2026/05/07][15:29:48][VOICE_TTS] TTS request received
+[INFO][2026/05/07][15:29:48][VOICE_GEN] gTTS TTS initiated
+[INFO][2026/05/07][15:29:51][SUCCESS_VOICE_GEN] gTTS audio generated successfully
+[INFO][2026/05/07][15:30:24][CHAT_MSG] User message: Play gehra huaa song...
+[INFO][2026/05/07][15:30:24][MUSIC_CMD] Spotify play attempt: gehra huaa
+[INFO][2026/05/07][15:30:24][MUSIC_CMD] Spotify search: gehra huaa
+[WARN][2026/05/07][15:30:25][SPOTIFY_WARN] Spotify failed: [object Object]
+[INFO][2026/05/07][15:30:25][YT_FALLBACK] YouTube fallback for: gehra huaa
+[INFO][2026/05/07][15:30:25][YT_SEARCH] YouTube search: gehra huaa
+[WARN][2026/05/07][15:30:26][YT_WARN] Invidious instance failed: https://invidious.io
+[INFO][2026/05/07][15:30:26][YT_SEARCH] YouTube search: gehra huaa
+[WARN][2026/05/07][15:30:27][YT_WARN] Invidious instance failed: https://vid.puffyan.us
+[INFO][2026/05/07][15:30:27][YT_SEARCH] YouTube search: gehra huaa
+[WARN][2026/05/07][15:30:29][YT_WARN] Invidious instance failed: https://invidious.slipfox.xyz
+[INFO][2026/05/07][15:30:29][YT_SEARCH] YouTube search: gehra huaa
+[WARN][2026/05/07][15:30:30][YT_WARN] Invidious instance failed: https://yt.artemislena.eu
+[WARN][2026/05/07][15:30:30][YT_WARN] YouTube also failed: YouTube search failed on all instances
+[INFO][2026/05/07][15:30:30][VOICE_TTS] TTS request received
+[INFO][2026/05/07][15:30:30][VOICE_GEN] gTTS TTS initiated
+[INFO][2026/05/07][15:30:32][SUCCESS_VOICE_GEN] gTTS audio generated successfully
+[INFO][2026/05/07][15:30:59][CHAT_MSG] User message: Now play...
+[INFO][2026/05/07][15:31:00][MUSIC_CMD] Spotify play attempt: Now play
+[INFO][2026/05/07][15:31:00][MUSIC_CMD] Spotify search: Now play
+[WARN][2026/05/07][15:31:00][SPOTIFY_WARN] Spotify failed: [object Object]
+[INFO][2026/05/07][15:31:00][YT_FALLBACK] YouTube fallback for: Now play
+[INFO][2026/05/07][15:31:00][YT_SEARCH] YouTube search: Now play
+[WARN][2026/05/07][15:31:01][YT_WARN] Invidious instance failed: https://invidious.io
+[INFO][2026/05/07][15:31:01][YT_SEARCH] YouTube search: Now play
+[WARN][2026/05/07][15:31:02][YT_WARN] Invidious instance failed: https://vid.puffyan.us
+[INFO][2026/05/07][15:31:02][YT_SEARCH] YouTube search: Now play
+[WARN][2026/05/07][15:31:03][YT_WARN] Invidious instance failed: https://invidious.slipfox.xyz
+[INFO][2026/05/07][15:31:03][YT_SEARCH] YouTube search: Now play
+[WARN][2026/05/07][15:31:03][YT_WARN] Invidious instance failed: https://yt.artemislena.eu
+[WARN][2026/05/07][15:31:03][YT_WARN] YouTube also failed: YouTube search failed on all instances
+[INFO][2026/05/07][15:31:04][VOICE_TTS] TTS request received
+[INFO][2026/05/07][15:31:04][VOICE_GEN] gTTS TTS initiated
+[INFO][2026/05/07][15:31:07][SUCCESS_VOICE_GEN] gTTS audio generated successfully
+[INFO][2026/05/07][15:31:28][CHAT_MSG] User message: Play aari aari...
+[INFO][2026/05/07][15:31:29][MUSIC_CMD] Spotify play attempt: aari aari
+[INFO][2026/05/07][15:31:29][MUSIC_CMD] Spotify search: aari aari
+[WARN][2026/05/07][15:31:29][SPOTIFY_WARN] Spotify failed: [object Object]
+[INFO][2026/05/07][15:31:29][YT_FALLBACK] YouTube fallback for: aari aari
+[INFO][2026/05/07][15:31:29][YT_SEARCH] YouTube search: aari aari
+[WARN][2026/05/07][15:31:30][YT_WARN] Invidious instance failed: https://invidious.io
+[INFO][2026/05/07][15:31:30][YT_SEARCH] YouTube search: aari aari
+[WARN][2026/05/07][15:31:31][YT_WARN] Invidious instance failed: https://vid.puffyan.us
+[INFO][2026/05/07][15:31:31][YT_SEARCH] YouTube search: aari aari
+[WARN][2026/05/07][15:31:32][YT_WARN] Invidious instance failed: https://invidious.slipfox.xyz
+[INFO][2026/05/07][15:31:32][YT_SEARCH] YouTube search: aari aari
+[WARN][2026/05/07][15:31:33][YT_WARN] Invidious instance failed: https://yt.artemislena.eu
+[WARN][2026/05/07][15:31:33][YT_WARN] YouTube also failed: YouTube search failed on all instances
+[INFO][2026/05/07][15:31:33][VOICE_TTS] TTS request received
+[INFO][2026/05/07][15:31:33][VOICE_GEN] gTTS TTS initiated
+[INFO][2026/05/07][15:31:36][SUCCESS_VOICE_GEN] gTTS audio generated successfully
+[INFO][2026/05/07][17:56:13][SERVER_START] ZORIC Backend started on port 5000
+[INFO][2026/05/07][17:56:13][SERVER_START] ZORIC V4.2 — DECODE. EXECUTE. COMMAND.
+[INFO][2026/05/07][17:56:15][DB_CONNECT] MongoDB Atlas Connected: ac-d5b1g54-shard-00-00.qeo8pgy.mongodb.net
+[INFO][2026/05/07][17:56:15][SUCCESS_SPOTIFY_INIT] Spotify tokens loaded from DB
+[INFO][2026/05/07][17:56:49][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/07][17:56:49][SOCKET_CONNECT] Socket connected: TSn_2tgW_vgWMkEUAAAC
+[INFO][2026/05/07][17:56:49][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/07][17:56:49][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][17:56:49][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][17:56:49][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/07][17:56:49][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][17:56:49][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][17:56:50][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/07][17:56:50][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][17:56:50][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][17:56:50][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][17:56:50][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][17:56:50][SUCCESS_AI_RESPONSE] Groq response received in 986ms
+[INFO][2026/05/07][17:56:50][SUCCESS_AI_RESPONSE] Groq response received in 750ms
+[INFO][2026/05/07][17:56:50][SUCCESS_CHAT_DONE] Chat response in 1020ms
+[INFO][2026/05/07][17:56:50][SUCCESS_CHAT_DONE] Chat response in 757ms
+[INFO][2026/05/07][17:56:50][SUCCESS_AI_RESPONSE] Groq response received in 553ms
+[INFO][2026/05/07][17:56:50][SUCCESS_CHAT_DONE] Chat response in 556ms
+[INFO][2026/05/07][17:56:51][SUCCESS_AI_RESPONSE] Groq response received in 746ms
+[INFO][2026/05/07][17:56:51][SPOTIFY_REFRESH] Spotify token refreshed
+[INFO][2026/05/07][17:56:51][SUCCESS_CHAT_DONE] Chat response in 752ms
+[INFO][2026/05/07][17:57:22][CHAT_MSG] User message: what is your name bro...
+[INFO][2026/05/07][17:57:22][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][17:57:22][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][17:57:22][SUCCESS_AI_RESPONSE] Groq response received in 679ms
+[INFO][2026/05/07][17:57:23][SUCCESS_CHAT_DONE] Chat response in 701ms
+[INFO][2026/05/07][17:57:23][VOICE_TTS] TTS request received
+[INFO][2026/05/07][17:57:23][VOICE_GEN] gTTS TTS initiated
+[INFO][2026/05/07][17:57:25][SUCCESS_VOICE_GEN] gTTS audio generated successfully
+[INFO][2026/05/07][17:57:51][CHAT_MSG] User message: okay to Ab Main Jab Bhi zoric bolun to Tum wake up...
+[INFO][2026/05/07][17:57:51][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][17:57:51][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][17:57:52][SUCCESS_AI_RESPONSE] Groq response received in 833ms
+[INFO][2026/05/07][17:57:52][SUCCESS_CHAT_DONE] Chat response in 837ms
+[INFO][2026/05/07][17:57:52][VOICE_TTS] TTS request received
+[INFO][2026/05/07][17:57:52][VOICE_GEN] gTTS TTS initiated
+[INFO][2026/05/07][17:57:55][SUCCESS_VOICE_GEN] gTTS audio generated successfully
+[INFO][2026/05/07][17:58:21][CHAT_MSG] User message: Nahin Main Jab he bolun tab Tum wake up ho jana...
+[INFO][2026/05/07][17:58:21][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][17:58:21][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][17:58:22][SUCCESS_AI_RESPONSE] Groq response received in 829ms
+[INFO][2026/05/07][17:58:22][SUCCESS_CHAT_DONE] Chat response in 835ms
+[INFO][2026/05/07][17:58:22][VOICE_TTS] TTS request received
+[INFO][2026/05/07][17:58:22][VOICE_GEN] gTTS TTS initiated
+[INFO][2026/05/07][17:58:25][SUCCESS_VOICE_GEN] gTTS audio generated successfully
+[INFO][2026/05/07][17:58:53][CHAT_MSG] User message: Nahi jab hey bolu tab listen karna...
+[INFO][2026/05/07][17:58:53][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][17:58:53][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][17:58:54][SUCCESS_AI_RESPONSE] Groq response received in 622ms
+[INFO][2026/05/07][17:58:54][SUCCESS_CHAT_DONE] Chat response in 625ms
+[INFO][2026/05/07][17:58:54][VOICE_TTS] TTS request received
+[INFO][2026/05/07][17:58:54][VOICE_GEN] gTTS TTS initiated
+[INFO][2026/05/07][17:58:56][SUCCESS_VOICE_GEN] gTTS audio generated successfully
+[INFO][2026/05/07][17:59:27][CHAT_MSG] User message: ZORIC nahi "hey" per...
+[INFO][2026/05/07][17:59:27][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][17:59:27][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][17:59:27][SUCCESS_AI_RESPONSE] Groq response received in 585ms
+[INFO][2026/05/07][17:59:27][SUCCESS_CHAT_DONE] Chat response in 589ms
+[INFO][2026/05/07][17:59:27][VOICE_TTS] TTS request received
+[INFO][2026/05/07][17:59:27][VOICE_GEN] gTTS TTS initiated
+[INFO][2026/05/07][17:59:30][SUCCESS_VOICE_GEN] gTTS audio generated successfully
+[INFO][2026/05/07][18:00:28][SOCKET_DISCONNECT] Socket disconnected: TSn_2tgW_vgWMkEUAAAC
+[INFO][2026/05/07][18:03:47][SERVER_START] ZORIC Backend started on port 5000
+[INFO][2026/05/07][18:03:47][SERVER_START] ZORIC V4.2 — DECODE. EXECUTE. COMMAND.
+[INFO][2026/05/07][18:03:49][DB_CONNECT] MongoDB Atlas Connected: ac-d5b1g54-shard-00-02.qeo8pgy.mongodb.net
+[INFO][2026/05/07][18:03:50][SUCCESS_SPOTIFY_INIT] Spotify tokens loaded from DB
+[INFO][2026/05/07][18:04:08][SPOTIFY_REFRESH] Spotify token refreshed
+[INFO][2026/05/07][18:04:12][SOCKET_CONNECT] Socket connected: GMB2nRIcXvtMb2xFAAAB
+[INFO][2026/05/07][18:04:25][CHAT_MSG] User message: Kya tu code likh skta hai?...
+[INFO][2026/05/07][18:04:26][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][18:04:26][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][18:04:27][SUCCESS_AI_RESPONSE] Groq response received in 1202ms
+[INFO][2026/05/07][18:04:27][SUCCESS_CHAT_DONE] Chat response in 1232ms
+[INFO][2026/05/07][18:04:27][VOICE_TTS] TTS request received
+[INFO][2026/05/07][18:04:27][VOICE_GEN] gTTS TTS initiated
+[INFO][2026/05/07][18:04:32][SUCCESS_VOICE_GEN] gTTS audio generated successfully
+[INFO][2026/05/07][18:05:13][CHAT_MSG] User message: abhi to Ek Koi Achcha gana chala de...
+[INFO][2026/05/07][18:05:13][MUSIC_CMD] Spotify play attempt: abhi to Ek Koi Achcha   de
+[INFO][2026/05/07][18:05:13][MUSIC_CMD] Spotify search: abhi to Ek Koi Achcha   de
+[WARN][2026/05/07][18:05:13][SPOTIFY_WARN] Spotify failed: [object Object]
+[INFO][2026/05/07][18:05:13][YT_FALLBACK] YouTube fallback for: abhi to Ek Koi Achcha   de
+[INFO][2026/05/07][18:05:13][YT_SEARCH] YouTube search: abhi to Ek Koi Achcha   de
+[WARN][2026/05/07][18:05:16][YT_WARN] Invidious instance failed: https://invidious.io
+[INFO][2026/05/07][18:05:16][YT_SEARCH] YouTube search: abhi to Ek Koi Achcha   de
+[WARN][2026/05/07][18:05:17][YT_WARN] Invidious instance failed: https://vid.puffyan.us
+[INFO][2026/05/07][18:05:17][YT_SEARCH] YouTube search: abhi to Ek Koi Achcha   de
+[WARN][2026/05/07][18:05:19][YT_WARN] Invidious instance failed: https://invidious.slipfox.xyz
+[INFO][2026/05/07][18:05:19][YT_SEARCH] YouTube search: abhi to Ek Koi Achcha   de
+[WARN][2026/05/07][18:05:20][YT_WARN] Invidious instance failed: https://yt.artemislena.eu
+[WARN][2026/05/07][18:05:20][YT_WARN] YouTube also failed: YouTube search failed on all instances
+[INFO][2026/05/07][18:05:20][VOICE_TTS] TTS request received
+[INFO][2026/05/07][18:05:20][VOICE_GEN] gTTS TTS initiated
+[INFO][2026/05/07][18:05:23][SUCCESS_VOICE_GEN] gTTS audio generated successfully
+[INFO][2026/05/07][18:05:40][CHAT_MSG] User message: YouTube se chala de...
+[INFO][2026/05/07][18:05:40][MUSIC_CMD] Spotify play attempt: YouTube se  de
+[INFO][2026/05/07][18:05:40][MUSIC_CMD] Spotify search: YouTube se  de
+[WARN][2026/05/07][18:05:41][SPOTIFY_WARN] Spotify failed: [object Object]
+[INFO][2026/05/07][18:05:41][YT_FALLBACK] YouTube fallback for: YouTube se  de
+[INFO][2026/05/07][18:05:41][YT_SEARCH] YouTube search: YouTube se  de
+[WARN][2026/05/07][18:05:42][YT_WARN] Invidious instance failed: https://invidious.io
+[INFO][2026/05/07][18:05:42][YT_SEARCH] YouTube search: YouTube se  de
+[WARN][2026/05/07][18:05:43][YT_WARN] Invidious instance failed: https://vid.puffyan.us
+[INFO][2026/05/07][18:05:43][YT_SEARCH] YouTube search: YouTube se  de
+[WARN][2026/05/07][18:05:44][YT_WARN] Invidious instance failed: https://invidious.slipfox.xyz
+[INFO][2026/05/07][18:05:44][YT_SEARCH] YouTube search: YouTube se  de
+[WARN][2026/05/07][18:05:44][YT_WARN] Invidious instance failed: https://yt.artemislena.eu
+[WARN][2026/05/07][18:05:44][YT_WARN] YouTube also failed: YouTube search failed on all instances
+[INFO][2026/05/07][18:05:45][VOICE_TTS] TTS request received
+[INFO][2026/05/07][18:05:45][VOICE_GEN] gTTS TTS initiated
+[INFO][2026/05/07][18:05:47][SUCCESS_VOICE_GEN] gTTS audio generated successfully
+[INFO][2026/05/07][18:06:07][SOCKET_DISCONNECT] Socket disconnected: GMB2nRIcXvtMb2xFAAAB
+[INFO][2026/05/07][18:07:42][USER_LOGIN] User logged in: zoric@gmail.com
+[INFO][2026/05/07][18:07:43][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/07][18:07:43][SOCKET_CONNECT] Socket connected: RTokPA_lu7YLbKl7AAAE
+[INFO][2026/05/07][18:07:43][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/07][18:07:43][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/07][18:07:43][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/07][18:07:43][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][18:07:43][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][18:07:43][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][18:07:43][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][18:07:43][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][18:07:43][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][18:07:44][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][18:07:44][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][18:07:44][SUCCESS_AI_RESPONSE] Groq response received in 600ms
+[INFO][2026/05/07][18:07:44][SUCCESS_AI_RESPONSE] Groq response received in 591ms
+[INFO][2026/05/07][18:07:44][SUCCESS_AI_RESPONSE] Groq response received in 624ms
+[INFO][2026/05/07][18:07:44][SUCCESS_CHAT_DONE] Chat response in 601ms
+[INFO][2026/05/07][18:07:44][SUCCESS_CHAT_DONE] Chat response in 593ms
+[INFO][2026/05/07][18:07:44][SUCCESS_CHAT_DONE] Chat response in 627ms
+[INFO][2026/05/07][18:07:44][SUCCESS_AI_RESPONSE] Groq response received in 573ms
+[INFO][2026/05/07][18:07:44][SUCCESS_CHAT_DONE] Chat response in 576ms
+[INFO][2026/05/07][18:07:55][CHAT_MSG] User message: mujhe aaj ki latest news Bata...
+[INFO][2026/05/07][18:07:55][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][18:07:55][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][18:07:56][SUCCESS_AI_RESPONSE] Groq response received in 749ms
+[INFO][2026/05/07][18:07:56][SUCCESS_CHAT_DONE] Chat response in 754ms
+[INFO][2026/05/07][18:07:56][VOICE_TTS] TTS request received
+[INFO][2026/05/07][18:07:56][VOICE_GEN] gTTS TTS initiated
+[INFO][2026/05/07][18:08:00][SUCCESS_VOICE_GEN] gTTS audio generated successfully
+[INFO][2026/05/07][18:08:26][CHAT_MSG] User message: IPL ki news Bata...
+[INFO][2026/05/07][18:08:27][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][18:08:27][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][18:08:28][SUCCESS_AI_RESPONSE] Groq response received in 947ms
+[INFO][2026/05/07][18:08:28][SUCCESS_CHAT_DONE] Chat response in 952ms
+[INFO][2026/05/07][18:08:28][VOICE_TTS] TTS request received
+[INFO][2026/05/07][18:08:28][VOICE_GEN] gTTS TTS initiated
+[INFO][2026/05/07][18:08:30][SUCCESS_VOICE_GEN] gTTS audio generated successfully
+[INFO][2026/05/07][18:08:44][CHAT_MSG] User message: Ab To Har Bar 2026 ki news bataega na ki 2024 ki...
+[INFO][2026/05/07][18:08:44][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][18:08:44][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][18:08:45][SUCCESS_AI_RESPONSE] Groq response received in 978ms
+[INFO][2026/05/07][18:08:45][SUCCESS_CHAT_DONE] Chat response in 982ms
+[INFO][2026/05/07][18:08:45][VOICE_TTS] TTS request received
+[INFO][2026/05/07][18:08:45][VOICE_GEN] gTTS TTS initiated
+[INFO][2026/05/07][18:08:50][SUCCESS_VOICE_GEN] gTTS audio generated successfully
+[INFO][2026/05/07][18:10:54][CHAT_MSG] User message: ab tum mujhe Har Bar Sar Bole gana ki Boss...
+[INFO][2026/05/07][18:10:54][MUSIC_CMD] Spotify play attempt: ab tum mujhe Har Bar Sar Bole  ki Boss
+[INFO][2026/05/07][18:10:54][MUSIC_CMD] Spotify search: ab tum mujhe Har Bar Sar Bole  ki Boss
+[WARN][2026/05/07][18:10:55][SPOTIFY_WARN] Spotify failed: [object Object]
+[INFO][2026/05/07][18:10:55][YT_FALLBACK] YouTube fallback for: ab tum mujhe Har Bar Sar Bole  ki Boss
+[INFO][2026/05/07][18:10:55][YT_SEARCH] YouTube search: ab tum mujhe Har Bar Sar Bole  ki Boss
+[WARN][2026/05/07][18:10:56][YT_WARN] Invidious instance failed: https://invidious.io
+[INFO][2026/05/07][18:10:56][YT_SEARCH] YouTube search: ab tum mujhe Har Bar Sar Bole  ki Boss
+[WARN][2026/05/07][18:10:57][YT_WARN] Invidious instance failed: https://vid.puffyan.us
+[INFO][2026/05/07][18:10:57][YT_SEARCH] YouTube search: ab tum mujhe Har Bar Sar Bole  ki Boss
+[WARN][2026/05/07][18:10:58][YT_WARN] Invidious instance failed: https://invidious.slipfox.xyz
+[INFO][2026/05/07][18:10:58][YT_SEARCH] YouTube search: ab tum mujhe Har Bar Sar Bole  ki Boss
+[WARN][2026/05/07][18:10:59][YT_WARN] Invidious instance failed: https://yt.artemislena.eu
+[WARN][2026/05/07][18:10:59][YT_WARN] YouTube also failed: YouTube search failed on all instances
+[INFO][2026/05/07][18:10:59][VOICE_TTS] TTS request received
+[INFO][2026/05/07][18:10:59][VOICE_GEN] gTTS TTS initiated
+[INFO][2026/05/07][18:11:02][SUCCESS_VOICE_GEN] gTTS audio generated successfully
+[INFO][2026/05/07][18:11:18][CHAT_MSG] User message: karo ab tum mujhe Har Bar Sar Bulana na ki Boss...
+[INFO][2026/05/07][18:11:18][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][18:11:18][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][18:11:19][SUCCESS_AI_RESPONSE] Groq response received in 778ms
+[INFO][2026/05/07][18:11:19][SUCCESS_CHAT_DONE] Chat response in 783ms
+[INFO][2026/05/07][18:11:19][VOICE_TTS] TTS request received
+[INFO][2026/05/07][18:11:19][VOICE_GEN] gTTS TTS initiated
+[INFO][2026/05/07][18:11:19][SUCCESS_VOICE_GEN] gTTS audio generated successfully
+[INFO][2026/05/07][18:11:27][CHAT_MSG] User message: Sir!...
+[INFO][2026/05/07][18:11:28][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][18:11:28][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][18:11:28][SUCCESS_AI_RESPONSE] Groq response received in 783ms
+[INFO][2026/05/07][18:11:28][SUCCESS_CHAT_DONE] Chat response in 806ms
+[INFO][2026/05/07][18:11:28][VOICE_TTS] TTS request received
+[INFO][2026/05/07][18:11:28][VOICE_GEN] gTTS TTS initiated
+[INFO][2026/05/07][18:11:32][SUCCESS_VOICE_GEN] gTTS audio generated successfully
+[INFO][2026/05/07][18:11:46][CHAT_MSG] User message: Nahi mujhe sir! Kehkar bulana...
+[INFO][2026/05/07][18:11:47][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][18:11:47][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][18:11:48][SUCCESS_AI_RESPONSE] Groq response received in 840ms
+[INFO][2026/05/07][18:11:48][SUCCESS_CHAT_DONE] Chat response in 845ms
+[INFO][2026/05/07][18:11:48][VOICE_TTS] TTS request received
+[INFO][2026/05/07][18:11:48][VOICE_GEN] gTTS TTS initiated
+[INFO][2026/05/07][18:11:51][SUCCESS_VOICE_GEN] gTTS audio generated successfully
+[INFO][2026/05/07][18:16:44][SERVER_START] ZORIC Backend started on port 5000
+[INFO][2026/05/07][18:16:44][SERVER_START] ZORIC V4.2 — DECODE. EXECUTE. COMMAND.
+[INFO][2026/05/07][18:16:46][DB_CONNECT] MongoDB Atlas Connected: ac-d5b1g54-shard-00-02.qeo8pgy.mongodb.net
+[INFO][2026/05/07][18:16:46][SUCCESS_SPOTIFY_INIT] Spotify tokens loaded from DB
+[INFO][2026/05/07][18:16:47][SOCKET_CONNECT] Socket connected: Gv3VCCwT7tDPRQWgAAAB
+[INFO][2026/05/07][18:16:48][SPOTIFY_REFRESH] Spotify token refreshed
+[INFO][2026/05/07][18:16:50][CHAT_MSG] User message: hello sorry...
+[INFO][2026/05/07][18:16:51][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][18:16:51][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][18:16:52][SUCCESS_AI_RESPONSE] Groq response received in 1209ms
+[INFO][2026/05/07][18:16:52][SUCCESS_CHAT_DONE] Chat response in 1238ms
+[INFO][2026/05/07][18:16:52][VOICE_TTS] TTS request received
+[INFO][2026/05/07][18:16:52][VOICE_GEN] gTTS TTS initiated
+[INFO][2026/05/07][18:16:56][SUCCESS_VOICE_GEN] gTTS audio generated successfully
+[INFO][2026/05/07][18:17:24][CHAT_MSG] User message: main aisa bol raha tha ki hello sorry na ki sorry...
+[INFO][2026/05/07][18:17:24][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][18:17:24][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][18:17:24][SUCCESS_AI_RESPONSE] Groq response received in 542ms
+[INFO][2026/05/07][18:17:25][SUCCESS_CHAT_DONE] Chat response in 547ms
+[INFO][2026/05/07][18:17:25][VOICE_TTS] TTS request received
+[INFO][2026/05/07][18:17:25][VOICE_GEN] gTTS TTS initiated
+[INFO][2026/05/07][18:17:28][SUCCESS_VOICE_GEN] gTTS audio generated successfully
+[INFO][2026/05/07][18:17:42][CHAT_MSG] User message: are main sorry bol raha tha sorry sorry...
+[INFO][2026/05/07][18:17:42][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][18:17:42][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][18:17:43][SUCCESS_AI_RESPONSE] Groq response received in 899ms
+[INFO][2026/05/07][18:17:43][SUCCESS_CHAT_DONE] Chat response in 905ms
+[INFO][2026/05/07][18:17:43][VOICE_TTS] TTS request received
+[INFO][2026/05/07][18:17:43][VOICE_GEN] gTTS TTS initiated
+[INFO][2026/05/07][18:17:48][SUCCESS_VOICE_GEN] gTTS audio generated successfully
+[INFO][2026/05/07][18:17:51][CHAT_MSG] User message: Abe zoric...
+[INFO][2026/05/07][18:17:51][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][18:17:51][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][18:17:52][SUCCESS_AI_RESPONSE] Groq response received in 685ms
+[INFO][2026/05/07][18:17:52][SUCCESS_CHAT_DONE] Chat response in 693ms
+[INFO][2026/05/07][18:17:52][VOICE_TTS] TTS request received
+[INFO][2026/05/07][18:17:52][VOICE_GEN] gTTS TTS initiated
+[INFO][2026/05/07][18:17:55][SUCCESS_VOICE_GEN] gTTS audio generated successfully
+[INFO][2026/05/07][18:18:20][CHAT_MSG] User message: Mujhe yah Bata ki tu क्या-क्या kar sakta hai aur k...
+[INFO][2026/05/07][18:18:21][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][18:18:21][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][18:18:22][SUCCESS_AI_RESPONSE] Groq response received in 1813ms
+[INFO][2026/05/07][18:18:22][SUCCESS_CHAT_DONE] Chat response in 1819ms
+[INFO][2026/05/07][18:18:22][VOICE_TTS] TTS request received
+[INFO][2026/05/07][18:18:22][VOICE_GEN] gTTS TTS initiated
+[INFO][2026/05/07][18:18:44][SUCCESS_VOICE_GEN] gTTS audio generated successfully
+[INFO][2026/05/07][18:19:27][CHAT_MSG] User message: zoric Europe ka latest video kaun sa hai woh Bata ...
+[INFO][2026/05/07][18:19:27][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][18:19:27][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/07][18:19:28][SUCCESS_AI_RESPONSE] Groq response received in 966ms
+[INFO][2026/05/07][18:19:28][SUCCESS_CHAT_DONE] Chat response in 971ms
+[INFO][2026/05/07][18:19:28][VOICE_TTS] TTS request received
+[INFO][2026/05/07][18:19:28][VOICE_GEN] gTTS TTS initiated
+[INFO][2026/05/07][18:19:37][SUCCESS_VOICE_GEN] gTTS audio generated successfully
+[INFO][2026/05/07][18:19:40][CHAT_MSG] User message: Nahin gamer flat ka gamer plate...
+[INFO][2026/05/07][18:19:40][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][18:19:40][AI_REQUEST] Groq API call initiated
+[ERROR][2026/05/07][18:19:40][GROQ_ERROR] Groq API error: 429 {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kkd5ych6e74vrwqvw30g9f77` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99349, Requested 2061. Please try again in 20m18.24s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+[ERROR][2026/05/07][18:19:40][CHAT_ERROR] Chat error: 429 {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kkd5ych6e74vrwqvw30g9f77` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99349, Requested 2061. Please try again in 20m18.24s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+[INFO][2026/05/07][18:20:26][CHAT_MSG] User message: zarif Jara check karo ki aaj game off let ka koi v...
+[INFO][2026/05/07][18:20:27][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/07][18:20:27][AI_REQUEST] Groq API call initiated
+[ERROR][2026/05/07][18:20:27][GROQ_ERROR] Groq API error: 429 {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kkd5ych6e74vrwqvw30g9f77` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99295, Requested 1692. Please try again in 14m12.768s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+[ERROR][2026/05/07][18:20:27][CHAT_ERROR] Chat error: 429 {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kkd5ych6e74vrwqvw30g9f77` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99295, Requested 1692. Please try again in 14m12.768s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+[INFO][2026/05/07][18:21:00][SOCKET_DISCONNECT] Socket disconnected: Gv3VCCwT7tDPRQWgAAAB

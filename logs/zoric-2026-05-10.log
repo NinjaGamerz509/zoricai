@@ -1,0 +1,503 @@
+[INFO][2026/05/10][18:48:38][SERVER_START] ZORIC Backend V2.0 started on port 5000
+[INFO][2026/05/10][18:48:38][SERVER_START] ZORIC V2.0 — DECODE. EXECUTE. COMMAND.
+[INFO][2026/05/10][18:48:40][DB_CONNECT] MongoDB Atlas Connected: ac-d5b1g54-shard-00-00.qeo8pgy.mongodb.net
+[INFO][2026/05/10][18:48:41][SUCCESS_INIT] ZORIC V2.0 initialized!
+[INFO][2026/05/10][18:49:19][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/10][18:49:19][SOCKET_CONNECT] Socket connected: 1g20uYC76r_0jKOaAAAC
+[INFO][2026/05/10][18:49:19][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/10][18:49:19][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/10][18:49:20][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/10][18:49:20][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/10][18:49:20][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/10][18:49:20][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/10][18:49:20][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/10][18:49:20][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/10][18:49:20][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/10][18:49:20][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/10][18:49:20][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/10][18:49:20][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/10][18:49:20][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/10][18:49:22][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][18:49:23][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][18:49:23][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][18:49:23][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][18:49:23][SOCKET_DISCONNECT] Socket disconnected: 1g20uYC76r_0jKOaAAAC
+[INFO][2026/05/10][18:49:24][SUCCESS_AI_RESPONSE] Groq response in 840ms [llama-3.1-8b-instant]
+[INFO][2026/05/10][18:49:24][SUCCESS_AGENT_DONE] Multi-agent complete
+[INFO][2026/05/10][18:49:24][SUCCESS_CHAT_DONE] Chat response in 3905ms
+[INFO][2026/05/10][18:49:27][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/10][18:49:27][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/10][18:49:27][SOCKET_CONNECT] Socket connected: EUSt1h6uVqdd7pE6AAAF
+[INFO][2026/05/10][18:49:27][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/10][18:49:27][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/10][18:49:27][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/10][18:49:27][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/10][18:49:27][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/10][18:49:27][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/10][18:49:27][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/10][18:49:27][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/10][18:49:27][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/10][18:49:27][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/10][18:49:28][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/10][18:49:28][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/10][18:49:29][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][18:49:29][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][18:49:30][SUCCESS_AI_RESPONSE] Groq response in 663ms [llama-3.1-8b-instant]
+[INFO][2026/05/10][18:49:30][SUCCESS_AGENT_DONE] Multi-agent complete
+[INFO][2026/05/10][18:49:30][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][18:49:30][SUCCESS_CHAT_DONE] Chat response in 2363ms
+[INFO][2026/05/10][18:49:30][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][18:49:46][SUCCESS_AI_RESPONSE] Groq response in 15655ms [llama-3.1-8b-instant]
+[INFO][2026/05/10][18:49:46][SUCCESS_AGENT_DONE] Multi-agent complete
+[INFO][2026/05/10][18:49:46][SUCCESS_CHAT_DONE] Chat response in 18053ms
+[WARN][2026/05/10][18:49:54][MODEL_FALLBACK] Rate limit on llama-3.1-8b-instant — switching to llama3-8b-8192
+[INFO][2026/05/10][18:49:54][AI_REQUEST] Groq API call: llama3-8b-8192
+[ERROR][2026/05/10][18:49:55][GROQ_ERROR] Groq error [llama3-8b-8192]: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[ERROR][2026/05/10][18:49:55][CHAT_ERROR] Chat error: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[WARN][2026/05/10][18:49:55][MODEL_FALLBACK] Rate limit on llama-3.1-8b-instant — switching to llama3-8b-8192
+[INFO][2026/05/10][18:49:55][AI_REQUEST] Groq API call: llama3-8b-8192
+[WARN][2026/05/10][18:49:55][MODEL_FALLBACK] Rate limit on llama-3.1-8b-instant — switching to llama3-8b-8192
+[INFO][2026/05/10][18:49:55][AI_REQUEST] Groq API call: llama3-8b-8192
+[ERROR][2026/05/10][18:49:55][GROQ_ERROR] Groq error [llama3-8b-8192]: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[ERROR][2026/05/10][18:49:55][CHAT_ERROR] Chat error: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[ERROR][2026/05/10][18:49:55][GROQ_ERROR] Groq error [llama3-8b-8192]: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[ERROR][2026/05/10][18:49:55][CHAT_ERROR] Chat error: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[WARN][2026/05/10][18:50:19][MODEL_FALLBACK] Rate limit on llama-3.1-8b-instant — switching to llama3-8b-8192
+[INFO][2026/05/10][18:50:19][AI_REQUEST] Groq API call: llama3-8b-8192
+[ERROR][2026/05/10][18:50:19][GROQ_ERROR] Groq error [llama3-8b-8192]: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[ERROR][2026/05/10][18:50:19][CHAT_ERROR] Chat error: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[INFO][2026/05/10][18:50:19][SUCCESS_AI_RESPONSE] Groq response in 50166ms [llama-3.1-8b-instant]
+[INFO][2026/05/10][18:50:19][SUCCESS_AGENT_DONE] Multi-agent complete
+[INFO][2026/05/10][18:50:20][SUCCESS_CHAT_DONE] Chat response in 52155ms
+[INFO][2026/05/10][18:50:21][SOCKET_DISCONNECT] Socket disconnected: EUSt1h6uVqdd7pE6AAAF
+[INFO][2026/05/10][18:50:38][USER_LOGIN] User logged in: zoric@gmail.com
+[INFO][2026/05/10][18:50:38][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/10][18:50:38][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/10][18:50:38][SOCKET_CONNECT] Socket connected: NLkQ56R0DLaGXPZ_AAAI
+[INFO][2026/05/10][18:50:38][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/10][18:50:38][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/10][18:50:39][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/10][18:50:39][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/10][18:50:39][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/10][18:50:39][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/10][18:50:39][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/10][18:50:39][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/10][18:50:39][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/10][18:50:39][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/10][18:50:39][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/10][18:50:39][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/10][18:50:41][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][18:50:41][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][18:50:41][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][18:50:42][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][18:50:42][SUCCESS_AI_RESPONSE] Groq response in 824ms [llama-3.1-8b-instant]
+[INFO][2026/05/10][18:50:42][SUCCESS_AGENT_DONE] Multi-agent complete
+[INFO][2026/05/10][18:50:42][SUCCESS_CHAT_DONE] Chat response in 3394ms
+[WARN][2026/05/10][18:50:59][MODEL_FALLBACK] Rate limit on llama-3.1-8b-instant — switching to llama3-8b-8192
+[INFO][2026/05/10][18:50:59][AI_REQUEST] Groq API call: llama3-8b-8192
+[ERROR][2026/05/10][18:51:00][GROQ_ERROR] Groq error [llama3-8b-8192]: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[ERROR][2026/05/10][18:51:00][CHAT_ERROR] Chat error: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[INFO][2026/05/10][18:51:08][SUCCESS_AI_RESPONSE] Groq response in 26791ms [llama-3.1-8b-instant]
+[INFO][2026/05/10][18:51:08][SUCCESS_AGENT_DONE] Multi-agent complete
+[INFO][2026/05/10][18:51:08][SUCCESS_CHAT_DONE] Chat response in 29457ms
+[WARN][2026/05/10][18:51:08][MODEL_FALLBACK] Rate limit on llama-3.1-8b-instant — switching to llama3-8b-8192
+[INFO][2026/05/10][18:51:08][AI_REQUEST] Groq API call: llama3-8b-8192
+[ERROR][2026/05/10][18:51:08][GROQ_ERROR] Groq error [llama3-8b-8192]: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[ERROR][2026/05/10][18:51:08][CHAT_ERROR] Chat error: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[INFO][2026/05/10][18:51:23][SOCKET_DISCONNECT] Socket disconnected: NLkQ56R0DLaGXPZ_AAAI
+[INFO][2026/05/10][18:51:47][SOCKET_CONNECT] Socket connected: PReK5CKOgmHbGH2bAAAL
+[INFO][2026/05/10][18:51:50][SOCKET_DISCONNECT] Socket disconnected: PReK5CKOgmHbGH2bAAAL
+[INFO][2026/05/10][18:51:56][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/10][18:51:56][SOCKET_CONNECT] Socket connected: Y7L4xrhUc6jRM2gHAAAO
+[INFO][2026/05/10][18:51:56][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/10][18:51:56][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/10][18:51:56][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/10][18:51:56][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/10][18:51:56][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/10][18:51:56][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/10][18:51:56][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/10][18:51:56][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/10][18:51:56][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/10][18:51:56][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/10][18:51:56][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/10][18:51:56][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/10][18:51:56][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/10][18:51:58][SOCKET_DISCONNECT] Socket disconnected: Y7L4xrhUc6jRM2gHAAAO
+[INFO][2026/05/10][18:51:58][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][18:51:58][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][18:51:59][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][18:51:59][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][18:51:59][SUCCESS_AI_RESPONSE] Groq response in 560ms [llama-3.1-8b-instant]
+[INFO][2026/05/10][18:51:59][SUCCESS_AGENT_DONE] Multi-agent complete
+[INFO][2026/05/10][18:51:59][SUCCESS_AI_RESPONSE] Groq response in 597ms [llama-3.1-8b-instant]
+[INFO][2026/05/10][18:51:59][SUCCESS_AGENT_DONE] Multi-agent complete
+[INFO][2026/05/10][18:51:59][SUCCESS_CHAT_DONE] Chat response in 3144ms
+[INFO][2026/05/10][18:51:59][SUCCESS_CHAT_DONE] Chat response in 3078ms
+[INFO][2026/05/10][18:52:00][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/10][18:52:00][SOCKET_CONNECT] Socket connected: uI-x-z0f3Scgt0x9AAAR
+[INFO][2026/05/10][18:52:00][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/10][18:52:00][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/10][18:52:00][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/10][18:52:00][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/10][18:52:00][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/10][18:52:00][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/10][18:52:00][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/10][18:52:00][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/10][18:52:00][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/10][18:52:00][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/10][18:52:00][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/10][18:52:00][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/10][18:52:00][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/10][18:52:01][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][18:52:01][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][18:52:02][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][18:52:02][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][18:52:06][SOCKET_DISCONNECT] Socket disconnected: uI-x-z0f3Scgt0x9AAAR
+[INFO][2026/05/10][18:52:20][SOCKET_CONNECT] Socket connected: y-eXYXt3A5qVk4MDAAAU
+[INFO][2026/05/10][18:52:21][SUCCESS_AI_RESPONSE] Groq response in 21991ms [llama-3.1-8b-instant]
+[INFO][2026/05/10][18:52:21][SUCCESS_AGENT_DONE] Multi-agent complete
+[INFO][2026/05/10][18:52:21][SUCCESS_CHAT_DONE] Chat response in 24723ms
+[INFO][2026/05/10][18:52:21][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/10][18:52:22][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/10][18:52:22][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/10][18:52:22][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/10][18:52:25][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][18:52:26][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/10][18:52:26][SOCKET_DISCONNECT] Socket disconnected: y-eXYXt3A5qVk4MDAAAU
+[INFO][2026/05/10][18:52:26][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/10][18:52:26][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/10][18:52:27][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/10][18:52:27][SOCKET_CONNECT] Socket connected: 9G30jv8K7houuAH2AAAX
+[INFO][2026/05/10][18:52:27][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/10][18:52:27][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/10][18:52:27][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/10][18:52:27][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/10][18:52:27][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/10][18:52:27][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/10][18:52:27][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/10][18:52:27][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/10][18:52:27][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/10][18:52:27][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/10][18:52:27][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/10][18:52:27][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/10][18:52:27][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/10][18:52:28][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][18:52:29][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][18:52:29][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][18:52:29][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][18:52:30][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][18:52:38][CHAT_MSG] User message: he is oric...
+[INFO][2026/05/10][18:52:38][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/10][18:52:38][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][18:52:41][SUCCESS_AI_RESPONSE] Groq response in 3682ms [llama-3.1-8b-instant]
+[INFO][2026/05/10][18:52:42][SUCCESS_CHAT_DONE] Chat response in 3700ms
+[INFO][2026/05/10][18:52:42][VOICE_TTS] TTS request received
+[INFO][2026/05/10][18:52:42][VOICE_GEN] msEdge TTS initiated
+[WARN][2026/05/10][18:52:44][MODEL_FALLBACK] Rate limit on llama-3.1-8b-instant — switching to llama3-8b-8192
+[INFO][2026/05/10][18:52:44][AI_REQUEST] Groq API call: llama3-8b-8192
+[ERROR][2026/05/10][18:52:44][GROQ_ERROR] Groq error [llama3-8b-8192]: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[ERROR][2026/05/10][18:52:44][CHAT_ERROR] Chat error: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[INFO][2026/05/10][18:52:45][SUCCESS_VOICE_GEN] msEdge TTS audio ready
+[WARN][2026/05/10][18:52:46][MODEL_FALLBACK] Rate limit on llama-3.1-8b-instant — switching to llama3-8b-8192
+[INFO][2026/05/10][18:52:46][AI_REQUEST] Groq API call: llama3-8b-8192
+[ERROR][2026/05/10][18:52:46][GROQ_ERROR] Groq error [llama3-8b-8192]: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[ERROR][2026/05/10][18:52:46][CHAT_ERROR] Chat error: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[WARN][2026/05/10][18:52:46][MODEL_FALLBACK] Rate limit on llama-3.1-8b-instant — switching to llama3-8b-8192
+[INFO][2026/05/10][18:52:46][AI_REQUEST] Groq API call: llama3-8b-8192
+[ERROR][2026/05/10][18:52:46][GROQ_ERROR] Groq error [llama3-8b-8192]: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[ERROR][2026/05/10][18:52:46][CHAT_ERROR] Chat error: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[WARN][2026/05/10][18:52:46][MODEL_FALLBACK] Rate limit on llama-3.1-8b-instant — switching to llama3-8b-8192
+[INFO][2026/05/10][18:52:46][AI_REQUEST] Groq API call: llama3-8b-8192
+[ERROR][2026/05/10][18:52:46][GROQ_ERROR] Groq error [llama3-8b-8192]: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[ERROR][2026/05/10][18:52:46][CHAT_ERROR] Chat error: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[WARN][2026/05/10][18:52:54][MODEL_FALLBACK] Rate limit on llama-3.1-8b-instant — switching to llama3-8b-8192
+[INFO][2026/05/10][18:52:54][AI_REQUEST] Groq API call: llama3-8b-8192
+[ERROR][2026/05/10][18:52:54][GROQ_ERROR] Groq error [llama3-8b-8192]: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[ERROR][2026/05/10][18:52:54][CHAT_ERROR] Chat error: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[INFO][2026/05/10][18:53:03][SUCCESS_AI_RESPONSE] Groq response in 33964ms [llama-3.1-8b-instant]
+[INFO][2026/05/10][18:53:03][SUCCESS_AGENT_DONE] Multi-agent complete
+[WARN][2026/05/10][18:53:03][MODEL_FALLBACK] Rate limit on llama-3.1-8b-instant — switching to llama3-8b-8192
+[INFO][2026/05/10][18:53:03][AI_REQUEST] Groq API call: llama3-8b-8192
+[INFO][2026/05/10][18:53:03][SUCCESS_CHAT_DONE] Chat response in 36361ms
+[ERROR][2026/05/10][18:53:03][GROQ_ERROR] Groq error [llama3-8b-8192]: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[ERROR][2026/05/10][18:53:03][CHAT_ERROR] Chat error: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[WARN][2026/05/10][18:53:03][MODEL_FALLBACK] Rate limit on llama-3.1-8b-instant — switching to llama3-8b-8192
+[INFO][2026/05/10][18:53:03][AI_REQUEST] Groq API call: llama3-8b-8192
+[ERROR][2026/05/10][18:53:04][GROQ_ERROR] Groq error [llama3-8b-8192]: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[ERROR][2026/05/10][18:53:04][CHAT_ERROR] Chat error: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[WARN][2026/05/10][18:53:04][MODEL_FALLBACK] Rate limit on llama-3.1-8b-instant — switching to llama3-8b-8192
+[INFO][2026/05/10][18:53:04][AI_REQUEST] Groq API call: llama3-8b-8192
+[ERROR][2026/05/10][18:53:05][GROQ_ERROR] Groq error [llama3-8b-8192]: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[ERROR][2026/05/10][18:53:05][CHAT_ERROR] Chat error: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[WARN][2026/05/10][18:53:12][MODEL_FALLBACK] Rate limit on llama-3.1-8b-instant — switching to llama3-8b-8192
+[INFO][2026/05/10][18:53:12][AI_REQUEST] Groq API call: llama3-8b-8192
+[ERROR][2026/05/10][18:53:12][GROQ_ERROR] Groq error [llama3-8b-8192]: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[ERROR][2026/05/10][18:53:12][CHAT_ERROR] Chat error: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[WARN][2026/05/10][18:53:14][MODEL_FALLBACK] Rate limit on llama-3.1-8b-instant — switching to llama3-8b-8192
+[INFO][2026/05/10][18:53:14][AI_REQUEST] Groq API call: llama3-8b-8192
+[ERROR][2026/05/10][18:53:14][GROQ_ERROR] Groq error [llama3-8b-8192]: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[ERROR][2026/05/10][18:53:14][CHAT_ERROR] Chat error: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[INFO][2026/05/10][18:53:17][CHAT_MSG] User message: abiswari Tera Naam Hai Mera Naam Nisha Ki Marzi...
+[INFO][2026/05/10][18:53:18][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/10][18:53:18][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][18:53:24][SUCCESS_AI_RESPONSE] Groq response in 5848ms [llama-3.1-8b-instant]
+[INFO][2026/05/10][18:53:24][SUCCESS_CHAT_DONE] Chat response in 5859ms
+[INFO][2026/05/10][18:53:24][VOICE_TTS] TTS request received
+[INFO][2026/05/10][18:53:24][VOICE_GEN] msEdge TTS initiated
+[INFO][2026/05/10][18:53:30][SUCCESS_VOICE_GEN] msEdge TTS audio ready
+[INFO][2026/05/10][18:53:41][CHAT_MSG] User message: Abe Tera name ZORIC hai mera name hai NinjaGamerz...
+[INFO][2026/05/10][18:53:42][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/10][18:53:42][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][18:53:47][SUCCESS_AI_RESPONSE] Groq response in 5905ms [llama-3.1-8b-instant]
+[INFO][2026/05/10][18:53:47][SUCCESS_CHAT_DONE] Chat response in 5917ms
+[INFO][2026/05/10][18:53:48][VOICE_TTS] TTS request received
+[INFO][2026/05/10][18:53:48][VOICE_GEN] msEdge TTS initiated
+[INFO][2026/05/10][18:53:57][SUCCESS_VOICE_GEN] msEdge TTS audio ready
+[INFO][2026/05/10][18:56:41][SOCKET_DISCONNECT] Socket disconnected: 9G30jv8K7houuAH2AAAX
+[INFO][2026/05/10][18:56:43][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/10][18:56:43][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/10][18:56:43][SOCKET_CONNECT] Socket connected: xrEn0esEVZUr0aB8AAAa
+[INFO][2026/05/10][18:56:43][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/10][18:56:43][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/10][18:56:43][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/10][18:56:43][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/10][18:56:43][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/10][18:56:43][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/10][18:56:43][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/10][18:56:43][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/10][18:56:43][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/10][18:56:43][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/10][18:56:43][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/10][18:56:43][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/10][18:56:46][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][18:56:46][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][18:56:46][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][18:56:46][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][18:56:47][SUCCESS_AI_RESPONSE] Groq response in 659ms [llama-3.1-8b-instant]
+[INFO][2026/05/10][18:56:47][SUCCESS_AGENT_DONE] Multi-agent complete
+[INFO][2026/05/10][18:56:47][SUCCESS_AI_RESPONSE] Groq response in 727ms [llama-3.1-8b-instant]
+[INFO][2026/05/10][18:56:47][SUCCESS_AGENT_DONE] Multi-agent complete
+[INFO][2026/05/10][18:56:47][SUCCESS_CHAT_DONE] Chat response in 3676ms
+[INFO][2026/05/10][18:56:47][SUCCESS_CHAT_DONE] Chat response in 3476ms
+[INFO][2026/05/10][18:57:01][CHAT_MSG] User message: aaj ki latest news Bata...
+[INFO][2026/05/10][18:57:01][AGENT_MULTI] Multi-agent spawned for: search, news
+[INFO][2026/05/10][18:57:01][NEWS_SEARCH] News search: aaj ki latest news Bata
+[INFO][2026/05/10][18:57:01][TAVILY_SEARCH] Tavily search: aaj ki latest news Bata
+[INFO][2026/05/10][18:57:03][SUCCESS_TAVILY_SUCCESS] Tavily search complete
+[INFO][2026/05/10][18:57:04][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][18:57:09][SUCCESS_AI_RESPONSE] Groq response in 22823ms [llama-3.1-8b-instant]
+[INFO][2026/05/10][18:57:09][SUCCESS_AGENT_DONE] Multi-agent complete
+[INFO][2026/05/10][18:57:09][SUCCESS_CHAT_DONE] Chat response in 25617ms
+[INFO][2026/05/10][18:57:32][SUCCESS_AI_RESPONSE] Groq response in 46013ms [llama-3.1-8b-instant]
+[INFO][2026/05/10][18:57:32][SUCCESS_AGENT_DONE] Multi-agent complete
+[INFO][2026/05/10][18:57:32][SUCCESS_CHAT_DONE] Chat response in 48946ms
+[WARN][2026/05/10][18:57:35][MODEL_FALLBACK] Rate limit on llama-3.1-8b-instant — switching to llama3-8b-8192
+[INFO][2026/05/10][18:57:35][AI_REQUEST] Groq API call: llama3-8b-8192
+[ERROR][2026/05/10][18:57:35][GROQ_ERROR] Groq error [llama3-8b-8192]: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[ERROR][2026/05/10][18:57:35][CHAT_ERROR] Chat error: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[INFO][2026/05/10][18:57:57][CHAT_MSG] User message: mujhe aaj ki latest news Bata...
+[INFO][2026/05/10][18:57:57][AGENT_MULTI] Multi-agent spawned for: search, news
+[INFO][2026/05/10][18:57:57][NEWS_SEARCH] News search: mujhe aaj ki latest news Bata
+[INFO][2026/05/10][18:57:57][TAVILY_SEARCH] Tavily search: mujhe aaj ki latest news Bata
+[INFO][2026/05/10][18:57:59][SUCCESS_TAVILY_SUCCESS] Tavily search complete
+[INFO][2026/05/10][18:58:00][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][18:58:02][SUCCESS_AI_RESPONSE] Groq response in 2138ms [llama-3.1-8b-instant]
+[INFO][2026/05/10][18:58:02][SUCCESS_AGENT_DONE] Multi-agent complete
+[INFO][2026/05/10][18:58:02][SUCCESS_CHAT_DONE] Chat response in 4982ms
+[INFO][2026/05/10][18:58:02][VOICE_TTS] TTS request received
+[INFO][2026/05/10][18:58:02][VOICE_GEN] msEdge TTS initiated
+[INFO][2026/05/10][18:58:07][SUCCESS_VOICE_GEN] msEdge TTS audio ready
+[INFO][2026/05/10][19:01:24][SERVER_START] ZORIC Backend V2.0 started on port 5000
+[INFO][2026/05/10][19:01:24][SERVER_START] ZORIC V2.0 — DECODE. EXECUTE. COMMAND.
+[INFO][2026/05/10][19:01:27][DB_CONNECT] MongoDB Atlas Connected: ac-d5b1g54-shard-00-00.qeo8pgy.mongodb.net
+[INFO][2026/05/10][19:01:28][SUCCESS_INIT] ZORIC V2.0 initialized!
+[INFO][2026/05/10][19:01:43][SOCKET_CONNECT] Socket connected: Q-eLB3ci41mUdYJ6AAAB
+[INFO][2026/05/10][19:01:45][SOCKET_DISCONNECT] Socket disconnected: Q-eLB3ci41mUdYJ6AAAB
+[INFO][2026/05/10][19:01:45][SOCKET_CONNECT] Socket connected: sqa7NEF9qQBb3d-1AAAD
+[INFO][2026/05/10][19:01:45][SOCKET_DISCONNECT] Socket disconnected: sqa7NEF9qQBb3d-1AAAD
+[INFO][2026/05/10][19:01:46][SOCKET_CONNECT] Socket connected: cKXwM2a769FRzdetAAAF
+[INFO][2026/05/10][19:01:47][SOCKET_DISCONNECT] Socket disconnected: cKXwM2a769FRzdetAAAF
+[INFO][2026/05/10][19:01:49][SOCKET_CONNECT] Socket connected: 4k6xlw2adQwowlqeAAAI
+[INFO][2026/05/10][19:01:49][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/10][19:01:49][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/10][19:01:49][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/10][19:01:49][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/10][19:01:49][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/10][19:01:49][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/10][19:01:49][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/10][19:01:49][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/10][19:01:49][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/10][19:01:50][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/10][19:01:50][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/10][19:01:50][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/10][19:01:50][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/10][19:01:50][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/10][19:01:52][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][19:01:53][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][19:01:53][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][19:01:53][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][19:01:54][SUCCESS_AI_RESPONSE] Groq response in 1237ms [llama-3.1-8b-instant]
+[INFO][2026/05/10][19:01:54][SUCCESS_AGENT_DONE] Multi-agent complete
+[INFO][2026/05/10][19:01:54][SUCCESS_AI_RESPONSE] Groq response in 2243ms [llama-3.1-8b-instant]
+[INFO][2026/05/10][19:01:54][SUCCESS_AGENT_DONE] Multi-agent complete
+[INFO][2026/05/10][19:01:54][SUCCESS_CHAT_DONE] Chat response in 4163ms
+[INFO][2026/05/10][19:01:54][SUCCESS_CHAT_DONE] Chat response in 4606ms
+[INFO][2026/05/10][19:02:09][CHAT_MSG] User message: Mujhe Tera aaj ki latest news Bata...
+[INFO][2026/05/10][19:02:09][AGENT_MULTI] Multi-agent spawned for: search, news
+[INFO][2026/05/10][19:02:09][NEWS_SEARCH] News search: Mujhe Tera aaj ki latest news Bata
+[INFO][2026/05/10][19:02:09][TAVILY_SEARCH] Tavily search: Mujhe Tera aaj ki latest news Bata
+[INFO][2026/05/10][19:02:11][SUCCESS_TAVILY_SUCCESS] Tavily search complete
+[INFO][2026/05/10][19:02:12][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][19:02:24][SUCCESS_AI_RESPONSE] Groq response in 31134ms [llama-3.1-8b-instant]
+[INFO][2026/05/10][19:02:24][SUCCESS_AGENT_DONE] Multi-agent complete
+[INFO][2026/05/10][19:02:24][SUCCESS_CHAT_DONE] Chat response in 34345ms
+[WARN][2026/05/10][19:02:24][MODEL_FALLBACK] Rate limit on llama-3.1-8b-instant — switching to llama3-8b-8192
+[INFO][2026/05/10][19:02:24][AI_REQUEST] Groq API call: llama3-8b-8192
+[ERROR][2026/05/10][19:02:25][GROQ_ERROR] Groq error [llama3-8b-8192]: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[ERROR][2026/05/10][19:02:25][CHAT_ERROR] Chat error: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[INFO][2026/05/10][19:02:53][CHAT_MSG] User message: Mujhe Jara Bata ki...
+[INFO][2026/05/10][19:02:53][AGENT_MULTI] Multi-agent spawned for: search
+[INFO][2026/05/10][19:02:53][TAVILY_SEARCH] Tavily search: Mujhe Jara Bata ki
+[INFO][2026/05/10][19:02:55][SUCCESS_TAVILY_SUCCESS] Tavily search complete
+[INFO][2026/05/10][19:02:55][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][19:02:59][SUCCESS_AI_RESPONSE] Groq response in 4203ms [llama-3.1-8b-instant]
+[INFO][2026/05/10][19:02:59][SUCCESS_AGENT_DONE] Multi-agent complete
+[INFO][2026/05/10][19:03:00][SUCCESS_CHAT_DONE] Chat response in 6120ms
+[INFO][2026/05/10][19:03:00][VOICE_TTS] TTS request received
+[INFO][2026/05/10][19:03:00][VOICE_GEN] msEdge TTS initiated
+[WARN][2026/05/10][19:03:01][MODEL_FALLBACK] Rate limit on llama-3.1-8b-instant — switching to llama3-8b-8192
+[INFO][2026/05/10][19:03:01][AI_REQUEST] Groq API call: llama3-8b-8192
+[ERROR][2026/05/10][19:03:01][GROQ_ERROR] Groq error [llama3-8b-8192]: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[ERROR][2026/05/10][19:03:01][CHAT_ERROR] Chat error: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[INFO][2026/05/10][19:03:04][SUCCESS_VOICE_GEN] msEdge TTS audio ready
+[INFO][2026/05/10][19:04:32][SOCKET_DISCONNECT] Socket disconnected: 4k6xlw2adQwowlqeAAAI
+[INFO][2026/05/10][19:04:37][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/10][19:04:37][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/10][19:04:37][SOCKET_CONNECT] Socket connected: 4YJSVrpsAOwHoCSSAAAL
+[INFO][2026/05/10][19:04:37][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/10][19:04:37][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/10][19:04:37][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/10][19:04:37][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/10][19:04:37][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/10][19:04:37][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/10][19:04:37][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/10][19:04:37][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/10][19:04:37][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/10][19:04:37][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/10][19:04:37][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/10][19:04:37][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/10][19:04:39][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][19:04:40][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][19:04:40][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][19:04:40][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][19:04:40][SUCCESS_AI_RESPONSE] Groq response in 780ms [llama-3.1-8b-instant]
+[INFO][2026/05/10][19:04:40][SUCCESS_AGENT_DONE] Multi-agent complete
+[INFO][2026/05/10][19:04:40][SUCCESS_CHAT_DONE] Chat response in 3340ms
+[INFO][2026/05/10][19:04:40][SUCCESS_AI_RESPONSE] Groq response in 701ms [llama-3.1-8b-instant]
+[INFO][2026/05/10][19:04:40][SUCCESS_AGENT_DONE] Multi-agent complete
+[INFO][2026/05/10][19:04:40][SUCCESS_CHAT_DONE] Chat response in 3437ms
+[INFO][2026/05/10][19:04:57][CHAT_MSG] User message: Jara IPL ki news Bata ki cal Kaun Jita...
+[INFO][2026/05/10][19:04:57][BROWSER] Browser fetch: https://www.cricbuzz.com/cricket-match/live-scores
+[INFO][2026/05/10][19:04:58][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][19:04:59][SUCCESS_AI_RESPONSE] Groq response in 1051ms [llama-3.1-8b-instant]
+[INFO][2026/05/10][19:04:59][SUCCESS_BROWSER] Browser fetch done: Live Cricket Score | Scorecard | Live Commentary - IPL 2026 | Cricbuzz.com
+[INFO][2026/05/10][19:04:59][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][19:05:06][SUCCESS_AI_RESPONSE] Groq response in 7663ms [llama-3.1-8b-instant]
+[INFO][2026/05/10][19:05:07][VOICE_TTS] TTS request received
+[INFO][2026/05/10][19:05:07][VOICE_GEN] msEdge TTS initiated
+[INFO][2026/05/10][19:05:10][SUCCESS_VOICE_GEN] msEdge TTS audio ready
+[WARN][2026/05/10][19:05:31][MODEL_FALLBACK] Rate limit on llama-3.1-8b-instant — switching to llama3-8b-8192
+[INFO][2026/05/10][19:05:31][AI_REQUEST] Groq API call: llama3-8b-8192
+[INFO][2026/05/10][19:05:31][SUCCESS_AI_RESPONSE] Groq response in 50964ms [llama-3.1-8b-instant]
+[INFO][2026/05/10][19:05:31][SUCCESS_AGENT_DONE] Multi-agent complete
+[ERROR][2026/05/10][19:05:31][GROQ_ERROR] Groq error [llama3-8b-8192]: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[ERROR][2026/05/10][19:05:31][CHAT_ERROR] Chat error: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[INFO][2026/05/10][19:05:31][SUCCESS_CHAT_DONE] Chat response in 53815ms
+[INFO][2026/05/10][19:06:50][CHAT_MSG] User message: Aaj IPL ki koi match hai...
+[INFO][2026/05/10][19:06:50][BROWSER] Browser fetch: https://www.cricbuzz.com/cricket-match/live-scores
+[INFO][2026/05/10][19:06:51][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][19:06:52][SUCCESS_AI_RESPONSE] Groq response in 1086ms [llama-3.1-8b-instant]
+[INFO][2026/05/10][19:06:52][SUCCESS_BROWSER] Browser fetch done: Live Cricket Score | Scorecard | Live Commentary - IPL 2026 | Cricbuzz.com
+[INFO][2026/05/10][19:06:52][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][19:06:52][SUCCESS_AI_RESPONSE] Groq response in 517ms [llama-3.1-8b-instant]
+[INFO][2026/05/10][19:06:53][VOICE_TTS] TTS request received
+[INFO][2026/05/10][19:06:53][VOICE_GEN] msEdge TTS initiated
+[INFO][2026/05/10][19:06:58][SUCCESS_VOICE_GEN] msEdge TTS audio ready
+[INFO][2026/05/10][19:10:22][SOCKET_DISCONNECT] Socket disconnected: 4YJSVrpsAOwHoCSSAAAL
+[INFO][2026/05/10][19:11:19][SOCKET_CONNECT] Socket connected: SQpA6NyWPe00d_bJAAAN
+[INFO][2026/05/10][19:11:27][SOCKET_DISCONNECT] Socket disconnected: SQpA6NyWPe00d_bJAAAN
+[INFO][2026/05/10][19:11:49][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/10][19:11:49][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/10][19:11:49][SOCKET_CONNECT] Socket connected: rvnqA4CVKujVAwXCAAAQ
+[INFO][2026/05/10][19:11:49][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/10][19:11:49][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/10][19:11:49][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/10][19:11:49][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/10][19:11:49][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/10][19:11:50][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/10][19:11:50][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/10][19:11:50][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/10][19:11:50][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/10][19:11:50][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/10][19:11:50][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/10][19:11:50][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/10][19:11:53][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][19:11:53][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][19:11:53][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][19:11:53][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][19:11:53][SUCCESS_AI_RESPONSE] Groq response in 842ms [llama-3.1-8b-instant]
+[INFO][2026/05/10][19:11:53][SUCCESS_AGENT_DONE] Multi-agent complete
+[INFO][2026/05/10][19:11:53][SUCCESS_CHAT_DONE] Chat response in 3715ms
+[INFO][2026/05/10][19:12:08][CHAT_MSG] User message: IPL match kaun se match hai...
+[INFO][2026/05/10][19:12:08][BROWSER] Browser fetch: https://www.cricbuzz.com/cricket-match/live-scores
+[INFO][2026/05/10][19:12:08][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][19:12:09][SUCCESS_AI_RESPONSE] Groq response in 839ms [llama-3.1-8b-instant]
+[INFO][2026/05/10][19:12:09][SUCCESS_BROWSER] Browser fetch done: Live Cricket Score | Scorecard | Live Commentary - IPL 2026 | Cricbuzz.com
+[INFO][2026/05/10][19:12:09][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][19:12:28][SUCCESS_AI_RESPONSE] Groq response in 18647ms [llama-3.1-8b-instant]
+[INFO][2026/05/10][19:12:28][VOICE_TTS] TTS request received
+[INFO][2026/05/10][19:12:28][VOICE_GEN] msEdge TTS initiated
+[INFO][2026/05/10][19:12:35][SUCCESS_VOICE_GEN] msEdge TTS audio ready
+[WARN][2026/05/10][19:12:37][MODEL_FALLBACK] Rate limit on llama-3.1-8b-instant — switching to llama3-8b-8192
+[INFO][2026/05/10][19:12:37][AI_REQUEST] Groq API call: llama3-8b-8192
+[WARN][2026/05/10][19:12:37][MODEL_FALLBACK] Rate limit on llama-3.1-8b-instant — switching to llama3-8b-8192
+[INFO][2026/05/10][19:12:37][AI_REQUEST] Groq API call: llama3-8b-8192
+[ERROR][2026/05/10][19:12:37][GROQ_ERROR] Groq error [llama3-8b-8192]: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[ERROR][2026/05/10][19:12:37][CHAT_ERROR] Chat error: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[ERROR][2026/05/10][19:12:38][GROQ_ERROR] Groq error [llama3-8b-8192]: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[ERROR][2026/05/10][19:12:38][CHAT_ERROR] Chat error: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[WARN][2026/05/10][19:12:43][MODEL_FALLBACK] Rate limit on llama-3.1-8b-instant — switching to llama3-8b-8192
+[INFO][2026/05/10][19:12:43][AI_REQUEST] Groq API call: llama3-8b-8192
+[ERROR][2026/05/10][19:12:43][GROQ_ERROR] Groq error [llama3-8b-8192]: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[ERROR][2026/05/10][19:12:43][CHAT_ERROR] Chat error: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[INFO][2026/05/10][19:13:27][SOCKET_DISCONNECT] Socket disconnected: rvnqA4CVKujVAwXCAAAQ
+[INFO][2026/05/10][19:13:30][SOCKET_CONNECT] Socket connected: yV_kuuBIUvw00MytAAAT
+[INFO][2026/05/10][19:13:30][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/10][19:13:30][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/10][19:13:30][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/10][19:13:31][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/10][19:13:31][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/10][19:13:31][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/10][19:13:31][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/10][19:13:31][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/10][19:13:31][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/10][19:13:31][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/10][19:13:31][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/10][19:13:31][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/10][19:13:31][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/10][19:13:31][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/10][19:13:32][SOCKET_DISCONNECT] Socket disconnected: yV_kuuBIUvw00MytAAAT
+[INFO][2026/05/10][19:13:33][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][19:13:33][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][19:13:33][SUCCESS_AI_RESPONSE] Groq response in 548ms [llama-3.1-8b-instant]
+[INFO][2026/05/10][19:13:33][SUCCESS_AGENT_DONE] Multi-agent complete
+[INFO][2026/05/10][19:13:34][SUCCESS_CHAT_DONE] Chat response in 2635ms
+[INFO][2026/05/10][19:13:34][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][19:13:34][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][19:13:38][SUCCESS_AI_RESPONSE] Groq response in 4745ms [llama-3.1-8b-instant]
+[INFO][2026/05/10][19:13:38][SUCCESS_AGENT_DONE] Multi-agent complete
+[INFO][2026/05/10][19:13:38][SUCCESS_CHAT_DONE] Chat response in 7261ms
+[INFO][2026/05/10][19:13:53][BROWSER] Browser fetch: https://cricbuzz.com
+[INFO][2026/05/10][19:13:54][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/10][19:13:59][SUCCESS_AI_RESPONSE] Groq response in 5210ms [llama-3.1-8b-instant]
+[INFO][2026/05/10][19:13:59][SUCCESS_BROWSER] Browser fetch done: IPL 2026 | Live Cricket Score, Schedule, News, Stats &amp;amp; Videos  | Cricbuzz.com

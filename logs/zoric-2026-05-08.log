@@ -1,0 +1,1078 @@
+[INFO][2026/05/08][11:57:05][SERVER_START] ZORIC Backend V2.0 started on port 5000
+[INFO][2026/05/08][11:57:05][SERVER_START] ZORIC V2.0 — DECODE. EXECUTE. COMMAND.
+[INFO][2026/05/08][11:57:08][DB_CONNECT] MongoDB Atlas Connected: ac-d5b1g54-shard-00-01.qeo8pgy.mongodb.net
+[INFO][2026/05/08][11:57:08][SUCCESS_INIT] ZORIC V2.0 initialized!
+[INFO][2026/05/08][11:57:31][SOCKET_CONNECT] Socket connected: YfYOQlUkBbHTK0kWAAAC
+[INFO][2026/05/08][11:57:31][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][11:57:31][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][11:57:31][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][11:57:31][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][11:57:31][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][11:57:31][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][11:57:31][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][11:57:31][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][11:57:31][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][11:57:31][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][11:57:32][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][11:57:32][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][11:57:32][SUCCESS_AI_RESPONSE] Groq response received in 640ms
+[INFO][2026/05/08][11:57:32][SUCCESS_CHAT_DONE] Chat response in 642ms
+[INFO][2026/05/08][11:57:32][SUCCESS_AI_RESPONSE] Groq response received in 770ms
+[INFO][2026/05/08][11:57:32][SUCCESS_AI_RESPONSE] Groq response received in 680ms
+[INFO][2026/05/08][11:57:32][SUCCESS_CHAT_DONE] Chat response in 775ms
+[INFO][2026/05/08][11:57:32][SUCCESS_CHAT_DONE] Chat response in 684ms
+[INFO][2026/05/08][11:57:32][SUCCESS_AI_RESPONSE] Groq response received in 423ms
+[INFO][2026/05/08][11:57:32][SUCCESS_CHAT_DONE] Chat response in 427ms
+[INFO][2026/05/08][11:57:35][SOCKET_DISCONNECT] Socket disconnected: YfYOQlUkBbHTK0kWAAAC
+[INFO][2026/05/08][11:57:38][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][11:57:38][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][11:57:38][SOCKET_CONNECT] Socket connected: PdI21sQkJkgdrfHqAAAF
+[INFO][2026/05/08][11:57:38][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][11:57:38][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][11:57:38][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][11:57:38][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][11:57:38][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][11:57:38][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][11:57:38][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][11:57:38][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][11:57:38][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][11:57:38][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][11:57:39][SUCCESS_AI_RESPONSE] Groq response received in 541ms
+[INFO][2026/05/08][11:57:39][SUCCESS_CHAT_DONE] Chat response in 544ms
+[INFO][2026/05/08][11:57:39][SUCCESS_AI_RESPONSE] Groq response received in 565ms
+[INFO][2026/05/08][11:57:39][SUCCESS_CHAT_DONE] Chat response in 567ms
+[INFO][2026/05/08][11:57:39][SUCCESS_AI_RESPONSE] Groq response received in 677ms
+[INFO][2026/05/08][11:57:39][SUCCESS_CHAT_DONE] Chat response in 679ms
+[WARN][2026/05/08][11:57:48][AGENT_TIMEOUT] Single agent timed out, spawning multi-agents
+[INFO][2026/05/08][11:57:48][AGENT_MULTI] Multi-agent spawned: 2 agents
+[INFO][2026/05/08][11:57:48][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/08][11:57:51][SUCCESS_AI_RESPONSE] Groq response received in 12582ms
+[INFO][2026/05/08][11:57:52][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][11:58:04][SUCCESS_AI_RESPONSE] Groq response received in 12305ms
+[INFO][2026/05/08][11:58:04][SUCCESS_AGENT_DONE] Multi-agent task complete with 2 agents
+[INFO][2026/05/08][11:58:04][SUCCESS_CHAT_DONE] Chat response in 25571ms
+[INFO][2026/05/08][11:58:54][CHAT_MSG] User message: Play aari aari from Dhurandar...
+[INFO][2026/05/08][11:58:54][YT_SEARCH] YouTube search: aari aari  Dhurandar
+[INFO][2026/05/08][11:58:56][SUCCESS_YT_SEARCH] YouTube found 1 results
+[INFO][2026/05/08][11:58:56][VOICE_TTS] TTS request received
+[INFO][2026/05/08][11:58:56][VOICE_GEN] Piper TTS initiated
+[WARN][2026/05/08][11:58:56][VOICE_WARN] Piper not available, using fallback
+[INFO][2026/05/08][11:58:56][VOICE_FALLBACK] Using gTTS fallback
+[INFO][2026/05/08][11:59:01][SUCCESS_VOICE_FALLBACK] gTTS fallback audio ready
+[INFO][2026/05/08][11:59:54][SOCKET_CONNECT] Socket connected: u-A3ErJNZbk2iPBMAAAI
+[INFO][2026/05/08][11:59:54][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][11:59:54][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][11:59:54][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][11:59:54][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][11:59:54][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][11:59:54][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][11:59:55][SUCCESS_AI_RESPONSE] Groq response received in 520ms
+[INFO][2026/05/08][11:59:55][SUCCESS_CHAT_DONE] Chat response in 522ms
+[INFO][2026/05/08][11:59:55][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][11:59:55][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][11:59:55][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][11:59:55][SUCCESS_AI_RESPONSE] Groq response received in 822ms
+[INFO][2026/05/08][11:59:55][SUCCESS_CHAT_DONE] Chat response in 824ms
+[INFO][2026/05/08][11:59:55][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][11:59:56][SUCCESS_AI_RESPONSE] Groq response received in 337ms
+[INFO][2026/05/08][11:59:56][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][11:59:56][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][11:59:56][SUCCESS_CHAT_DONE] Chat response in 340ms
+[INFO][2026/05/08][11:59:56][SUCCESS_AI_RESPONSE] Groq response received in 642ms
+[INFO][2026/05/08][11:59:56][SUCCESS_CHAT_DONE] Chat response in 646ms
+[INFO][2026/05/08][11:59:57][SOCKET_DISCONNECT] Socket disconnected: PdI21sQkJkgdrfHqAAAF
+[INFO][2026/05/08][12:00:14][CHAT_MSG] User message: https://youtu.be/N0LAlTOU2jc?si=pswcsjsVb565Wygw...
+[INFO][2026/05/08][12:00:14][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][12:00:14][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][12:00:15][SUCCESS_AI_RESPONSE] Groq response received in 693ms
+[INFO][2026/05/08][12:00:15][SUCCESS_CHAT_DONE] Chat response in 728ms
+[INFO][2026/05/08][12:00:15][VOICE_TTS] TTS request received
+[INFO][2026/05/08][12:00:15][VOICE_GEN] Piper TTS initiated
+[WARN][2026/05/08][12:00:15][VOICE_WARN] Piper not available, using fallback
+[INFO][2026/05/08][12:00:15][VOICE_FALLBACK] Using gTTS fallback
+[INFO][2026/05/08][12:00:18][SUCCESS_VOICE_FALLBACK] gTTS fallback audio ready
+[INFO][2026/05/08][12:00:31][CHAT_MSG] User message: Nahi youtube se chala...
+[INFO][2026/05/08][12:00:31][YT_SEARCH] YouTube search: Nahi youtube se chala
+[INFO][2026/05/08][12:00:33][SUCCESS_YT_SEARCH] YouTube found 1 results
+[INFO][2026/05/08][12:00:33][VOICE_TTS] TTS request received
+[INFO][2026/05/08][12:00:33][VOICE_GEN] Piper TTS initiated
+[WARN][2026/05/08][12:00:33][VOICE_WARN] Piper not available, using fallback
+[INFO][2026/05/08][12:00:33][VOICE_FALLBACK] Using gTTS fallback
+[INFO][2026/05/08][12:00:35][SUCCESS_VOICE_FALLBACK] gTTS fallback audio ready
+[INFO][2026/05/08][12:00:57][CHAT_MSG] User message: Are yeh kya chala diya aari aari song chala yeh rh...
+[INFO][2026/05/08][12:00:59][VOICE_TTS] TTS request received
+[INFO][2026/05/08][12:00:59][VOICE_GEN] Piper TTS initiated
+[WARN][2026/05/08][12:00:59][VOICE_WARN] Piper not available, using fallback
+[INFO][2026/05/08][12:00:59][VOICE_FALLBACK] Using gTTS fallback
+[INFO][2026/05/08][12:01:01][SUCCESS_VOICE_FALLBACK] gTTS fallback audio ready
+[INFO][2026/05/08][12:01:19][CHAT_MSG] User message: Bro ab dhurandar title song chala...
+[INFO][2026/05/08][12:01:19][YT_SEARCH] YouTube search: Bro ab dhurandar title  chala
+[INFO][2026/05/08][12:01:21][SUCCESS_YT_SEARCH] YouTube found 1 results
+[INFO][2026/05/08][12:01:21][VOICE_TTS] TTS request received
+[INFO][2026/05/08][12:01:21][VOICE_GEN] Piper TTS initiated
+[WARN][2026/05/08][12:01:21][VOICE_WARN] Piper not available, using fallback
+[INFO][2026/05/08][12:01:21][VOICE_FALLBACK] Using gTTS fallback
+[INFO][2026/05/08][12:01:23][SUCCESS_VOICE_FALLBACK] gTTS fallback audio ready
+[INFO][2026/05/08][12:01:44][CHAT_MSG] User message: Bro full song chala...
+[INFO][2026/05/08][12:01:45][YT_SEARCH] YouTube search: Bro full  chala
+[INFO][2026/05/08][12:01:46][SUCCESS_YT_SEARCH] YouTube found 1 results
+[INFO][2026/05/08][12:01:46][VOICE_TTS] TTS request received
+[INFO][2026/05/08][12:01:46][VOICE_GEN] Piper TTS initiated
+[WARN][2026/05/08][12:01:46][VOICE_WARN] Piper not available, using fallback
+[INFO][2026/05/08][12:01:46][VOICE_FALLBACK] Using gTTS fallback
+[INFO][2026/05/08][12:01:48][SUCCESS_VOICE_FALLBACK] gTTS fallback audio ready
+[INFO][2026/05/08][12:02:09][CHAT_MSG] User message: Play dhurandar title track from T-Series...
+[INFO][2026/05/08][12:02:09][YT_SEARCH] YouTube search: dhurandar title   T-Series
+[INFO][2026/05/08][12:02:11][SUCCESS_YT_SEARCH] YouTube found 1 results
+[INFO][2026/05/08][12:02:11][VOICE_TTS] TTS request received
+[INFO][2026/05/08][12:02:11][VOICE_GEN] Piper TTS initiated
+[WARN][2026/05/08][12:02:11][VOICE_WARN] Piper not available, using fallback
+[INFO][2026/05/08][12:02:11][VOICE_FALLBACK] Using gTTS fallback
+[INFO][2026/05/08][12:02:14][SUCCESS_VOICE_FALLBACK] gTTS fallback audio ready
+[INFO][2026/05/08][12:03:39][SOCKET_DISCONNECT] Socket disconnected: u-A3ErJNZbk2iPBMAAAI
+[INFO][2026/05/08][12:03:50][SOCKET_CONNECT] Socket connected: EfCqaoe_iZJG7NzMAAAL
+[INFO][2026/05/08][12:03:50][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][12:03:50][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][12:03:50][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][12:03:50][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][12:03:50][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][12:03:50][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][12:03:50][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][12:03:50][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][12:03:50][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][12:03:50][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][12:03:50][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][12:03:50][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][12:03:50][SUCCESS_AI_RESPONSE] Groq response received in 420ms
+[INFO][2026/05/08][12:03:50][SUCCESS_AI_RESPONSE] Groq response received in 413ms
+[INFO][2026/05/08][12:03:50][SUCCESS_CHAT_DONE] Chat response in 421ms
+[INFO][2026/05/08][12:03:50][SUCCESS_CHAT_DONE] Chat response in 416ms
+[INFO][2026/05/08][12:03:50][SUCCESS_AI_RESPONSE] Groq response received in 537ms
+[INFO][2026/05/08][12:03:50][SUCCESS_AI_RESPONSE] Groq response received in 552ms
+[INFO][2026/05/08][12:03:50][SUCCESS_CHAT_DONE] Chat response in 541ms
+[INFO][2026/05/08][12:03:50][SUCCESS_CHAT_DONE] Chat response in 554ms
+[INFO][2026/05/08][12:04:07][CHAT_MSG] User message: play Dhurandhar tidal track from T-Series...
+[INFO][2026/05/08][12:04:07][YT_SEARCH] YouTube search: Dhurandhar tidal   T-Series
+[INFO][2026/05/08][12:04:08][SUCCESS_YT_SEARCH] YouTube found 1 results
+[INFO][2026/05/08][12:04:09][VOICE_TTS] TTS request received
+[INFO][2026/05/08][12:04:09][VOICE_GEN] Piper TTS initiated
+[WARN][2026/05/08][12:04:09][VOICE_WARN] Piper not available, using fallback
+[INFO][2026/05/08][12:04:09][VOICE_FALLBACK] Using gTTS fallback
+[INFO][2026/05/08][12:04:10][SUCCESS_VOICE_FALLBACK] gTTS fallback audio ready
+[INFO][2026/05/08][12:04:25][CHAT_MSG] User message: yah video unable Hai Koi Aur chala...
+[INFO][2026/05/08][12:04:25][YT_SEARCH] YouTube search: yah  unable Hai Koi Aur chala
+[INFO][2026/05/08][12:04:27][SUCCESS_YT_SEARCH] YouTube found 1 results
+[INFO][2026/05/08][12:04:27][VOICE_TTS] TTS request received
+[INFO][2026/05/08][12:04:27][VOICE_GEN] Piper TTS initiated
+[WARN][2026/05/08][12:04:28][VOICE_WARN] Piper not available, using fallback
+[INFO][2026/05/08][12:04:28][VOICE_FALLBACK] Using gTTS fallback
+[INFO][2026/05/08][12:04:28][SUCCESS_VOICE_FALLBACK] gTTS fallback audio ready
+[INFO][2026/05/08][12:04:47][CHAT_MSG] User message: Play dhurandar title song from T-Series...
+[INFO][2026/05/08][12:04:47][YT_SEARCH] YouTube search: dhurandar title   T-Series
+[INFO][2026/05/08][12:04:49][SUCCESS_YT_SEARCH] YouTube found 1 results
+[INFO][2026/05/08][12:04:49][VOICE_TTS] TTS request received
+[INFO][2026/05/08][12:04:49][VOICE_GEN] Piper TTS initiated
+[WARN][2026/05/08][12:04:49][VOICE_WARN] Piper not available, using fallback
+[INFO][2026/05/08][12:04:49][VOICE_FALLBACK] Using gTTS fallback
+[INFO][2026/05/08][12:04:52][SUCCESS_VOICE_FALLBACK] gTTS fallback audio ready
+[INFO][2026/05/08][12:05:44][SOCKET_DISCONNECT] Socket disconnected: EfCqaoe_iZJG7NzMAAAL
+[INFO][2026/05/08][12:06:52][SOCKET_CONNECT] Socket connected: z1OhatPfzLVqXJx_AAAO
+[INFO][2026/05/08][12:06:52][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][12:06:52][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][12:06:52][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][12:06:52][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][12:06:52][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][12:06:52][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][12:06:52][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][12:06:52][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][12:06:52][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][12:06:52][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][12:06:52][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][12:06:52][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][12:06:53][SUCCESS_AI_RESPONSE] Groq response received in 478ms
+[INFO][2026/05/08][12:06:53][SUCCESS_AI_RESPONSE] Groq response received in 479ms
+[INFO][2026/05/08][12:06:53][SUCCESS_AI_RESPONSE] Groq response received in 527ms
+[INFO][2026/05/08][12:06:53][SUCCESS_AI_RESPONSE] Groq response received in 519ms
+[INFO][2026/05/08][12:06:53][SUCCESS_CHAT_DONE] Chat response in 480ms
+[INFO][2026/05/08][12:06:53][SUCCESS_CHAT_DONE] Chat response in 481ms
+[INFO][2026/05/08][12:06:53][SUCCESS_CHAT_DONE] Chat response in 530ms
+[INFO][2026/05/08][12:06:53][SUCCESS_CHAT_DONE] Chat response in 520ms
+[INFO][2026/05/08][12:07:06][CHAT_MSG] User message: play Tum ho kahan song from YouTube...
+[INFO][2026/05/08][12:07:06][YT_SEARCH] YouTube search: Tum ho kahan   YouTube
+[INFO][2026/05/08][12:07:08][SUCCESS_YT_SEARCH] YouTube found 1 results
+[INFO][2026/05/08][12:07:08][VOICE_TTS] TTS request received
+[INFO][2026/05/08][12:07:08][VOICE_GEN] Piper TTS initiated
+[WARN][2026/05/08][12:07:08][VOICE_WARN] Piper not available, using fallback
+[INFO][2026/05/08][12:07:08][VOICE_FALLBACK] Using gTTS fallback
+[INFO][2026/05/08][12:07:09][SUCCESS_VOICE_FALLBACK] gTTS fallback audio ready
+[INFO][2026/05/08][12:07:18][SOCKET_DISCONNECT] Socket disconnected: z1OhatPfzLVqXJx_AAAO
+[INFO][2026/05/08][12:07:18][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][12:07:18][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][12:07:18][SOCKET_CONNECT] Socket connected: K7rAXE9BxR7BmQK1AAAR
+[INFO][2026/05/08][12:07:18][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][12:07:18][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][12:07:18][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][12:07:18][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][12:07:19][SUCCESS_AI_RESPONSE] Groq response received in 667ms
+[INFO][2026/05/08][12:07:19][SUCCESS_AI_RESPONSE] Groq response received in 651ms
+[INFO][2026/05/08][12:07:19][SUCCESS_CHAT_DONE] Chat response in 667ms
+[INFO][2026/05/08][12:07:19][SUCCESS_CHAT_DONE] Chat response in 652ms
+[INFO][2026/05/08][12:07:52][SOCKET_DISCONNECT] Socket disconnected: K7rAXE9BxR7BmQK1AAAR
+[INFO][2026/05/08][12:07:53][SOCKET_CONNECT] Socket connected: TcCEUE8Szztcun8IAAAU
+[INFO][2026/05/08][12:08:03][SOCKET_DISCONNECT] Socket disconnected: TcCEUE8Szztcun8IAAAU
+[INFO][2026/05/08][12:08:04][SOCKET_CONNECT] Socket connected: gd363P2JAkzSyq51AAAX
+[INFO][2026/05/08][12:08:07][SOCKET_DISCONNECT] Socket disconnected: gd363P2JAkzSyq51AAAX
+[INFO][2026/05/08][12:08:07][SOCKET_CONNECT] Socket connected: xhnA9sqS88iArH80AAAa
+[INFO][2026/05/08][12:08:14][SOCKET_DISCONNECT] Socket disconnected: xhnA9sqS88iArH80AAAa
+[INFO][2026/05/08][12:08:17][SOCKET_CONNECT] Socket connected: kMvJ7EqvRNtBLZu2AAAd
+[INFO][2026/05/08][12:08:50][SERVER_START] ZORIC Backend V2.0 started on port 5000
+[INFO][2026/05/08][12:08:50][SERVER_START] ZORIC V2.0 — DECODE. EXECUTE. COMMAND.
+[INFO][2026/05/08][12:08:51][DB_CONNECT] MongoDB Atlas Connected: ac-d5b1g54-shard-00-00.qeo8pgy.mongodb.net
+[INFO][2026/05/08][12:08:52][SUCCESS_INIT] ZORIC V2.0 initialized!
+[INFO][2026/05/08][12:09:02][SOCKET_CONNECT] Socket connected: oRHeTa8V3w20CGiCAAAC
+[INFO][2026/05/08][12:09:04][CHAT_MSG] User message: play Tu Hai Kahan song...
+[INFO][2026/05/08][12:09:04][YT_SEARCH] YouTube search: Tu Hai Kahan
+[INFO][2026/05/08][12:09:06][SUCCESS_YT_SEARCH] YouTube found 1 results
+[INFO][2026/05/08][12:09:07][VOICE_TTS] TTS request received
+[INFO][2026/05/08][12:09:07][VOICE_GEN] Piper TTS initiated
+[WARN][2026/05/08][12:09:07][VOICE_WARN] Piper not available, using fallback
+[INFO][2026/05/08][12:09:07][VOICE_FALLBACK] Using gTTS fallback
+[INFO][2026/05/08][12:09:08][SUCCESS_VOICE_FALLBACK] gTTS fallback audio ready
+[INFO][2026/05/08][12:09:30][CHAT_MSG] User message: Bandh kar...
+[INFO][2026/05/08][12:09:31][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][12:09:31][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][12:09:32][SUCCESS_AI_RESPONSE] Groq response received in 769ms
+[INFO][2026/05/08][12:09:32][SUCCESS_CHAT_DONE] Chat response in 796ms
+[INFO][2026/05/08][12:09:32][VOICE_TTS] TTS request received
+[INFO][2026/05/08][12:09:32][VOICE_GEN] Piper TTS initiated
+[WARN][2026/05/08][12:09:32][VOICE_WARN] Piper not available, using fallback
+[INFO][2026/05/08][12:09:32][VOICE_FALLBACK] Using gTTS fallback
+[INFO][2026/05/08][12:09:32][SUCCESS_VOICE_FALLBACK] gTTS fallback audio ready
+[INFO][2026/05/08][12:11:09][SOCKET_DISCONNECT] Socket disconnected: oRHeTa8V3w20CGiCAAAC
+[INFO][2026/05/08][12:11:23][SOCKET_CONNECT] Socket connected: u6kBlMI_U4CVahpzAAAF
+[INFO][2026/05/08][12:11:23][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][12:11:23][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][12:11:23][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][12:11:23][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][12:11:24][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][12:11:24][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][12:11:24][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][12:11:24][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][12:11:24][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][12:11:24][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][12:11:24][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][12:11:24][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][12:11:24][SUCCESS_AI_RESPONSE] Groq response received in 631ms
+[INFO][2026/05/08][12:11:24][SUCCESS_CHAT_DONE] Chat response in 633ms
+[INFO][2026/05/08][12:11:24][SUCCESS_AI_RESPONSE] Groq response received in 687ms
+[INFO][2026/05/08][12:11:24][SUCCESS_CHAT_DONE] Chat response in 688ms
+[INFO][2026/05/08][12:11:24][SUCCESS_AI_RESPONSE] Groq response received in 749ms
+[INFO][2026/05/08][12:11:24][SUCCESS_AI_RESPONSE] Groq response received in 822ms
+[INFO][2026/05/08][12:11:24][SUCCESS_CHAT_DONE] Chat response in 751ms
+[INFO][2026/05/08][12:11:24][SUCCESS_CHAT_DONE] Chat response in 824ms
+[INFO][2026/05/08][12:11:42][SOCKET_DISCONNECT] Socket disconnected: u6kBlMI_U4CVahpzAAAF
+[INFO][2026/05/08][12:11:52][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][12:11:52][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][12:11:52][SOCKET_CONNECT] Socket connected: ZMcj-eh6Xhrt0bSKAAAI
+[INFO][2026/05/08][12:11:52][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][12:11:52][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][12:11:52][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][12:11:52][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][12:11:52][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][12:11:52][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][12:11:52][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][12:11:52][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][12:11:52][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][12:11:52][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][12:11:53][SUCCESS_AI_RESPONSE] Groq response received in 640ms
+[INFO][2026/05/08][12:11:53][SUCCESS_AI_RESPONSE] Groq response received in 686ms
+[INFO][2026/05/08][12:11:53][SUCCESS_AI_RESPONSE] Groq response received in 663ms
+[INFO][2026/05/08][12:11:53][SUCCESS_CHAT_DONE] Chat response in 642ms
+[INFO][2026/05/08][12:11:53][SUCCESS_CHAT_DONE] Chat response in 690ms
+[INFO][2026/05/08][12:11:53][SUCCESS_CHAT_DONE] Chat response in 665ms
+[INFO][2026/05/08][12:11:53][SUCCESS_AI_RESPONSE] Groq response received in 672ms
+[INFO][2026/05/08][12:11:53][SUCCESS_CHAT_DONE] Chat response in 677ms
+[INFO][2026/05/08][12:11:54][SOCKET_DISCONNECT] Socket disconnected: ZMcj-eh6Xhrt0bSKAAAI
+[INFO][2026/05/08][12:12:04][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][12:12:04][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][12:12:04][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][12:12:04][SOCKET_CONNECT] Socket connected: _LfyfjyrH7vWUujrAAAL
+[INFO][2026/05/08][12:12:04][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][12:12:04][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][12:12:04][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][12:12:04][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][12:12:04][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][12:12:04][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][12:12:04][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][12:12:04][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][12:12:04][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][12:12:05][SUCCESS_AI_RESPONSE] Groq response received in 537ms
+[INFO][2026/05/08][12:12:05][SUCCESS_AI_RESPONSE] Groq response received in 559ms
+[INFO][2026/05/08][12:12:05][SUCCESS_AI_RESPONSE] Groq response received in 572ms
+[INFO][2026/05/08][12:12:05][SUCCESS_AI_RESPONSE] Groq response received in 560ms
+[INFO][2026/05/08][12:12:05][SUCCESS_CHAT_DONE] Chat response in 540ms
+[INFO][2026/05/08][12:12:05][SUCCESS_CHAT_DONE] Chat response in 562ms
+[INFO][2026/05/08][12:12:05][SUCCESS_CHAT_DONE] Chat response in 577ms
+[INFO][2026/05/08][12:12:05][SUCCESS_CHAT_DONE] Chat response in 561ms
+[INFO][2026/05/08][12:12:07][SOCKET_DISCONNECT] Socket disconnected: _LfyfjyrH7vWUujrAAAL
+[INFO][2026/05/08][12:12:12][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][12:12:12][SOCKET_CONNECT] Socket connected: -vuutpKWYl2l42hoAAAO
+[INFO][2026/05/08][12:12:12][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][12:12:12][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][12:12:12][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][12:12:12][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][12:12:12][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][12:12:12][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][12:12:12][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][12:12:12][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][12:12:12][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][12:12:12][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][12:12:12][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][12:12:13][SUCCESS_AI_RESPONSE] Groq response received in 591ms
+[INFO][2026/05/08][12:12:13][SUCCESS_CHAT_DONE] Chat response in 594ms
+[INFO][2026/05/08][12:12:13][SUCCESS_AI_RESPONSE] Groq response received in 633ms
+[INFO][2026/05/08][12:12:13][SUCCESS_AI_RESPONSE] Groq response received in 671ms
+[INFO][2026/05/08][12:12:13][SUCCESS_AI_RESPONSE] Groq response received in 667ms
+[INFO][2026/05/08][12:12:13][SUCCESS_CHAT_DONE] Chat response in 635ms
+[INFO][2026/05/08][12:12:13][SUCCESS_CHAT_DONE] Chat response in 672ms
+[INFO][2026/05/08][12:12:13][SUCCESS_CHAT_DONE] Chat response in 669ms
+[INFO][2026/05/08][12:12:14][SOCKET_DISCONNECT] Socket disconnected: -vuutpKWYl2l42hoAAAO
+[INFO][2026/05/08][12:12:15][SOCKET_CONNECT] Socket connected: brPPkHTs1Dp-RDVmAAAR
+[INFO][2026/05/08][12:12:15][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][12:12:15][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][12:12:16][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][12:12:16][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][12:12:16][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][12:12:16][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][12:12:16][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][12:12:16][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][12:12:16][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][12:12:16][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][12:12:16][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][12:12:16][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][12:12:16][SUCCESS_AI_RESPONSE] Groq response received in 693ms
+[INFO][2026/05/08][12:12:16][SUCCESS_AI_RESPONSE] Groq response received in 698ms
+[INFO][2026/05/08][12:12:16][SUCCESS_AI_RESPONSE] Groq response received in 741ms
+[INFO][2026/05/08][12:12:16][SUCCESS_AI_RESPONSE] Groq response received in 697ms
+[INFO][2026/05/08][12:12:16][SUCCESS_CHAT_DONE] Chat response in 698ms
+[INFO][2026/05/08][12:12:16][SUCCESS_CHAT_DONE] Chat response in 697ms
+[INFO][2026/05/08][12:12:16][SUCCESS_CHAT_DONE] Chat response in 744ms
+[INFO][2026/05/08][12:12:17][SUCCESS_CHAT_DONE] Chat response in 698ms
+[INFO][2026/05/08][12:12:28][CHAT_MSG] User message: Play Gamer Fleets letest video...
+[INFO][2026/05/08][12:12:28][YT_SEARCH] YouTube search: Gamer Fleets letest
+[INFO][2026/05/08][12:12:30][SUCCESS_YT_SEARCH] YouTube found 0 results
+[INFO][2026/05/08][12:12:30][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][12:12:30][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][12:12:31][SUCCESS_AI_RESPONSE] Groq response received in 864ms
+[INFO][2026/05/08][12:12:31][SUCCESS_CHAT_DONE] Chat response in 869ms
+[INFO][2026/05/08][12:12:31][VOICE_TTS] TTS request received
+[INFO][2026/05/08][12:12:31][VOICE_GEN] Piper TTS initiated
+[WARN][2026/05/08][12:12:31][VOICE_WARN] Piper not available, using fallback
+[INFO][2026/05/08][12:12:31][VOICE_FALLBACK] Using gTTS fallback
+[INFO][2026/05/08][12:12:31][SUCCESS_VOICE_FALLBACK] gTTS fallback audio ready
+[INFO][2026/05/08][12:12:45][CHAT_MSG] User message: Kk dede...
+[INFO][2026/05/08][12:12:45][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][12:12:45][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][12:12:46][SUCCESS_AI_RESPONSE] Groq response received in 675ms
+[INFO][2026/05/08][12:12:46][SUCCESS_CHAT_DONE] Chat response in 680ms
+[INFO][2026/05/08][12:12:46][VOICE_TTS] TTS request received
+[INFO][2026/05/08][12:12:46][VOICE_GEN] Piper TTS initiated
+[WARN][2026/05/08][12:12:46][VOICE_WARN] Piper not available, using fallback
+[INFO][2026/05/08][12:12:46][VOICE_FALLBACK] Using gTTS fallback
+[INFO][2026/05/08][12:12:47][SUCCESS_VOICE_FALLBACK] gTTS fallback audio ready
+[INFO][2026/05/08][12:12:58][CHAT_MSG] User message: Ok toh usko play karde...
+[INFO][2026/05/08][12:12:58][YT_SEARCH] YouTube search: Ok toh usko play karde
+[ERROR][2026/05/08][12:13:00][YT_ERROR] YouTube search error: Cannot read properties of undefined (reading 'sectionListRenderer')
+[WARN][2026/05/08][12:13:00][YT_WARN] YouTube search failed: Cannot read properties of undefined (reading 'sectionListRenderer')
+[INFO][2026/05/08][12:13:00][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][12:13:00][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][12:13:01][SUCCESS_AI_RESPONSE] Groq response received in 966ms
+[INFO][2026/05/08][12:13:01][SUCCESS_CHAT_DONE] Chat response in 972ms
+[INFO][2026/05/08][12:13:01][VOICE_TTS] TTS request received
+[INFO][2026/05/08][12:13:01][VOICE_GEN] Piper TTS initiated
+[WARN][2026/05/08][12:13:01][VOICE_WARN] Piper not available, using fallback
+[INFO][2026/05/08][12:13:01][VOICE_FALLBACK] Using gTTS fallback
+[INFO][2026/05/08][12:13:04][SUCCESS_VOICE_FALLBACK] gTTS fallback audio ready
+[INFO][2026/05/08][12:13:48][CHAT_MSG] User message: Play this video. https://youtu.be/WFZNB1JNwiw?si=p...
+[INFO][2026/05/08][12:13:50][VOICE_TTS] TTS request received
+[INFO][2026/05/08][12:13:50][VOICE_GEN] Piper TTS initiated
+[WARN][2026/05/08][12:13:50][VOICE_WARN] Piper not available, using fallback
+[INFO][2026/05/08][12:13:50][VOICE_FALLBACK] Using gTTS fallback
+[INFO][2026/05/08][12:13:50][SUCCESS_VOICE_FALLBACK] gTTS fallback audio ready
+[INFO][2026/05/08][12:54:16][SERVER_START] ZORIC Backend V2.0 started on port 5000
+[INFO][2026/05/08][12:54:16][SERVER_START] ZORIC V2.0 — DECODE. EXECUTE. COMMAND.
+[INFO][2026/05/08][12:54:19][DB_CONNECT] MongoDB Atlas Connected: ac-d5b1g54-shard-00-02.qeo8pgy.mongodb.net
+[INFO][2026/05/08][12:54:20][SUCCESS_INIT] ZORIC V2.0 initialized!
+[INFO][2026/05/08][12:54:43][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][12:54:43][SOCKET_CONNECT] Socket connected: yNgFhNWVMTrIo4XbAAAC
+[INFO][2026/05/08][12:54:43][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][12:54:43][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][12:54:43][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][12:54:44][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][12:54:44][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][12:54:44][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][12:54:44][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][12:54:44][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][12:54:44][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][12:54:44][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][12:54:44][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][12:54:44][SUCCESS_AI_RESPONSE] Groq response received in 778ms
+[INFO][2026/05/08][12:54:44][SUCCESS_CHAT_DONE] Chat response in 787ms
+[INFO][2026/05/08][12:54:44][SUCCESS_AI_RESPONSE] Groq response received in 649ms
+[INFO][2026/05/08][12:54:44][SUCCESS_CHAT_DONE] Chat response in 650ms
+[INFO][2026/05/08][12:54:44][SUCCESS_AI_RESPONSE] Groq response received in 859ms
+[INFO][2026/05/08][12:54:44][SUCCESS_AI_RESPONSE] Groq response received in 923ms
+[INFO][2026/05/08][12:54:45][SUCCESS_CHAT_DONE] Chat response in 862ms
+[INFO][2026/05/08][12:54:45][SUCCESS_CHAT_DONE] Chat response in 925ms
+[INFO][2026/05/08][12:55:18][CHAT_MSG] User message: Mere calander mai 8 may ko 2 PM ki meeting ka even...
+[ERROR][2026/05/08][12:55:18][CALENDAR_ERROR] Calendar error: No access, refresh token, API key or refresh handler callback is set.
+[INFO][2026/05/08][12:55:18][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][12:55:18][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][12:55:19][SUCCESS_AI_RESPONSE] Groq response received in 614ms
+[INFO][2026/05/08][12:55:19][SUCCESS_CHAT_DONE] Chat response in 634ms
+[INFO][2026/05/08][12:55:19][VOICE_TTS] TTS request received
+[INFO][2026/05/08][12:55:19][VOICE_GEN] Piper TTS initiated
+[WARN][2026/05/08][12:55:19][VOICE_WARN] Piper not available, using fallback
+[INFO][2026/05/08][12:55:19][VOICE_FALLBACK] Using gTTS fallback
+[INFO][2026/05/08][12:55:24][SUCCESS_VOICE_FALLBACK] gTTS fallback audio ready
+[INFO][2026/05/08][12:55:28][SOCKET_DISCONNECT] Socket disconnected: yNgFhNWVMTrIo4XbAAAC
+[INFO][2026/05/08][12:55:53][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][12:55:53][SOCKET_CONNECT] Socket connected: u2_c2SoV6BR-JH6qAAAF
+[INFO][2026/05/08][12:55:53][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][12:55:53][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][12:55:53][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][12:55:53][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][12:55:53][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][12:55:53][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][12:55:53][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][12:55:53][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][12:55:53][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][12:55:53][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][12:55:53][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][12:55:54][SUCCESS_AI_RESPONSE] Groq response received in 388ms
+[INFO][2026/05/08][12:55:54][SUCCESS_AI_RESPONSE] Groq response received in 411ms
+[INFO][2026/05/08][12:55:54][SUCCESS_CHAT_DONE] Chat response in 390ms
+[INFO][2026/05/08][12:55:54][SUCCESS_CHAT_DONE] Chat response in 413ms
+[INFO][2026/05/08][12:55:54][SUCCESS_AI_RESPONSE] Groq response received in 489ms
+[INFO][2026/05/08][12:55:54][SUCCESS_CHAT_DONE] Chat response in 490ms
+[INFO][2026/05/08][12:55:54][SUCCESS_AI_RESPONSE] Groq response received in 791ms
+[INFO][2026/05/08][12:55:54][SUCCESS_CHAT_DONE] Chat response in 795ms
+[INFO][2026/05/08][14:36:31][SERVER_START] ZORIC Backend V2.0 started on port 5000
+[INFO][2026/05/08][14:36:31][SERVER_START] ZORIC V2.0 — DECODE. EXECUTE. COMMAND.
+[INFO][2026/05/08][14:36:34][DB_CONNECT] MongoDB Atlas Connected: ac-d5b1g54-shard-00-01.qeo8pgy.mongodb.net
+[INFO][2026/05/08][14:36:34][SUCCESS_INIT] ZORIC V2.0 initialized!
+[INFO][2026/05/08][14:37:48][SERVER_START] ZORIC Backend V2.0 started on port 5000
+[INFO][2026/05/08][14:37:48][SERVER_START] ZORIC V2.0 — DECODE. EXECUTE. COMMAND.
+[INFO][2026/05/08][14:37:51][DB_CONNECT] MongoDB Atlas Connected: ac-d5b1g54-shard-00-00.qeo8pgy.mongodb.net
+[INFO][2026/05/08][14:37:52][SUCCESS_INIT] ZORIC V2.0 initialized!
+[INFO][2026/05/08][14:38:11][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][14:38:12][SOCKET_CONNECT] Socket connected: awd-RqEe6Kh94P5JAAAC
+[INFO][2026/05/08][14:38:12][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][14:38:12][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][14:38:12][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][14:38:12][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][14:38:12][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][14:38:12][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][14:38:12][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][14:38:12][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][14:38:12][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][14:38:12][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][14:38:12][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][14:38:12][SUCCESS_AI_RESPONSE] Groq response received in 432ms
+[INFO][2026/05/08][14:38:12][SUCCESS_AI_RESPONSE] Groq response received in 509ms
+[INFO][2026/05/08][14:38:12][SUCCESS_AI_RESPONSE] Groq response received in 595ms
+[INFO][2026/05/08][14:38:12][SUCCESS_CHAT_DONE] Chat response in 434ms
+[INFO][2026/05/08][14:38:12][SUCCESS_CHAT_DONE] Chat response in 511ms
+[INFO][2026/05/08][14:38:12][SUCCESS_CHAT_DONE] Chat response in 600ms
+[INFO][2026/05/08][14:38:13][SUCCESS_AI_RESPONSE] Groq response received in 611ms
+[INFO][2026/05/08][14:38:13][SUCCESS_CHAT_DONE] Chat response in 617ms
+[INFO][2026/05/08][14:38:21][SOCKET_DISCONNECT] Socket disconnected: awd-RqEe6Kh94P5JAAAC
+[INFO][2026/05/08][14:38:25][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][14:38:25][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][14:38:25][SOCKET_CONNECT] Socket connected: PMCXQTs6T9iuiX2kAAAF
+[INFO][2026/05/08][14:38:25][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][14:38:25][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][14:38:25][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][14:38:25][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][14:38:25][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][14:38:25][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][14:38:25][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][14:38:25][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][14:38:25][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][14:38:25][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][14:38:25][SUCCESS_AI_RESPONSE] Groq response received in 375ms
+[INFO][2026/05/08][14:38:25][SUCCESS_CHAT_DONE] Chat response in 379ms
+[INFO][2026/05/08][14:38:25][SUCCESS_AI_RESPONSE] Groq response received in 408ms
+[INFO][2026/05/08][14:38:25][SUCCESS_AI_RESPONSE] Groq response received in 357ms
+[INFO][2026/05/08][14:38:25][SUCCESS_CHAT_DONE] Chat response in 411ms
+[INFO][2026/05/08][14:38:25][SUCCESS_CHAT_DONE] Chat response in 363ms
+[INFO][2026/05/08][14:38:25][SUCCESS_AI_RESPONSE] Groq response received in 431ms
+[INFO][2026/05/08][14:38:25][SUCCESS_CHAT_DONE] Chat response in 433ms
+[INFO][2026/05/08][14:38:29][SOCKET_DISCONNECT] Socket disconnected: PMCXQTs6T9iuiX2kAAAF
+[INFO][2026/05/08][14:38:30][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][14:38:30][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][14:38:30][SOCKET_CONNECT] Socket connected: iY4SmOjJ_csBbMafAAAI
+[INFO][2026/05/08][14:38:30][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][14:38:30][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][14:38:30][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][14:38:30][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][14:38:30][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][14:38:30][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][14:38:30][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][14:38:30][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][14:38:30][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][14:38:30][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][14:38:30][SUCCESS_AI_RESPONSE] Groq response received in 378ms
+[INFO][2026/05/08][14:38:30][SUCCESS_CHAT_DONE] Chat response in 380ms
+[INFO][2026/05/08][14:38:30][SUCCESS_AI_RESPONSE] Groq response received in 431ms
+[INFO][2026/05/08][14:38:30][SUCCESS_AI_RESPONSE] Groq response received in 551ms
+[INFO][2026/05/08][14:38:30][SUCCESS_CHAT_DONE] Chat response in 434ms
+[INFO][2026/05/08][14:38:30][SUCCESS_AI_RESPONSE] Groq response received in 542ms
+[INFO][2026/05/08][14:38:30][SUCCESS_CHAT_DONE] Chat response in 554ms
+[INFO][2026/05/08][14:38:31][SUCCESS_CHAT_DONE] Chat response in 544ms
+[INFO][2026/05/08][14:38:34][CHAT_MSG] User message: Hello...
+[INFO][2026/05/08][14:38:34][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][14:38:34][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][14:38:34][SUCCESS_AI_RESPONSE] Groq response received in 393ms
+[INFO][2026/05/08][14:38:34][SUCCESS_CHAT_DONE] Chat response in 412ms
+[INFO][2026/05/08][14:38:34][VOICE_TTS] TTS request received
+[INFO][2026/05/08][14:38:34][VOICE_GEN] Piper TTS initiated
+[WARN][2026/05/08][14:38:35][VOICE_WARN] Piper not available, using fallback
+[INFO][2026/05/08][14:38:35][VOICE_FALLBACK] Using gTTS fallback
+[INFO][2026/05/08][14:38:37][SUCCESS_VOICE_FALLBACK] gTTS fallback audio ready
+[INFO][2026/05/08][14:40:55][SOCKET_DISCONNECT] Socket disconnected: iY4SmOjJ_csBbMafAAAI
+[INFO][2026/05/08][14:44:01][SERVER_START] ZORIC Backend V2.0 started on port 5000
+[INFO][2026/05/08][14:44:01][SERVER_START] ZORIC V2.0 — DECODE. EXECUTE. COMMAND.
+[INFO][2026/05/08][14:44:04][DB_CONNECT] MongoDB Atlas Connected: ac-d5b1g54-shard-00-01.qeo8pgy.mongodb.net
+[INFO][2026/05/08][14:44:05][SUCCESS_INIT] ZORIC V2.0 initialized!
+[INFO][2026/05/08][14:44:14][SOCKET_CONNECT] Socket connected: _MuA_SytzM5qjsF4AAAB
+[INFO][2026/05/08][14:44:17][CHAT_MSG] User message: Hi...
+[INFO][2026/05/08][14:44:17][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][14:44:17][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][14:44:18][SUCCESS_AI_RESPONSE] Groq response received in 884ms
+[INFO][2026/05/08][14:44:18][SUCCESS_CHAT_DONE] Chat response in 900ms
+[INFO][2026/05/08][14:44:18][VOICE_TTS] TTS request received
+[WARN][2026/05/08][14:44:18][VOICE_WARN] Edge TTS failed: Stripping types is currently unsupported for files under node_modules, for "/data/data/com.termux/files/home/zoric/backend/node_modules/edge-tts/index.ts" — using gTTS
+[INFO][2026/05/08][14:44:19][VOICE_FALLBACK] gTTS fallback initiated
+[INFO][2026/05/08][14:44:21][SUCCESS_VOICE_FALLBACK] gTTS fallback audio ready
+[INFO][2026/05/08][14:46:51][SERVER_START] ZORIC Backend V2.0 started on port 5000
+[INFO][2026/05/08][14:46:51][SERVER_START] ZORIC V2.0 — DECODE. EXECUTE. COMMAND.
+[INFO][2026/05/08][14:46:52][DB_CONNECT] MongoDB Atlas Connected: ac-d5b1g54-shard-00-00.qeo8pgy.mongodb.net
+[INFO][2026/05/08][14:46:52][SUCCESS_INIT] ZORIC V2.0 initialized!
+[INFO][2026/05/08][14:47:04][SOCKET_CONNECT] Socket connected: JlpgbVp3JhUePB2kAAAB
+[INFO][2026/05/08][14:47:27][CHAT_MSG] User message: Hello...
+[INFO][2026/05/08][14:47:27][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][14:47:27][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][14:47:28][SUCCESS_AI_RESPONSE] Groq response received in 973ms
+[INFO][2026/05/08][14:47:28][SUCCESS_CHAT_DONE] Chat response in 984ms
+[INFO][2026/05/08][14:47:28][VOICE_TTS] TTS request received
+[INFO][2026/05/08][14:47:28][VOICE_GEN] gTTS initiated
+[INFO][2026/05/08][14:47:30][SUCCESS_VOICE_GEN] gTTS audio ready
+[INFO][2026/05/08][14:48:13][SOCKET_DISCONNECT] Socket disconnected: JlpgbVp3JhUePB2kAAAB
+[INFO][2026/05/08][14:49:49][SERVER_START] ZORIC Backend V2.0 started on port 5000
+[INFO][2026/05/08][14:49:49][SERVER_START] ZORIC V2.0 — DECODE. EXECUTE. COMMAND.
+[INFO][2026/05/08][14:49:52][DB_CONNECT] MongoDB Atlas Connected: ac-d5b1g54-shard-00-01.qeo8pgy.mongodb.net
+[INFO][2026/05/08][14:49:52][SUCCESS_INIT] ZORIC V2.0 initialized!
+[INFO][2026/05/08][14:50:08][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][14:50:08][SOCKET_CONNECT] Socket connected: ycBgXgml7bAYY_NaAAAC
+[INFO][2026/05/08][14:50:08][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][14:50:08][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][14:50:08][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][14:50:08][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][14:50:08][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][14:50:08][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][14:50:08][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][14:50:08][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][14:50:08][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][14:50:09][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][14:50:09][AI_REQUEST] Groq API call initiated
+[ERROR][2026/05/08][14:50:09][GROQ_ERROR] Groq API error: 429 {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kkd5ych6e74vrwqvw30g9f77` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 98988, Requested 1800. Please try again in 11m20.832s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+[ERROR][2026/05/08][14:50:09][CHAT_ERROR] Chat error: 429 {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kkd5ych6e74vrwqvw30g9f77` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 98988, Requested 1800. Please try again in 11m20.832s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+[INFO][2026/05/08][14:50:09][SUCCESS_AI_RESPONSE] Groq response received in 497ms
+[ERROR][2026/05/08][14:50:09][GROQ_ERROR] Groq API error: 429 {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kkd5ych6e74vrwqvw30g9f77` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99840, Requested 1800. Please try again in 23m36.96s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+[ERROR][2026/05/08][14:50:09][CHAT_ERROR] Chat error: 429 {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kkd5ych6e74vrwqvw30g9f77` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99840, Requested 1800. Please try again in 23m36.96s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+[INFO][2026/05/08][14:50:09][SUCCESS_CHAT_DONE] Chat response in 502ms
+[INFO][2026/05/08][14:50:09][SUCCESS_AI_RESPONSE] Groq response received in 736ms
+[INFO][2026/05/08][14:50:09][SUCCESS_CHAT_DONE] Chat response in 739ms
+[INFO][2026/05/08][14:50:14][CHAT_MSG] User message: Hi bhai...
+[INFO][2026/05/08][14:50:14][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][14:50:14][AI_REQUEST] Groq API call initiated
+[ERROR][2026/05/08][14:50:14][GROQ_ERROR] Groq API error: 429 {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kkd5ych6e74vrwqvw30g9f77` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99814, Requested 814. Please try again in 9m2.592s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+[ERROR][2026/05/08][14:50:14][CHAT_ERROR] Chat error: 429 {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kkd5ych6e74vrwqvw30g9f77` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99814, Requested 814. Please try again in 9m2.592s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+[INFO][2026/05/08][14:50:23][SOCKET_DISCONNECT] Socket disconnected: ycBgXgml7bAYY_NaAAAC
+[INFO][2026/05/08][14:50:40][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][14:50:40][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][14:50:40][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][14:50:40][SOCKET_CONNECT] Socket connected: 78M4ZNj2tRofVJ6KAAAF
+[INFO][2026/05/08][14:50:40][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][14:50:40][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][14:50:40][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][14:50:40][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][14:50:40][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][14:50:40][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][14:50:40][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][14:50:40][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][14:50:40][AI_REQUEST] Groq API call initiated
+[ERROR][2026/05/08][14:50:40][GROQ_ERROR] Groq API error: 429 {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kkd5ych6e74vrwqvw30g9f77` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99784, Requested 755. Please try again in 7m45.696s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+[ERROR][2026/05/08][14:50:40][CHAT_ERROR] Chat error: 429 {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kkd5ych6e74vrwqvw30g9f77` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99784, Requested 755. Please try again in 7m45.696s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+[ERROR][2026/05/08][14:50:40][GROQ_ERROR] Groq API error: 429 {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kkd5ych6e74vrwqvw30g9f77` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99784, Requested 756. Please try again in 7m46.56s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+[ERROR][2026/05/08][14:50:40][CHAT_ERROR] Chat error: 429 {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kkd5ych6e74vrwqvw30g9f77` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99784, Requested 756. Please try again in 7m46.56s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+[ERROR][2026/05/08][14:50:40][GROQ_ERROR] Groq API error: 429 {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kkd5ych6e74vrwqvw30g9f77` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99784, Requested 810. Please try again in 8m33.216s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+[ERROR][2026/05/08][14:50:40][CHAT_ERROR] Chat error: 429 {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kkd5ych6e74vrwqvw30g9f77` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99784, Requested 810. Please try again in 8m33.216s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+[ERROR][2026/05/08][14:50:40][GROQ_ERROR] Groq API error: 429 {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kkd5ych6e74vrwqvw30g9f77` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99784, Requested 810. Please try again in 8m33.216s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+[ERROR][2026/05/08][14:50:40][CHAT_ERROR] Chat error: 429 {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kkd5ych6e74vrwqvw30g9f77` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99784, Requested 810. Please try again in 8m33.216s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+[INFO][2026/05/08][14:50:44][CHAT_MSG] User message: Hello...
+[INFO][2026/05/08][14:50:44][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][14:50:44][AI_REQUEST] Groq API call initiated
+[ERROR][2026/05/08][14:50:44][GROQ_ERROR] Groq API error: 429 {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kkd5ych6e74vrwqvw30g9f77` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99780, Requested 767. Please try again in 7m52.608s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+[ERROR][2026/05/08][14:50:44][CHAT_ERROR] Chat error: 429 {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kkd5ych6e74vrwqvw30g9f77` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99780, Requested 767. Please try again in 7m52.608s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+[INFO][2026/05/08][14:51:25][SOCKET_DISCONNECT] Socket disconnected: 78M4ZNj2tRofVJ6KAAAF
+[INFO][2026/05/08][14:52:50][SERVER_START] ZORIC Backend V2.0 started on port 5000
+[INFO][2026/05/08][14:52:50][SERVER_START] ZORIC V2.0 — DECODE. EXECUTE. COMMAND.
+[INFO][2026/05/08][14:52:53][DB_CONNECT] MongoDB Atlas Connected: ac-d5b1g54-shard-00-00.qeo8pgy.mongodb.net
+[INFO][2026/05/08][14:52:53][SUCCESS_INIT] ZORIC V2.0 initialized!
+[INFO][2026/05/08][14:53:00][SOCKET_CONNECT] Socket connected: 3_Jji0ifeojny-_1AAAC
+[INFO][2026/05/08][14:53:00][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][14:53:00][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][14:53:00][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][14:53:00][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][14:53:00][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][14:53:00][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][14:53:00][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][14:53:00][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][14:53:01][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][14:53:01][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][14:53:01][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][14:53:01][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][14:53:01][SUCCESS_AI_RESPONSE] Groq response received in 426ms
+[INFO][2026/05/08][14:53:01][SUCCESS_CHAT_DONE] Chat response in 431ms
+[INFO][2026/05/08][14:53:01][SUCCESS_AI_RESPONSE] Groq response received in 525ms
+[INFO][2026/05/08][14:53:01][SUCCESS_AI_RESPONSE] Groq response received in 484ms
+[INFO][2026/05/08][14:53:01][SUCCESS_CHAT_DONE] Chat response in 527ms
+[INFO][2026/05/08][14:53:01][SUCCESS_CHAT_DONE] Chat response in 487ms
+[INFO][2026/05/08][14:53:05][CHAT_MSG] User message: Hello...
+[INFO][2026/05/08][14:53:05][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][14:53:05][AI_REQUEST] Groq API call initiated
+[INFO][2026/05/08][14:53:06][SUCCESS_AI_RESPONSE] Groq response received in 5630ms
+[INFO][2026/05/08][14:53:06][SUCCESS_CHAT_DONE] Chat response in 5632ms
+[INFO][2026/05/08][14:53:08][SUCCESS_AI_RESPONSE] Groq response received in 2380ms
+[INFO][2026/05/08][14:53:08][SUCCESS_CHAT_DONE] Chat response in 2406ms
+[INFO][2026/05/08][14:53:08][VOICE_TTS] TTS request received
+[INFO][2026/05/08][14:53:08][VOICE_GEN] msEdge TTS initiated
+[INFO][2026/05/08][14:53:11][SUCCESS_VOICE_GEN] msEdge TTS audio ready
+[INFO][2026/05/08][14:54:57][SERVER_START] ZORIC Backend V2.0 started on port 5000
+[INFO][2026/05/08][14:54:57][SERVER_START] ZORIC V2.0 — DECODE. EXECUTE. COMMAND.
+[INFO][2026/05/08][14:54:58][DB_CONNECT] MongoDB Atlas Connected: ac-d5b1g54-shard-00-00.qeo8pgy.mongodb.net
+[INFO][2026/05/08][14:54:59][SUCCESS_INIT] ZORIC V2.0 initialized!
+[INFO][2026/05/08][14:55:06][SOCKET_CONNECT] Socket connected: YIJBwwMKzEdopWh_AAAB
+[INFO][2026/05/08][14:55:14][CHAT_MSG] User message: What is your name?...
+[INFO][2026/05/08][14:55:14][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][14:55:14][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/08][14:55:15][SUCCESS_AI_RESPONSE] Groq response in 461ms [llama-3.1-8b-instant]
+[INFO][2026/05/08][14:55:15][SUCCESS_CHAT_DONE] Chat response in 473ms
+[INFO][2026/05/08][14:55:15][VOICE_TTS] TTS request received
+[INFO][2026/05/08][14:55:15][VOICE_GEN] msEdge TTS initiated
+[INFO][2026/05/08][14:55:17][SUCCESS_VOICE_GEN] msEdge TTS audio ready
+[INFO][2026/05/08][14:56:07][CHAT_MSG] User message: Tum kya kya kar skte ho?...
+[INFO][2026/05/08][14:56:07][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][14:56:07][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/08][14:56:08][SUCCESS_AI_RESPONSE] Groq response in 719ms [llama-3.1-8b-instant]
+[INFO][2026/05/08][14:56:08][SUCCESS_CHAT_DONE] Chat response in 725ms
+[INFO][2026/05/08][14:56:08][VOICE_TTS] TTS request received
+[INFO][2026/05/08][14:56:08][VOICE_GEN] msEdge TTS initiated
+[INFO][2026/05/08][14:56:11][SUCCESS_VOICE_GEN] msEdge TTS audio ready
+[INFO][2026/05/08][14:56:54][CHAT_MSG] User message: Abhi time and year kons ahai and month...
+[INFO][2026/05/08][14:56:55][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][14:56:55][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/08][14:56:55][SUCCESS_AI_RESPONSE] Groq response in 498ms [llama-3.1-8b-instant]
+[INFO][2026/05/08][14:56:55][SUCCESS_CHAT_DONE] Chat response in 505ms
+[INFO][2026/05/08][14:56:55][VOICE_TTS] TTS request received
+[INFO][2026/05/08][14:56:55][VOICE_GEN] msEdge TTS initiated
+[INFO][2026/05/08][14:56:58][SUCCESS_VOICE_GEN] msEdge TTS audio ready
+[INFO][2026/05/08][14:58:35][SOCKET_DISCONNECT] Socket disconnected: YIJBwwMKzEdopWh_AAAB
+[INFO][2026/05/08][14:59:13][SERVER_START] ZORIC Backend V2.0 started on port 5000
+[INFO][2026/05/08][14:59:13][SERVER_START] ZORIC V2.0 — DECODE. EXECUTE. COMMAND.
+[INFO][2026/05/08][14:59:16][DB_CONNECT] MongoDB Atlas Connected: ac-d5b1g54-shard-00-01.qeo8pgy.mongodb.net
+[INFO][2026/05/08][14:59:16][SUCCESS_INIT] ZORIC V2.0 initialized!
+[INFO][2026/05/08][14:59:23][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][14:59:23][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][14:59:23][SOCKET_CONNECT] Socket connected: tvZzKxCjmeWs1cDZAAAC
+[INFO][2026/05/08][14:59:23][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][14:59:23][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][14:59:23][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/08][14:59:23][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][14:59:23][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/08][14:59:23][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][14:59:23][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/08][14:59:24][SUCCESS_AI_RESPONSE] Groq response in 704ms [llama-3.1-8b-instant]
+[INFO][2026/05/08][14:59:24][SUCCESS_AI_RESPONSE] Groq response in 554ms [llama-3.1-8b-instant]
+[INFO][2026/05/08][14:59:24][SUCCESS_AI_RESPONSE] Groq response in 377ms [llama-3.1-8b-instant]
+[INFO][2026/05/08][14:59:24][SUCCESS_CHAT_DONE] Chat response in 710ms
+[INFO][2026/05/08][14:59:24][SUCCESS_CHAT_DONE] Chat response in 556ms
+[INFO][2026/05/08][14:59:24][SUCCESS_CHAT_DONE] Chat response in 379ms
+[INFO][2026/05/08][14:59:24][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][14:59:24][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][14:59:24][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/08][14:59:33][SUCCESS_AI_RESPONSE] Groq response in 9610ms [llama-3.1-8b-instant]
+[INFO][2026/05/08][14:59:33][SUCCESS_CHAT_DONE] Chat response in 9614ms
+[INFO][2026/05/08][14:59:38][CHAT_MSG] User message: Abhi konsa year chalra hai...
+[INFO][2026/05/08][14:59:38][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][14:59:38][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/08][14:59:46][SUCCESS_AI_RESPONSE] Groq response in 7700ms [llama-3.1-8b-instant]
+[INFO][2026/05/08][14:59:46][SUCCESS_CHAT_DONE] Chat response in 7722ms
+[INFO][2026/05/08][14:59:46][VOICE_TTS] TTS request received
+[INFO][2026/05/08][14:59:46][VOICE_GEN] msEdge TTS initiated
+[INFO][2026/05/08][14:59:47][SUCCESS_VOICE_GEN] msEdge TTS audio ready
+[INFO][2026/05/08][15:00:32][SOCKET_DISCONNECT] Socket disconnected: tvZzKxCjmeWs1cDZAAAC
+[INFO][2026/05/08][15:01:09][SOCKET_CONNECT] Socket connected: WGw-8fLKDMuHHOR6AAAE
+[INFO][2026/05/08][15:01:26][SERVER_START] ZORIC Backend V2.0 started on port 5000
+[INFO][2026/05/08][15:01:26][SERVER_START] ZORIC V2.0 — DECODE. EXECUTE. COMMAND.
+[INFO][2026/05/08][15:01:27][DB_CONNECT] MongoDB Atlas Connected: ac-d5b1g54-shard-00-01.qeo8pgy.mongodb.net
+[INFO][2026/05/08][15:01:27][SUCCESS_INIT] ZORIC V2.0 initialized!
+[INFO][2026/05/08][15:01:34][SOCKET_CONNECT] Socket connected: Al4x4nAXecJnncZ_AAAB
+[INFO][2026/05/08][15:01:39][SOCKET_DISCONNECT] Socket disconnected: Al4x4nAXecJnncZ_AAAB
+[INFO][2026/05/08][15:01:40][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][15:01:40][SOCKET_CONNECT] Socket connected: wv1l9zmWU5wbPfVFAAAE
+[INFO][2026/05/08][15:01:40][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][15:01:40][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][15:01:40][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][15:01:40][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][15:01:40][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/08][15:01:40][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][15:01:40][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/08][15:01:40][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][15:01:40][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/08][15:01:40][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][15:01:40][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/08][15:01:41][SUCCESS_AI_RESPONSE] Groq response in 491ms [llama-3.1-8b-instant]
+[INFO][2026/05/08][15:01:41][SUCCESS_AI_RESPONSE] Groq response in 653ms [llama-3.1-8b-instant]
+[INFO][2026/05/08][15:01:41][SUCCESS_AI_RESPONSE] Groq response in 648ms [llama-3.1-8b-instant]
+[INFO][2026/05/08][15:01:41][SUCCESS_AI_RESPONSE] Groq response in 772ms [llama-3.1-8b-instant]
+[INFO][2026/05/08][15:01:41][SUCCESS_CHAT_DONE] Chat response in 493ms
+[INFO][2026/05/08][15:01:41][SUCCESS_CHAT_DONE] Chat response in 654ms
+[INFO][2026/05/08][15:01:41][SUCCESS_CHAT_DONE] Chat response in 650ms
+[INFO][2026/05/08][15:01:41][SUCCESS_CHAT_DONE] Chat response in 776ms
+[INFO][2026/05/08][15:02:00][SOCKET_DISCONNECT] Socket disconnected: wv1l9zmWU5wbPfVFAAAE
+[INFO][2026/05/08][15:02:01][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][15:02:01][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][15:02:01][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][15:02:01][SOCKET_CONNECT] Socket connected: iktWpp1Ukq5yTlpaAAAH
+[INFO][2026/05/08][15:02:01][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][15:02:01][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][15:02:01][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/08][15:02:01][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][15:02:01][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/08][15:02:01][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][15:02:01][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/08][15:02:01][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][15:02:01][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/08][15:02:01][SUCCESS_AI_RESPONSE] Groq response in 571ms [llama-3.1-8b-instant]
+[INFO][2026/05/08][15:02:01][SUCCESS_AI_RESPONSE] Groq response in 519ms [llama-3.1-8b-instant]
+[INFO][2026/05/08][15:02:01][SUCCESS_CHAT_DONE] Chat response in 576ms
+[INFO][2026/05/08][15:02:01][SUCCESS_CHAT_DONE] Chat response in 524ms
+[INFO][2026/05/08][15:02:01][SUCCESS_AI_RESPONSE] Groq response in 519ms [llama-3.1-8b-instant]
+[INFO][2026/05/08][15:02:01][SUCCESS_CHAT_DONE] Chat response in 521ms
+[INFO][2026/05/08][15:02:04][SUCCESS_AI_RESPONSE] Groq response in 2500ms [llama-3.1-8b-instant]
+[INFO][2026/05/08][15:02:04][SUCCESS_CHAT_DONE] Chat response in 2506ms
+[INFO][2026/05/08][15:02:05][CHAT_MSG] User message: Hello...
+[INFO][2026/05/08][15:02:05][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][15:02:05][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/08][15:02:13][SUCCESS_AI_RESPONSE] Groq response in 7630ms [llama-3.1-8b-instant]
+[INFO][2026/05/08][15:02:13][SUCCESS_CHAT_DONE] Chat response in 7640ms
+[INFO][2026/05/08][15:02:13][VOICE_TTS] TTS request received
+[INFO][2026/05/08][15:02:13][VOICE_GEN] msEdge TTS initiated
+[INFO][2026/05/08][15:02:15][SUCCESS_VOICE_GEN] msEdge TTS audio ready
+[INFO][2026/05/08][15:02:24][CHAT_MSG] User message: Aaj ki letest news bata...
+[INFO][2026/05/08][15:02:24][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][15:02:24][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/08][15:02:25][SUCCESS_AI_RESPONSE] Groq response in 596ms [llama-3.1-8b-instant]
+[INFO][2026/05/08][15:02:25][SUCCESS_CHAT_DONE] Chat response in 602ms
+[INFO][2026/05/08][15:02:25][VOICE_TTS] TTS request received
+[INFO][2026/05/08][15:02:25][VOICE_GEN] msEdge TTS initiated
+[INFO][2026/05/08][15:02:27][SUCCESS_VOICE_GEN] msEdge TTS audio ready
+[INFO][2026/05/08][15:02:45][CHAT_MSG] User message: Tu bata...
+[INFO][2026/05/08][15:02:45][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][15:02:45][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/08][15:02:46][SUCCESS_AI_RESPONSE] Groq response in 619ms [llama-3.1-8b-instant]
+[INFO][2026/05/08][15:02:46][SUCCESS_CHAT_DONE] Chat response in 624ms
+[INFO][2026/05/08][15:02:46][VOICE_TTS] TTS request received
+[INFO][2026/05/08][15:02:46][VOICE_GEN] msEdge TTS initiated
+[INFO][2026/05/08][15:02:49][SUCCESS_VOICE_GEN] msEdge TTS audio ready
+[INFO][2026/05/08][15:04:38][SERVER_START] ZORIC Backend V2.0 started on port 5000
+[INFO][2026/05/08][15:04:38][SERVER_START] ZORIC V2.0 — DECODE. EXECUTE. COMMAND.
+[INFO][2026/05/08][15:04:42][DB_CONNECT] MongoDB Atlas Connected: ac-d5b1g54-shard-00-00.qeo8pgy.mongodb.net
+[INFO][2026/05/08][15:04:42][SUCCESS_INIT] ZORIC V2.0 initialized!
+[INFO][2026/05/08][15:04:51][SOCKET_CONNECT] Socket connected: oSaukn0sohcGpJ-nAAAB
+[INFO][2026/05/08][15:04:59][SOCKET_DISCONNECT] Socket disconnected: oSaukn0sohcGpJ-nAAAB
+[INFO][2026/05/08][15:05:00][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][15:05:00][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][15:05:00][SOCKET_CONNECT] Socket connected: dW0a-tyHaLk6TJ_lAAAE
+[INFO][2026/05/08][15:05:00][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][15:05:00][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][15:05:01][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/08][15:05:01][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/08][15:05:01][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/08][15:05:01][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/08][15:05:01][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/08][15:05:01][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/08][15:05:01][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/08][15:05:01][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/08][15:05:01][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/08][15:05:01][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/08][15:05:03][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/08][15:05:03][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/08][15:05:03][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/08][15:05:03][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/08][15:05:04][SUCCESS_AI_RESPONSE] Groq response in 504ms [llama-3.1-8b-instant]
+[INFO][2026/05/08][15:05:04][SUCCESS_AGENT_DONE] Multi-agent complete
+[INFO][2026/05/08][15:05:04][SUCCESS_CHAT_DONE] Chat response in 3195ms
+[INFO][2026/05/08][15:05:04][SUCCESS_AI_RESPONSE] Groq response in 826ms [llama-3.1-8b-instant]
+[INFO][2026/05/08][15:05:04][SUCCESS_AGENT_DONE] Multi-agent complete
+[INFO][2026/05/08][15:05:04][SUCCESS_AI_RESPONSE] Groq response in 615ms [llama-3.1-8b-instant]
+[INFO][2026/05/08][15:05:04][SUCCESS_AGENT_DONE] Multi-agent complete
+[INFO][2026/05/08][15:05:04][SUCCESS_CHAT_DONE] Chat response in 3159ms
+[INFO][2026/05/08][15:05:04][SUCCESS_AI_RESPONSE] Groq response in 665ms [llama-3.1-8b-instant]
+[INFO][2026/05/08][15:05:04][SUCCESS_AGENT_DONE] Multi-agent complete
+[INFO][2026/05/08][15:05:04][SUCCESS_CHAT_DONE] Chat response in 3377ms
+[INFO][2026/05/08][15:05:04][SUCCESS_CHAT_DONE] Chat response in 3285ms
+[INFO][2026/05/08][15:05:09][CHAT_MSG] User message: Tell me todays letest news...
+[INFO][2026/05/08][15:05:09][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/08][15:05:09][NEWS_SEARCH] News search: Tell me todays letest news
+[INFO][2026/05/08][15:05:15][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/08][15:05:15][SUCCESS_AI_RESPONSE] Groq response in 909ms [llama-3.1-8b-instant]
+[INFO][2026/05/08][15:05:15][SUCCESS_AGENT_DONE] Multi-agent complete
+[INFO][2026/05/08][15:05:15][SUCCESS_CHAT_DONE] Chat response in 6518ms
+[INFO][2026/05/08][15:05:16][VOICE_TTS] TTS request received
+[INFO][2026/05/08][15:05:16][VOICE_GEN] msEdge TTS initiated
+[INFO][2026/05/08][15:05:21][SUCCESS_VOICE_GEN] msEdge TTS audio ready
+[INFO][2026/05/08][15:07:50][SOCKET_DISCONNECT] Socket disconnected: dW0a-tyHaLk6TJ_lAAAE
+[INFO][2026/05/08][21:58:33][SERVER_START] ZORIC Backend V2.0 started on port 5000
+[INFO][2026/05/08][21:58:33][SERVER_START] ZORIC V2.0 — DECODE. EXECUTE. COMMAND.
+[INFO][2026/05/08][21:58:37][DB_CONNECT] MongoDB Atlas Connected: ac-d5b1g54-shard-00-01.qeo8pgy.mongodb.net
+[INFO][2026/05/08][21:58:38][SUCCESS_INIT] ZORIC V2.0 initialized!
+[INFO][2026/05/08][21:59:20][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][21:59:20][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][21:59:20][SOCKET_CONNECT] Socket connected: rzF_6z4zVZpH2HRvAAAC
+[INFO][2026/05/08][21:59:21][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][21:59:21][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][21:59:21][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/08][21:59:21][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/08][21:59:21][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/08][21:59:21][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/08][21:59:21][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/08][21:59:21][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/08][21:59:21][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/08][21:59:21][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/08][21:59:21][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/08][21:59:21][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/08][21:59:24][SOCKET_DISCONNECT] Socket disconnected: rzF_6z4zVZpH2HRvAAAC
+[INFO][2026/05/08][21:59:24][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/08][21:59:25][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/08][21:59:25][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/08][21:59:25][SUCCESS_AI_RESPONSE] Groq response in 768ms [llama-3.1-8b-instant]
+[INFO][2026/05/08][21:59:25][SUCCESS_AGENT_DONE] Multi-agent complete
+[INFO][2026/05/08][21:59:25][SUCCESS_CHAT_DONE] Chat response in 4214ms
+[INFO][2026/05/08][21:59:25][SUCCESS_AI_RESPONSE] Groq response in 475ms [llama-3.1-8b-instant]
+[INFO][2026/05/08][21:59:25][SUCCESS_AGENT_DONE] Multi-agent complete
+[INFO][2026/05/08][21:59:25][SUCCESS_CHAT_DONE] Chat response in 4034ms
+[INFO][2026/05/08][21:59:25][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/08][21:59:31][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][21:59:31][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][21:59:31][SOCKET_CONNECT] Socket connected: pPd8sY9IZZe_4nu5AAAF
+[INFO][2026/05/08][21:59:31][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][21:59:31][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][21:59:31][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/08][21:59:31][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/08][21:59:32][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/08][21:59:32][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/08][21:59:32][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/08][21:59:32][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/08][21:59:32][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/08][21:59:32][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/08][21:59:32][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/08][21:59:32][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/08][21:59:36][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/08][21:59:36][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/08][21:59:36][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/08][21:59:36][SUCCESS_AI_RESPONSE] Groq response in 390ms [llama-3.1-8b-instant]
+[INFO][2026/05/08][21:59:36][SUCCESS_AGENT_DONE] Multi-agent complete
+[INFO][2026/05/08][21:59:36][SUCCESS_CHAT_DONE] Chat response in 3985ms
+[INFO][2026/05/08][21:59:37][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[WARN][2026/05/08][21:59:44][MODEL_FALLBACK] Rate limit on llama-3.1-8b-instant — switching to llama3-8b-8192
+[INFO][2026/05/08][21:59:44][AI_REQUEST] Groq API call: llama3-8b-8192
+[ERROR][2026/05/08][21:59:44][GROQ_ERROR] Groq error [llama3-8b-8192]: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[ERROR][2026/05/08][21:59:44][CHAT_ERROR] Chat error: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[WARN][2026/05/08][21:59:44][MODEL_FALLBACK] Rate limit on llama-3.1-8b-instant — switching to llama3-8b-8192
+[INFO][2026/05/08][21:59:44][AI_REQUEST] Groq API call: llama3-8b-8192
+[ERROR][2026/05/08][21:59:44][GROQ_ERROR] Groq error [llama3-8b-8192]: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[ERROR][2026/05/08][21:59:44][CHAT_ERROR] Chat error: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[WARN][2026/05/08][21:59:45][MODEL_FALLBACK] Rate limit on llama-3.1-8b-instant — switching to llama3-8b-8192
+[INFO][2026/05/08][21:59:45][AI_REQUEST] Groq API call: llama3-8b-8192
+[ERROR][2026/05/08][21:59:45][GROQ_ERROR] Groq error [llama3-8b-8192]: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[ERROR][2026/05/08][21:59:45][CHAT_ERROR] Chat error: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[INFO][2026/05/08][21:59:54][SUCCESS_AI_RESPONSE] Groq response in 16965ms [llama-3.1-8b-instant]
+[INFO][2026/05/08][21:59:54][SUCCESS_AGENT_DONE] Multi-agent complete
+[INFO][2026/05/08][21:59:54][SUCCESS_CHAT_DONE] Chat response in 21455ms
+[INFO][2026/05/08][21:59:54][SOCKET_DISCONNECT] Socket disconnected: pPd8sY9IZZe_4nu5AAAF
+[INFO][2026/05/08][21:59:55][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][21:59:55][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][21:59:55][SOCKET_CONNECT] Socket connected: 3vYUyHWE2a2Ib1AfAAAI
+[INFO][2026/05/08][21:59:55][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][21:59:55][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][21:59:55][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/08][21:59:55][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/08][21:59:55][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/08][21:59:55][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/08][21:59:55][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/08][21:59:55][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/08][21:59:55][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/08][21:59:55][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/08][21:59:56][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/08][21:59:56][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/08][21:59:59][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/08][21:59:59][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/08][21:59:59][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/08][21:59:59][SUCCESS_AI_RESPONSE] Groq response in 406ms [llama-3.1-8b-instant]
+[INFO][2026/05/08][21:59:59][SUCCESS_AGENT_DONE] Multi-agent complete
+[INFO][2026/05/08][21:59:59][SUCCESS_CHAT_DONE] Chat response in 3810ms
+[WARN][2026/05/08][21:59:59][MODEL_FALLBACK] Rate limit on llama-3.1-8b-instant — switching to llama3-8b-8192
+[INFO][2026/05/08][21:59:59][AI_REQUEST] Groq API call: llama3-8b-8192
+[ERROR][2026/05/08][21:59:59][GROQ_ERROR] Groq error [llama3-8b-8192]: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[ERROR][2026/05/08][21:59:59][CHAT_ERROR] Chat error: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[INFO][2026/05/08][22:00:00][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/08][22:00:13][SUCCESS_AI_RESPONSE] Groq response in 13986ms [llama-3.1-8b-instant]
+[INFO][2026/05/08][22:00:13][SUCCESS_AGENT_DONE] Multi-agent complete
+[INFO][2026/05/08][22:00:13][SUCCESS_CHAT_DONE] Chat response in 17220ms
+[INFO][2026/05/08][22:00:28][SUCCESS_AI_RESPONSE] Groq response in 28850ms [llama-3.1-8b-instant]
+[INFO][2026/05/08][22:00:28][SUCCESS_AGENT_DONE] Multi-agent complete
+[INFO][2026/05/08][22:00:28][SUCCESS_CHAT_DONE] Chat response in 32471ms
+[WARN][2026/05/08][22:00:37][MODEL_FALLBACK] Rate limit on llama-3.1-8b-instant — switching to llama3-8b-8192
+[INFO][2026/05/08][22:00:37][AI_REQUEST] Groq API call: llama3-8b-8192
+[ERROR][2026/05/08][22:00:37][GROQ_ERROR] Groq error [llama3-8b-8192]: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[ERROR][2026/05/08][22:00:37][CHAT_ERROR] Chat error: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[INFO][2026/05/08][22:00:46][CHAT_MSG] User message: play Dhurandhar title track...
+[INFO][2026/05/08][22:00:46][YT_SEARCH] YouTube search: Dhurandhar title
+[INFO][2026/05/08][22:00:48][SUCCESS_YT_SEARCH] YouTube found 1 results
+[INFO][2026/05/08][22:00:49][VOICE_TTS] TTS request received
+[INFO][2026/05/08][22:00:49][VOICE_GEN] msEdge TTS initiated
+[INFO][2026/05/08][22:00:50][SUCCESS_VOICE_GEN] msEdge TTS audio ready
+[INFO][2026/05/08][22:01:22][CHAT_MSG] User message: what is your name...
+[INFO][2026/05/08][22:01:22][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][22:01:22][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/08][22:01:23][SUCCESS_AI_RESPONSE] Groq response in 542ms [llama-3.1-8b-instant]
+[INFO][2026/05/08][22:01:23][SUCCESS_CHAT_DONE] Chat response in 566ms
+[INFO][2026/05/08][22:01:23][VOICE_TTS] TTS request received
+[INFO][2026/05/08][22:01:23][VOICE_GEN] msEdge TTS initiated
+[INFO][2026/05/08][22:01:25][SUCCESS_VOICE_GEN] msEdge TTS audio ready
+[INFO][2026/05/08][22:01:44][CHAT_MSG] User message: Mai khud owner hu NinjaGamerz...
+[INFO][2026/05/08][22:01:44][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][22:01:44][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/08][22:01:45][SUCCESS_AI_RESPONSE] Groq response in 671ms [llama-3.1-8b-instant]
+[INFO][2026/05/08][22:01:45][SUCCESS_CHAT_DONE] Chat response in 679ms
+[INFO][2026/05/08][22:01:45][VOICE_TTS] TTS request received
+[INFO][2026/05/08][22:01:45][VOICE_GEN] msEdge TTS initiated
+[INFO][2026/05/08][22:01:47][SUCCESS_VOICE_GEN] msEdge TTS audio ready
+[INFO][2026/05/08][22:02:10][CHAT_MSG] User message: Mera schedule bata...
+[ERROR][2026/05/08][22:02:10][CALENDAR_ERROR] Calendar error: No access, refresh token, API key or refresh handler callback is set.
+[INFO][2026/05/08][22:02:10][AGENT_MULTI] Multi-agent spawned for: search
+[INFO][2026/05/08][22:02:10][TAVILY_SEARCH] Tavily search: Mera schedule bata
+[INFO][2026/05/08][22:02:12][SUCCESS_TAVILY_SUCCESS] Tavily search complete
+[INFO][2026/05/08][22:02:12][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/08][22:02:13][SUCCESS_AI_RESPONSE] Groq response in 675ms [llama-3.1-8b-instant]
+[INFO][2026/05/08][22:02:13][SUCCESS_AGENT_DONE] Multi-agent complete
+[INFO][2026/05/08][22:02:13][SUCCESS_CHAT_DONE] Chat response in 3087ms
+[INFO][2026/05/08][22:02:13][VOICE_TTS] TTS request received
+[INFO][2026/05/08][22:02:13][VOICE_GEN] msEdge TTS initiated
+[INFO][2026/05/08][22:02:16][SUCCESS_VOICE_GEN] msEdge TTS audio ready
+[INFO][2026/05/08][22:03:42][CHAT_MSG] User message: aaj main bahut khush Hun To Koi Achcha song Chala ...
+[INFO][2026/05/08][22:03:42][YT_SEARCH] YouTube search: aaj main bahut khush Hun To Koi Achcha  Chala De
+[INFO][2026/05/08][22:03:44][SUCCESS_YT_SEARCH] YouTube found 1 results
+[INFO][2026/05/08][22:03:44][VOICE_TTS] TTS request received
+[INFO][2026/05/08][22:03:44][VOICE_GEN] msEdge TTS initiated
+[INFO][2026/05/08][22:03:46][SUCCESS_VOICE_GEN] msEdge TTS audio ready
+[INFO][2026/05/08][22:04:24][CHAT_MSG] User message: Are Aaj Mera mood bahut accha hai toh uss hishaab ...
+[INFO][2026/05/08][22:04:24][YT_SEARCH] YouTube search: Are Aaj Mera mood bahut accha hai toh uss hishaab se koi  chala
+[INFO][2026/05/08][22:04:26][SUCCESS_YT_SEARCH] YouTube found 1 results
+[INFO][2026/05/08][22:04:27][VOICE_TTS] TTS request received
+[INFO][2026/05/08][22:04:27][VOICE_GEN] msEdge TTS initiated
+[INFO][2026/05/08][22:04:29][SUCCESS_VOICE_GEN] msEdge TTS audio ready
+[INFO][2026/05/08][22:04:53][CHAT_MSG] User message: Play aari aari from Dhurandar...
+[INFO][2026/05/08][22:04:53][YT_SEARCH] YouTube search: aari aari  Dhurandar
+[INFO][2026/05/08][22:04:55][SUCCESS_YT_SEARCH] YouTube found 1 results
+[INFO][2026/05/08][22:04:55][VOICE_TTS] TTS request received
+[INFO][2026/05/08][22:04:55][VOICE_GEN] msEdge TTS initiated
+[INFO][2026/05/08][22:04:58][SUCCESS_VOICE_GEN] msEdge TTS audio ready
+[INFO][2026/05/08][22:05:16][CHAT_MSG] User message: Yeh video unavailable hai kisi aur channel se aari...
+[INFO][2026/05/08][22:05:16][YT_CHANNEL] Channel search: aur
+[INFO][2026/05/08][22:05:16][YT_SEARCH] YouTube search: aur latest videos
+[INFO][2026/05/08][22:05:17][SUCCESS_YT_SEARCH] YouTube found 5 results
+[INFO][2026/05/08][22:05:18][VOICE_TTS] TTS request received
+[INFO][2026/05/08][22:05:18][VOICE_GEN] msEdge TTS initiated
+[INFO][2026/05/08][22:05:19][SUCCESS_VOICE_GEN] msEdge TTS audio ready
+[INFO][2026/05/08][22:05:47][CHAT_MSG] User message: Play Aari Aari Song...
+[INFO][2026/05/08][22:05:47][YT_SEARCH] YouTube search: Aari Aari
+[INFO][2026/05/08][22:05:49][SUCCESS_YT_SEARCH] YouTube found 1 results
+[INFO][2026/05/08][22:05:49][VOICE_TTS] TTS request received
+[INFO][2026/05/08][22:05:49][VOICE_GEN] msEdge TTS initiated
+[INFO][2026/05/08][22:05:50][SUCCESS_VOICE_GEN] msEdge TTS audio ready
+[INFO][2026/05/08][22:06:15][CHAT_MSG] User message: Play pal pal...
+[INFO][2026/05/08][22:06:15][YT_SEARCH] YouTube search: pal pal
+[INFO][2026/05/08][22:06:17][SUCCESS_YT_SEARCH] YouTube found 1 results
+[INFO][2026/05/08][22:06:18][VOICE_TTS] TTS request received
+[INFO][2026/05/08][22:06:18][VOICE_GEN] msEdge TTS initiated
+[INFO][2026/05/08][22:06:19][SUCCESS_VOICE_GEN] msEdge TTS audio ready
+[INFO][2026/05/08][22:08:00][SOCKET_DISCONNECT] Socket disconnected: 3vYUyHWE2a2Ib1AfAAAI
+[INFO][2026/05/08][22:08:31][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][22:08:31][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][22:08:31][SOCKET_CONNECT] Socket connected: vtlCTBg885r4gcfsAAAL
+[INFO][2026/05/08][22:08:31][CHAT_MSG] User message: current weather today brief one line...
+[INFO][2026/05/08][22:08:31][CHAT_MSG] User message: give me 3 latest news headlines only as bullet poi...
+[INFO][2026/05/08][22:08:31][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/08][22:08:31][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/08][22:08:31][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/08][22:08:31][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/08][22:08:31][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/08][22:08:31][AGENT_MULTI] Multi-agent spawned for: weather, news
+[INFO][2026/05/08][22:08:31][NEWS_SEARCH] News search: current weather today brief one line
+[INFO][2026/05/08][22:08:31][WEATHER_SEARCH] Weather search: today brief one line
+[INFO][2026/05/08][22:08:31][AGENT_MULTI] Multi-agent spawned for: news
+[INFO][2026/05/08][22:08:31][NEWS_SEARCH] News search: give me 3 latest news headlines only as bullet points
+[INFO][2026/05/08][22:08:34][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/08][22:08:34][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/08][22:08:34][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/08][22:08:34][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/08][22:08:35][SUCCESS_AI_RESPONSE] Groq response in 651ms [llama-3.1-8b-instant]
+[INFO][2026/05/08][22:08:35][SUCCESS_AGENT_DONE] Multi-agent complete
+[INFO][2026/05/08][22:08:35][SUCCESS_AI_RESPONSE] Groq response in 664ms [llama-3.1-8b-instant]
+[INFO][2026/05/08][22:08:35][SUCCESS_AGENT_DONE] Multi-agent complete
+[INFO][2026/05/08][22:08:35][SUCCESS_CHAT_DONE] Chat response in 3458ms
+[INFO][2026/05/08][22:08:35][SUCCESS_CHAT_DONE] Chat response in 3484ms
+[INFO][2026/05/08][22:08:46][SUCCESS_AI_RESPONSE] Groq response in 11707ms [llama-3.1-8b-instant]
+[INFO][2026/05/08][22:08:46][SUCCESS_AGENT_DONE] Multi-agent complete
+[INFO][2026/05/08][22:08:46][SUCCESS_CHAT_DONE] Chat response in 14732ms
+[WARN][2026/05/08][22:08:52][MODEL_FALLBACK] Rate limit on llama-3.1-8b-instant — switching to llama3-8b-8192
+[INFO][2026/05/08][22:08:52][AI_REQUEST] Groq API call: llama3-8b-8192
+[ERROR][2026/05/08][22:08:52][GROQ_ERROR] Groq error [llama3-8b-8192]: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[ERROR][2026/05/08][22:08:52][CHAT_ERROR] Chat error: 400 {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+[INFO][2026/05/08][22:08:54][CHAT_MSG] User message: Play gehra huaa from dhurandar...
+[INFO][2026/05/08][22:08:54][YT_SEARCH] YouTube search: gehra huaa  dhurandar
+[INFO][2026/05/08][22:08:57][SUCCESS_YT_SEARCH] YouTube found 1 results
+[INFO][2026/05/08][22:08:57][VOICE_TTS] TTS request received
+[INFO][2026/05/08][22:08:57][VOICE_GEN] msEdge TTS initiated
+[INFO][2026/05/08][22:08:59][SUCCESS_VOICE_GEN] msEdge TTS audio ready
+[INFO][2026/05/08][22:09:16][CHAT_MSG] User message: Volume badha...
+[INFO][2026/05/08][22:09:16][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][22:09:16][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/08][22:09:17][SUCCESS_AI_RESPONSE] Groq response in 492ms [llama-3.1-8b-instant]
+[INFO][2026/05/08][22:09:17][SUCCESS_CHAT_DONE] Chat response in 500ms
+[INFO][2026/05/08][22:09:17][VOICE_TTS] TTS request received
+[INFO][2026/05/08][22:09:17][VOICE_GEN] msEdge TTS initiated
+[INFO][2026/05/08][22:09:19][SUCCESS_VOICE_GEN] msEdge TTS audio ready
+[INFO][2026/05/08][22:09:42][CHAT_MSG] User message: Stop...
+[INFO][2026/05/08][22:09:42][AGENT_SINGLE] Single agent handling request
+[INFO][2026/05/08][22:09:42][AI_REQUEST] Groq API call: llama-3.1-8b-instant
+[INFO][2026/05/08][22:09:43][SUCCESS_AI_RESPONSE] Groq response in 394ms [llama-3.1-8b-instant]
+[INFO][2026/05/08][22:09:43][SUCCESS_CHAT_DONE] Chat response in 400ms
+[INFO][2026/05/08][22:09:43][VOICE_TTS] TTS request received
+[INFO][2026/05/08][22:09:43][VOICE_GEN] msEdge TTS initiated
+[INFO][2026/05/08][22:09:44][SUCCESS_VOICE_GEN] msEdge TTS audio ready
